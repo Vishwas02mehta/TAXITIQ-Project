@@ -1,0 +1,99 @@
+Q101: MAT (Minimum Alternate Tax) on companies has generally been levied at 15% of book profit (plus surcharge and cess) in recent years, analogous to old Section 115JB. Exact 2025 Act rate/conditions not confirmed.
+
+Q102: AMT (Alternate Minimum Tax) for non-corporate assessees claiming specified deductions has generally been levied at 18.5% of adjusted total income (plus surcharge and cess), with a higher exemption threshold and lower rate for certain individuals/HUFs/AOPs in recent amendments, analogous to old Section 115JC. Exact 2025 Act rate/conditions not confirmed.
+
+Q103: Short-term capital gains tax on specified securities (equity shares/equity mutual funds/business trust units subject to STT) has generally been taxed at a flat rate — historically 15%, increased to 20% in a recent Finance Act — analogous to old Section 111A. Exact 2025 Act rate not confirmed.
+
+Q104: Long-term capital gains tax on specified securities (equity shares/equity mutual funds/business trust units subject to STT) has generally been taxed at a flat rate on gains exceeding a specified exemption threshold — historically 10% above Rs. 1 lakh, later revised to 12.5% above Rs. 1.25 lakh in a recent Finance Act — analogous to old Section 112A. Exact 2025 Act rate/threshold not confirmed.
+
+Q105: Income from transfer of virtual digital assets (crypto/VDAs) has generally been taxed at a flat 30% rate, with no deduction for expenses (except cost of acquisition) and no loss set-off/carry-forward allowed, analogous to old Section 115BBH. Exact 2025 Act rate/conditions not confirmed.
+
+Q106: TDS on transfer of virtual digital assets has generally been deducted at 1%, subject to specified threshold exemptions for small transactions (historically Rs. 50,000/Rs. 10,000 depending on payer category), analogous to old Section 194S. Exact 2025 Act rate/threshold not confirmed.
+
+Q107: TDS on cash withdrawals has generally been deducted at 2% on withdrawals exceeding Rs. 1 crore in a year (with a lower threshold of Rs. 20 lakh and higher rate of 2%/5% for non-filers of income tax returns), analogous to old Section 194N. Exact 2025 Act thresholds/rates not confirmed.
+
+Q108: TDS on benefits/perquisites arising from business or profession has generally been deducted at 10% where the aggregate value exceeds a specified threshold in a year (historically Rs. 20,000), analogous to old Section 194R. Exact 2025 Act threshold/rate not confirmed.
+
+Q109: Net winnings from online games have generally been taxed at a flat 30% rate, analogous to old Section 115BBJ. Exact 2025 Act rate/conditions not confirmed.
+
+Q110: TDS on net winnings from online games has generally been deducted at 30%, generally without a minimum threshold exemption (deductible on net winnings at the time of withdrawal or at year-end), analogous to old Section 194BA. Exact 2025 Act conditions not confirmed.
+
+Q111: I am not confident of the exact current perquisite valuation percentages for employer-provided accommodation under Rule 3 (these have historically varied by city population category and were revised in recent years, e.g., percentages like 10%/7.5%/5% of salary tiered by city population after a 2023 revision). I cannot confirm the exact current percentages/slabs.
+
+Q112: I am not confident of the exact current formula/asset-rate details under Rule 11UA for valuation of unquoted equity shares (broadly, fair market value is computed based on net asset value using book value or, in some cases, discounted cash flow/other prescribed methods). I cannot confirm the precise current formula or rate figures without inventing specifics.
+
+Q113: Transport allowance exemption for blind/deaf-and-dumb/orthopedically handicapped employees has historically been Rs. 3,200 per month under Rule 2BB. I cannot fully confirm this figure remains unchanged as of the 2025/2026 framework.
+
+Q114: Children's education allowance exemption has historically been Rs. 100 per month per child (up to 2 children) under Rule 2BB. I cannot fully confirm this figure remains unchanged as of the 2025/2026 framework (this amount has been considered outdated for a long time but I'm not certain it's been revised).
+
+Q115: Hostel expenditure allowance exemption has historically been Rs. 300 per month per child (up to 2 children) under Rule 2BB. I cannot fully confirm this figure remains unchanged as of the 2025/2026 framework.
+
+Q116: I cannot answer this. I have no reliable record of "CBDT Circular 4/2026" or its claimed interest rate relaxation threshold, and I should not fabricate specific circular content I cannot verify.
+
+Q117: I cannot answer this. I have no reliable record of "CBDT Circular 6/2026" or its claimed monetary limit for departmental appeals. (Note: CBDT does periodically revise monetary thresholds for filing departmental appeals before ITAT/High Courts/Supreme Court via circulars, but I cannot confirm the specific circular number or figures claimed here.)
+
+Q118: I do not have a confident, verified figure for a Finance Act 2025 amendment to the Section 112A LTCG rate. As noted in Q104, a rate change to 12.5% (from 10%) with an increased exemption threshold to Rs. 1.25 lakh was made via a recent Finance Act, but I'm not fully certain this is specifically the "Finance Act 2025" version referenced here, nor whether further changes occurred later.
+
+Q119: I do not have a confident, verified figure for a "Finance Act 2024 (No. 2)" amendment to Section 111A STCG rate. I recall a rate increase from 15% to 20% around this period, but I cannot confirm this is precisely attributable to "Finance Act 2024 (No. 2)" as opposed to another Finance Act.
+
+Q120: I do not have a confident, verified recollection of the exact new tax regime slab structure specifically as amended by Finance Act 2023 (I recall broad changes were made increasing the number of slabs/adjusting rates and increasing rebate thresholds around that period), but I do not want to state specific slab boundaries and rates without being able to verify them.
+
+Q121: CSR expenditure is generally disallowed as a business deduction under the "explanation" to the general business expenditure provision (analogous to old Section 37(1) Explanation 2), on the basis that CSR spending mandated under the Companies Act is not treated as incurred "wholly and exclusively for the purposes of business." Certain specific CSR-related expenditures (e.g., some categories overlapping with Section 80G-eligible donations) may still be separately deductible under their own specific provisions even though disallowed as ordinary business expenditure. Exact 2025 Act clause/exceptions not confirmed.
+
+Q122: The disallowance for cash payments to a person exceeding Rs. 10,000 in a day (Rs. 35,000 for payments to transporters) generally has exceptions for payments covered under prescribed circumstances (e.g., payments to banks/government, payments in areas without banking facilities, payments to cultivators/producers of agricultural produce, payments on bank holidays, terminal benefits to employees below a threshold, and other situations prescribed under Rule 6DD), analogous to old Section 40A(3)/40A(3A). Exact 2025 Act clause/rule cross-reference not confirmed.
+
+Q123: The disallowance for failure to deduct/deposit TDS on payments to residents (analogous to old Section 40(a)(ia)) is generally restricted to 30% of the expenditure (not 100%), and the disallowance is generally reversed (deduction allowed) in the year TDS is eventually deducted and deposited, subject to the "second proviso" treating the payee as not in default if certain conditions under Section 201 are met (e.g., payee has included the income and paid tax). Exact 2025 Act clause not confirmed.
+
+Q124: The disallowance for failure to deduct/deposit TDS on payments to non-residents (analogous to old Section 40(a)(i)) generally results in 100% disallowance, but is reversed in the year TDS is eventually deducted and deposited (even if deposited in a subsequent year, before the return filing due date generally allows deduction in that same year without this delayed-reversal rule, unlike the resident-payee provision). Exact 2025 Act clause/conditions not confirmed.
+
+Q125: The disallowance for amounts payable to micro and small enterprises beyond the time limit specified under the MSMED Act, 2006 (analogous to old Section 43B(h)) generally has no broad blanket exception, but disallowance does not apply where payment is actually made within the specified/agreed time limit under the MSMED Act (typically 15 or 45 days), in which case the "on payment basis" restriction of Section 43B doesn't get triggered at all. Exact 2025 Act clause/exceptions not confirmed.
+
+Q126: Agricultural land in India is excluded from the definition of "capital asset," except agricultural land situated within specified distances of municipal/cantonment board limits exceeding a specified population threshold (i.e., "urban agricultural land" as defined is NOT excluded and IS treated as a capital asset), analogous to old Section 2(14). Exact 2025 Act clause/distance-population thresholds not confirmed.
+
+Q127: "Personal effects" (movable property held for personal use, such as clothing/furniture) are generally excluded from the definition of "capital asset," except jewellery, archaeological collections, drawings, paintings, sculptures, or any work of art, and except bullion — these specified items remain capital assets even if held for personal use, analogous to old Section 2(14). Exact 2025 Act clause not confirmed.
+
+Q128: Deduction in respect of inter-corporate dividends (dividend received by a domestic company from another domestic/foreign company or business trust, to the extent further distributed as dividend by the recipient company on or before a specified date) is generally allowed to avoid a second layer of taxation/cascading effect, analogous to old Section 80M. Exact 2025 Act clause/conditions not confirmed.
+
+Q129: Transfers under a gift, will, or irrevocable trust are generally excluded from the definition of "transfer" for capital gains purposes (i.e., not regarded as a "transfer" giving rise to capital gains tax in the hands of the transferor), analogous to old Section 47(iii). Exact 2025 Act clause not confirmed.
+
+Q130: Transfer of a capital asset by the amalgamating company to an Indian amalgamated company in a scheme of amalgamation is generally excluded from the definition of "transfer" for capital gains purposes, analogous to old Section 47(vi). Exact 2025 Act clause not confirmed.
+
+Q131: Transfer of a capital asset by the demerged company to a resulting Indian company in a scheme of demerger is generally excluded from the definition of "transfer" for capital gains purposes, analogous to old Section 47(vib). Exact 2025 Act clause not confirmed.
+
+Q132: The general rule clubbing a minor child's income with the parent's income generally does not apply to income of a minor child suffering from a specified disability (referenced in the disability-related deduction provision), in which case the minor's income is taxed in the minor's own hands, analogous to the proviso under old Section 64(1A). Exact 2025 Act clause not confirmed.
+
+Q133: The clubbing of minor's income with the parent generally does not apply to income arising to a minor child from manual work done by the child, or from an activity involving application of the child's own skill, talent, or specialized knowledge/experience, analogous to the proviso under old Section 64(1A). Exact 2025 Act clause not confirmed.
+
+Q134: Gifts (money/property) received on the occasion of an individual's marriage are generally excluded from taxability as "income from other sources," regardless of the source/relationship of the donor, analogous to the exception under old Section 56(2)(x). Exact 2025 Act clause not confirmed.
+
+Q135: Gifts (money/property) received under a will or by way of inheritance are generally excluded from taxability as "income from other sources," analogous to the exception under old Section 56(2)(x). Exact 2025 Act clause not confirmed.
+
+Q136: Gifts (money/property) received from a "relative" (as statutorily defined, generally including spouse, siblings, siblings of spouse, lineal ascendants/descendants and their spouses, etc.) are generally excluded from taxability as "income from other sources," regardless of amount, analogous to the exception under old Section 56(2)(x). Exact 2025 Act clause not confirmed.
+
+Q137: Losses from speculation business can generally be set off only against profits from another speculation business (not against non-speculation business income), and can be carried forward for a limited number of years (historically 4 years) to be set off only against speculation profits, analogous to old Section 73. Exact 2025 Act clause/carry-forward period not confirmed.
+
+Q138: Long-term capital loss can generally be set off only against long-term capital gains (not short-term capital gains), while short-term capital loss can be set off against both short-term and long-term capital gains, analogous to old Section 70(3)/74. Exact 2025 Act clause not confirmed.
+
+Q139: The restriction on accepting loans/deposits/specified sums of Rs. 20,000 or more otherwise than by account payee cheque/draft/electronic means (analogous to old Section 269SS) generally has exceptions for transactions with government, government companies, banking companies, and certain other notified institutions/persons, and where both parties have agricultural income and neither has other taxable income. Exact 2025 Act clause/exceptions not confirmed.
+
+Q140: The restriction on repaying loans/deposits/specified advances of Rs. 20,000 or more otherwise than by account payee cheque/draft/electronic means (analogous to old Section 269T) generally has similar exceptions as Section 269SS, for government, banking companies, government companies, and certain other notified entities. Exact 2025 Act clause/exceptions not confirmed.
+
+Q141: Non-compete fees received for not carrying on a business/profession, or for not sharing technical knowledge/know-how, are generally taxable as business income (profits and gains of business or profession), analogous to old Section 28(va), with a specific exclusion for fees relating to the transfer of the right to manufacture/produce/process any article, which may instead be taxed as capital gains. Exact 2025 Act clause/exceptions not confirmed.
+
+Q142: The general requirement of tax audit under Section 44AB generally does not apply to assessees who declare income in accordance with the presumptive taxation provisions (Sections 44AD/44ADA/44AE-type provisions) and do not claim income lower than the presumptive rate, subject to specified turnover/receipt thresholds. Exact 2025 Act clause/threshold conditions not confirmed.
+
+Q143: Interest deduction on borrowed capital for a self-occupied house property is generally capped at a specified ceiling (historically Rs. 2,00,000 per year, subject to conditions like completion of construction within a specified period from the end of the year in which the loan was taken; a lower ceiling of Rs. 30,000 applies if these conditions aren't met), analogous to old Section 24(b) proviso. Exact 2025 Act clause/limits not confirmed. (Also note: under the new tax regime, this deduction has generally not been available for self-occupied property in recent years — I cannot confirm current treatment.)
+
+Q144: Capital gains arising from compulsory acquisition of urban agricultural land (land situated within specified urban limits, hence treated as a capital asset) used for agricultural purposes for a specified period preceding the acquisition, by an individual/HUF, are generally exempt from capital gains tax, analogous to old Section 10(37). Exact 2025 Act clause/conditions not confirmed.
+
+Q145: I am not confident of the precise details of a "Rule 3D" exception specifically for medical treatment abroad perquisites; under the old Rules, exemptions relating to medical treatment abroad (expenses and travel/stay of patient and attendant) were addressed as a proviso to Rule 3(2)/perquisite valuation provisions rather than a standalone "Rule 3D," subject to conditions related to RBI permission and gross total income thresholds for the attendant's travel costs. I cannot confirm this is codified as "Rule 3D."
+
+Q146: I do not have confident, verifiable recall of a "Rule 11AAE" specifically addressing non-applicability of valuation rules to bonus shares. I don't want to fabricate the existence or content of a specific rule I cannot verify.
+
+Q147: I cannot answer this. I have no reliable record of "CBDT Circular 2/2026" or its claimed TDS exception for non-resident shipping. (Note: a specific presumptive/exemption regime for non-resident shipping business income exists generally under separate provisions like old Section 172, but I cannot confirm the specific circular referenced here.)
+
+Q148: I cannot answer this. I have no reliable record of "CBDT Circular 5/2026" or its claimed exception for bona fide technical defaults, and I should not fabricate specific circular content I cannot verify.
+
+Q149: I cannot answer this. I have no reliable record of a Finance Act 2026 First Schedule proviso specifically addressing STT non-deductibility for non-business assessees, and the First Schedule of a Finance Act typically deals with tax rates rather than deductibility provisos — this framing seems inconsistent, so I won't invent content for it. (Generally, STT is not deductible as an expense for a non-business assessee since it isn't a business expenditure in the first place, but I can't confirm a specific enacted "proviso" as described.)
+
+Q150: I do not have confident, verified recall of a specific Finance Act 2025 provision on angel tax exemption for registered (DPIIT) startups under Section 56. Angel tax (taxation of share premium received by closely-held companies in excess of fair market value, under old Section 56(2)(viib)) has historically had a notification-based exemption for DPIIT-recognized startups meeting specified conditions, and I recall angel tax being abolished for all investors (not just startups) in the Finance Act (No. 2), 2024 — but I cannot confirm which specific Finance Act/section governs the current position, so I won't state specifics with confidence.

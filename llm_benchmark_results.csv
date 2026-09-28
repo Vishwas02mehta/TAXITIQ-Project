@@ -1,0 +1,4 @@
+model_name,provider,total_questions,answered_questions,correct,partial,incorrect,hallucination,wrong_section,wrong_threshold,outdated_law,fabricated_citation,refusal,missing,overall_accuracy_pct,hallucination_rate_pct,grounding_accuracy_pct,citation_accuracy_pct,section_accuracy_pct,threshold_accuracy_pct,temporal_accuracy_pct,avg_token_f1,avg_keyword_recall
+Claude Sonnet 4,anthropic,230,230,4,119,6,2,4,38,3,14,40,0,1.74,25.22,64.74,49.55,72.58,54.29,8.0,0.2195,0.524
+Gemini 2.5 Flash,google,230,230,56,110,5,10,0,43,2,4,0,0,24.35,24.78,72.17,70.45,93.64,28.61,36.0,0.4058,0.6203
+ChatGPT (GPT-4.1),openai,230,230,50,75,5,11,6,33,45,5,0,0,21.74,23.91,54.35,52.27,63.18,27.64,40.0,0.3567,0.4226

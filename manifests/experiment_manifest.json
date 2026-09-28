@@ -1,0 +1,46 @@
+{
+  "experiment_name": "IndiaLawRAG Multi-LLM Generator Comparison",
+  "experiment_version": "1.0.0",
+  "execution_timestamp": "2026-07-12T15:52:31+0530",
+  "operating_system": "Windows 11 (AMD64)",
+  "python_version": "3.14.0",
+  "pytorch_version": "2.11.0+cpu",
+  "transformers_version": "5.4.0",
+  "sentence_transformers_version": "5.3.0",
+  "chromadb_version": "1.5.5",
+  "ollama_version": "0.31.2",
+  "ollama_executable_path": "C:\\Users\\Mukul Ghai\\AppData\\Local\\Programs\\Ollama\\ollama.exe",
+  "ollama_service_reachable": true,
+  "retrieval_model": "BAAI/bge-large-en-v1.5",
+  "reranker_model": "BAAI/bge-reranker-v2-m3",
+  "generator_models": [
+    {
+      "key": "qwen2.5-7b",
+      "ollama_model": "qwen2.5:7b-instruct",
+      "display_name": "Qwen2.5 7B Instruct"
+    },
+    {
+      "key": "qwen3-8b",
+      "ollama_model": "qwen3:8b",
+      "display_name": "Qwen3 8B"
+    }
+  ],
+  "collection_name": "it_act_2025",
+  "collection_count": 4123,
+  "chunks_json_sha256": "707312886d8e3c5761a11ae9ebe84660a34605288e90dd3b56d1a0607ce701a9",
+  "context_builder_token_budget": 3500,
+  "hybrid_vector_top_k": 50,
+  "bm25_top_k": 50,
+  "rrf_k": 60,
+  "reranker_candidate_count": 30,
+  "final_context_chunk_count": 8,
+  "generation_config": {
+    "temperature": 0,
+    "top_p": 1.0,
+    "seed": 42,
+    "num_predict": 1200
+  },
+  "canonical_system_prompt_sha256": "abf0006d9ed6636b6eccf03ac10ff5a4519b60e1ef893f6228136b3c825540e2",
+  "git_commit_hash": null,
+  "determinism_note": "Ollama does not guarantee mathematical determinism across runs even with temperature=0 and a fixed seed due to internal threading and quantization. This is a known limitation."
+}

@@ -1,0 +1,159 @@
+{
+  "What is assessment year?": {
+    "question": "What is assessment year?",
+    "answer": "Based on the retrieved context, the assessment year is the financial year in which income is assessed. According to [Act: Income-tax Act 2025, Section: 11, Subsection: ], any income determined by the Assessing Officer under section 344 in excess of income shown in the books of account of such business undertaking relates to the tax year.",
+    "citations": [
+      {
+        "act": "Income-tax Act 2025",
+        "section": "11",
+        "subsection": ""
+      }
+    ],
+    "confidence": "HIGH",
+    "sources": [
+      "Act: Income-tax Act 2025, Chapter: XVII, Section: 11, Subsection: , Source IDs: 58652f6bbac796184b27377d0f818356",
+      "Act: Income-tax Act 2025, Chapter: IX, Section: 8, Subsection: , Source IDs: 6970e2663b25885a7e6beaaf7fa2182a",
+      "Act: Income-tax Act 2025, Chapter: XVI, Section: 1, Subsection: , Source IDs: 06266255326bdc8cf6cce2b2edb51d61",
+      "Act: Income-tax Act 2025, Chapter: XVI, Section: 7, Subsection: , Source IDs: 8339e7ac8bb69c6bccd36b4ae57c028d",
+      "Act: Income-tax Act 2025, Chapter: XIX, Section: 99, Subsection: , Source IDs: d703404e0eafbcb47c0d5bf1b07351fd",
+      "Act: Income-tax Act 2025, Chapter: XIX, Section: 424, Subsection: 3, Source IDs: 2a47ab0c359036e69e2b689aa48c9275",
+      "Act: Income-tax Act 2025, Chapter: XVI, Section: 8, Subsection: , Source IDs: db2156c22d728d31e2b99f44c2e58f3a",
+      "Act: Income-tax Act 2025, Chapter: XVI, Section: 4, Subsection: , Source IDs: cfe2b783edf859727e69c3cead7635d0"
+    ],
+    "context_statistics": {
+      "final_tokens": 739,
+      "coverage": 1.0,
+      "average_score": 0.26425278559327126,
+      "blocks_count": 8
+    },
+    "runtime": 18.465380907058716,
+    "citation_errors": []
+  },
+  "What are the conditions for claiming HRA deduction?": {
+    "question": "What are the conditions for claiming HRA deduction?",
+    "answer": "To claim HRA (House Rent Allowance) deduction, the taxpayer must satisfy the conditions. According to [Act: Income-tax Act 2025, Section: 8, Subsection: ], when in the assessment for any year, a capital gain arises from the transfer of a capital asset (being land or building or both), the order of assessment is amended to compute the gain.",
+    "citations": [
+      {
+        "act": "Income-tax Act 2025",
+        "section": "8",
+        "subsection": ""
+      }
+    ],
+    "confidence": "LOW",
+    "sources": [
+      "Act: Income-tax Act 2025, Chapter: VIII, Section: 131, Subsection: 2, Source IDs: 14970bbb16547a861fc3c6d6dfc0b1c3",
+      "Act: Income-tax Act 2025, Chapter: XXIII, Section: 1, Subsection: 3, Source IDs: a52c82e1d7305e1382787745b0587e9c",
+      "Act: Income-tax Act 2025, Chapter: VIII, Section: 130, Subsection: 3, Source IDs: 541e353dcd6411e173f004f54728683f",
+      "Act: Income-tax Act 2025, Chapter: XIV, Section: 239, Subsection: 3, Source IDs: a113ed0894b0e13674ffd24d08125255",
+      "Act: Income-tax Act 2025, Chapter: VIII, Section: 154, Subsection: 2, Source IDs: 13ccdf60735ad7640d7832f41b25adbb",
+      "Act: Income-tax Act 2025, Chapter: XXIII, Section: 1, Subsection: 2, Source IDs: 708f097e94a0b4a81e206121a1d54da6",
+      "Act: Income-tax Act 2025, Chapter: VIII, Section: 142, Subsection: , Source IDs: 5f43b270ce22dce826d448cb5657018e",
+      "Act: Income-tax Act 2025, Chapter: VIII, Section: 131, Subsection: , Source IDs: 58cdd883a4d597efa57c49a919f7ea5c"
+    ],
+    "context_statistics": {
+      "final_tokens": 1200,
+      "coverage": 1.0,
+      "average_score": 0.05394249933306128,
+      "blocks_count": 8
+    },
+    "runtime": 46.20028805732727,
+    "citation_errors": [
+      "Citation mismatch: Section '8' (Act: 'Income-tax Act 2025') is cited but does not exist in context."
+    ]
+  },
+  "Section 80C deduction": {
+    "question": "Section 80C deduction",
+    "answer": "The deduction under Section 80C is details of general deductions. As per [Act: Income-tax Act 2025, Section: 34, Subsection: ], standard rules apply to exemption claims in the tax year.",
+    "citations": [
+      {
+        "act": "Income-tax Act 2025",
+        "section": "34",
+        "subsection": ""
+      },
+      {
+        "act": "Unknown",
+        "section": "80C",
+        "subsection": ""
+      }
+    ],
+    "confidence": "LOW",
+    "sources": [
+      "Act: Income-tax Act 2025, Chapter: XIII, Section: 34, Subsection: 2, Source IDs: 81b53c57f216e96bdd5d10dbb9f1974e",
+      "Act: Income-tax Act 2025, Chapter: VIII, Section: 12, Subsection: , Source IDs: fdcc1accdf561f94243c232c08364cb9",
+      "Act: Income-tax Act 2025, Chapter: IV, Section: 46, Subsection: 4, Source IDs: 300c3ba93ab749f9312ae919e20850b3",
+      "Act: Income-tax Act 2025, Chapter: VIII, Section: 143, Subsection: 6, Source IDs: 0982de2d305620429b02f30de80040b2",
+      "Act: Income-tax Act 2025, Chapter: VIII, Section: 51, Subsection: 2, Source IDs: 1f8553830a4c5030ba425929664a1973",
+      "Act: Income-tax Act 2025, Chapter: XXIII, Section: 3, Subsection: , Source IDs: 6f7ef1b0a9737d1777132fe010b68654",
+      "Act: Income-tax Act 2025, Chapter: XVI, Section: 270, Subsection: , Source IDs: 7f893452e81e15848c007fd1a3361d1a",
+      "Act: Income-tax Act 2025, Chapter: VIII, Section: 130, Subsection: 4, Source IDs: adb7ce9a7c5f94f4f265faa51fe992f5"
+    ],
+    "context_statistics": {
+      "final_tokens": 1816,
+      "coverage": 1.0,
+      "average_score": 0.16183363320305943,
+      "blocks_count": 8
+    },
+    "runtime": 46.34637665748596,
+    "citation_errors": [
+      "Citation mismatch: Section '80C' (Act: 'Unknown') is cited but does not exist in context."
+    ]
+  },
+  "What is TDS on professional fees?": {
+    "question": "What is TDS on professional fees?",
+    "answer": "The rate of TDS on professional fees is 10% under [Act: Income-tax Act 2025, Section: 6, Subsection: ], applicable to any amount referred to in section 80CCA(2)(a) or other specified payments exceeding the threshold limit of 2,500.",
+    "citations": [
+      {
+        "act": "Income-tax Act 2025",
+        "section": "6",
+        "subsection": ""
+      }
+    ],
+    "confidence": "MEDIUM",
+    "sources": [
+      "Act: Income-tax Act 2025, Chapter: XIX, Section: 6, Subsection: , Source IDs: a4f9d013015565eb6bee917d8fe188c0",
+      "Act: Income-tax Act 2025, Chapter: XIX, Section: 9, Subsection: , Source IDs: 5866d2d244fa0ddc9a8f149f81edc16e",
+      "Act: Income-tax Act 2025, Chapter: XIX, Section: 6, Subsection: , Source IDs: 87841f5bf15c80a96a807ccd5512df12, f88c8daba6dd62a73b2cf18e390d170d, 3074c431208373cdee0bf6ee8f4d15d0",
+      "Act: Income-tax Act 2025, Chapter: XIX, Section: 95, Subsection: 34, Source IDs: 66e9e1cfc2f24dbfb6552d6265acc3f3",
+      "Act: Income-tax Act 2025, Chapter: IV, Section: 66, Subsection: 5, Source IDs: e1ecc411089d4c648103f5235c290923",
+      "Act: Income-tax Act 2025, Chapter: XIX, Section: 95, Subsection: 28, Source IDs: 69b5f2261e96552d5a0032d3803e5456"
+    ],
+    "context_statistics": {
+      "final_tokens": 1138,
+      "coverage": 1.0,
+      "average_score": 0.0066205897083919905,
+      "blocks_count": 6
+    },
+    "runtime": 45.007683515548706,
+    "citation_errors": []
+  },
+  "GST registration": {
+    "question": "GST registration",
+    "answer": "GST registration requirements are detailed in [Act: Income-tax Act 2025, Section: 332, Subsection: ]. Registration must be completed in accordance with the statutory provisions.",
+    "citations": [
+      {
+        "act": "Income-tax Act 2025",
+        "section": "332",
+        "subsection": ""
+      }
+    ],
+    "confidence": "MEDIUM",
+    "sources": [
+      "Act: Income-tax Act 2025, Chapter: XVII, Section: 332, Subsection: 2, Source IDs: f05a8977ed74652bd97f5fe310c93406",
+      "Act: Income-tax Act 2025, Chapter: XVII, Section: 7, Subsection: 9, Source IDs: d7e9c049828222551dd938832350f610",
+      "Act: Income-tax Act 2025, Chapter: XVII, Section: 333, Subsection: 3, Source IDs: e80d486a3527cf9379190310a37131d3",
+      "Act: Income-tax Act 2025, Chapter: XVII, Section: 69, Subsection: , Source IDs: 29d5339bccf0f8d6a43493ff8b941cd1",
+      "Act: Income-tax Act 2025, Chapter: I, Section: 3, Subsection: 35, Source IDs: 19e84a4335f321f05e033e4543644815",
+      "Act: Income-tax Act 2025, Chapter: XIII, Section: 406, Subsection: , Source IDs: a8bc87da6ec0ece26e8ea8874d852234",
+      "Act: Income-tax Act 2025, Chapter: II, Section: 9, Subsection: 9, Source IDs: db78da3c7a4ec9b273ce26bfe0c16d4c",
+      "Act: Income-tax Act 2025, Chapter: XXIII, Section: 39, Subsection: , Source IDs: dfc3d8d69145cb352469a0494c445beb"
+    ],
+    "context_statistics": {
+      "final_tokens": 2100,
+      "coverage": 1.0,
+      "average_score": 0.054152276541572064,
+      "blocks_count": 8
+    },
+    "runtime": 44.674256324768066,
+    "citation_errors": []
+  }
+}

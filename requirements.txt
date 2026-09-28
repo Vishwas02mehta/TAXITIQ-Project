@@ -1,0 +1,14 @@
+pdfplumber
+chromadb
+sentence-transformers
+torch
+transformers
+tqdm
+numpy
+python-dotenv
+psutil
+rank-bm25
+rapidfuzz
+requests
+matplotlib
+scipy

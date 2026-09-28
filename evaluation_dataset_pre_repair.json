@@ -1,0 +1,1841 @@
+[
+  {
+    "question_id": "Q01",
+    "question": "What is the definition of a tax year under the Income-tax Act 2025?",
+    "question_type": "definition",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "3"
+    ],
+    "gold_subsections": [
+      "1"
+    ],
+    "gold_keywords": [
+      "tax year",
+      "twelve months",
+      "financial year",
+      "commencing",
+      "1st April"
+    ],
+    "gold_numeric_claims": [
+      "twelve",
+      "1st April"
+    ],
+    "source_chunk_ids": [
+      "c8db628f722a24a26249551ea7d09052"
+    ],
+    "source_text_evidence": "For the purposes of this Act, 'tax year' means the twelve months period of the financial year commencing on the 1st April.",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.5,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Direct definition of tax year.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q02",
+    "question": "Who is considered an assessee according to Section 2 of the Income-tax Act 2025?",
+    "question_type": "definition",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [
+      "11"
+    ],
+    "gold_keywords": [
+      "assessee",
+      "person",
+      "payable",
+      "deemed",
+      "default"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "4b24b6d996ec42642d455ac22f854b51"
+    ],
+    "source_text_evidence": "'assessee' means a person by whom any tax or any other sum of money is payable under this Act, and includes",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.3,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Direct definition of assessee.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q03",
+    "question": "Define the term approved gratuity fund as per Section 2 of the Income-tax Act 2025.",
+    "question_type": "definition",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [
+      "9"
+    ],
+    "gold_keywords": [
+      "approved gratuity fund",
+      "approving authority",
+      "Schedule XI"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "090fa75b2504f0b9f330168ffcbfde5c"
+    ],
+    "source_text_evidence": "'approved gratuity fund' means a gratuity fund, which is approved and continues to be approved by the approving authority as per Part B of Schedule XI",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.3333333333333333,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Gratuity fund definition.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q04",
+    "question": "How is a company in which the public are substantially interested defined in the Income-tax Act 2025?",
+    "question_type": "definition",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "3"
+    ],
+    "gold_subsections": [
+      "29"
+    ],
+    "gold_keywords": [
+      "company",
+      "public are substantially interested",
+      "owned by the Government",
+      "Reserve Bank",
+      "40%",
+      "Nidhi"
+    ],
+    "gold_numeric_claims": [
+      "40%"
+    ],
+    "source_chunk_ids": [
+      "c2de7ff90befcb4e923d0f7c55eeed6b"
+    ],
+    "source_text_evidence": "'company in which the public are substantially interested' means- (a) a company owned by the Government or the Reserve Bank of India or in which at least 40% of the shares",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.4,
+    "question_source_phrase_overlap": 5.0,
+    "notes": "Public interest company definition.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q05",
+    "question": "What is the meaning of population under Section 3 of the Act?",
+    "question_type": "definition",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "3"
+    ],
+    "gold_subsections": [
+      "C"
+    ],
+    "gold_keywords": [
+      "population",
+      "census",
+      "relevant figures",
+      "first day of the tax year"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "2c9fc3462e7fe16ff0868507944fa78d"
+    ],
+    "source_text_evidence": "'population' shall mean the population according to the last preceding census of which the relevant figures have been published before the first day of the tax year",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.16666666666666666,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Definition of population.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q06",
+    "question": "Define the term property under the Income-tax Act 2025.",
+    "question_type": "definition",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "3"
+    ],
+    "gold_subsections": [
+      "D"
+    ],
+    "gold_keywords": [
+      "property",
+      "rights",
+      "Indian company",
+      "management",
+      "control"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "2c9fc3462e7fe16ff0868507944fa78d"
+    ],
+    "source_text_evidence": "'property' includes any rights in or in relation to an Indian company, including rights of management or control",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.14285714285714285,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Definition of property.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q07",
+    "question": "Define the term securities as per Section 3 of the Act.",
+    "question_type": "definition",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "3"
+    ],
+    "gold_subsections": [
+      "E"
+    ],
+    "gold_keywords": [
+      "securities",
+      "Securities Contracts (Regulation) Act, 1956",
+      "2(h)"
+    ],
+    "gold_numeric_claims": [
+      "1956"
+    ],
+    "source_chunk_ids": [
+      "2c9fc3462e7fe16ff0868507944fa78d"
+    ],
+    "source_text_evidence": "'securities' shall have the same meaning as assigned to it in section 2(h) of the Securities Contracts (Regulation) Act, 1956",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.2857142857142857,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Definition of securities.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q08",
+    "question": "How is standard deduction defined under the Income-tax Act 2025?",
+    "question_type": "definition",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "Standard deduction",
+      "75000",
+      "50000",
+      "salary",
+      "202(1)"
+    ],
+    "gold_numeric_claims": [
+      "75000",
+      "50000"
+    ],
+    "source_chunk_ids": [
+      "38b4cbc3e663243a05f7646ba22b8624"
+    ],
+    "source_text_evidence": "Standard deduction. (a) 75000 or the salary, whichever is less, where income-tax is computed under section 202(1); (b) 50000 or the salary, whichever is less, in any other case.",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.375,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Standard deduction values definition.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q09",
+    "question": "What is the meaning of rates in force under Chapter I of the Act?",
+    "question_type": "definition",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "3"
+    ],
+    "gold_subsections": [
+      "90"
+    ],
+    "gold_keywords": [
+      "rate or rates in force",
+      "rates in force",
+      "Finance Act of the relevant year"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "cb0c6830585ba57460a3a2278677bb80"
+    ],
+    "source_text_evidence": "means the rate or rates of income-tax specified in this behalf in the Finance Act of the relevant year;",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.2857142857142857,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Definition of rates in force.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q10",
+    "question": "What is the definition of standard deduction in any other case, other than section 202(1)?",
+    "question_type": "definition",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "Standard deduction",
+      "50000",
+      "salary",
+      "whichever is less"
+    ],
+    "gold_numeric_claims": [
+      "50000"
+    ],
+    "source_chunk_ids": [
+      "38b4cbc3e663243a05f7646ba22b8624"
+    ],
+    "source_text_evidence": "(b) 50000 or the salary, whichever is less, in any other case.",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.18181818181818182,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Other case standard deduction.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q11",
+    "question": "Where is standard deduction provided in Chapter IV of the Act, and what is its limit?",
+    "question_type": "section_lookup",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "Standard deduction",
+      "Chapter IV",
+      "Section 2",
+      "75000",
+      "50000"
+    ],
+    "gold_numeric_claims": [
+      "75000"
+    ],
+    "source_chunk_ids": [
+      "38b4cbc3e663243a05f7646ba22b8624"
+    ],
+    "source_text_evidence": "Standard deduction. (a) 75000 or the salary, whichever is less",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.1,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Section lookup for standard deduction.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q12",
+    "question": "What does Section 3(1) of the Income-tax Act 2025 specify?",
+    "question_type": "section_lookup",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "3"
+    ],
+    "gold_subsections": [
+      "1"
+    ],
+    "gold_keywords": [
+      "tax year",
+      "twelve months",
+      "financial year commencing on the 1st April"
+    ],
+    "gold_numeric_claims": [
+      "1st April"
+    ],
+    "source_chunk_ids": [
+      "c8db628f722a24a26249551ea7d09052"
+    ],
+    "source_text_evidence": "3. (1) For the purposes of this Act, 'tax year' means the twelve months period of the financial year commencing on the 1st April.",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.3,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Section lookup for Section 3(1).",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q13",
+    "question": "What limit is specified on the aggregate amount of deductions under Section 122(2)?",
+    "question_type": "section_lookup",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "122"
+    ],
+    "gold_subsections": [
+      "2"
+    ],
+    "gold_keywords": [
+      "aggregate amount",
+      "deductions",
+      "gross total income"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "d5aed51bc68b9da4e18021f9b62d076b"
+    ],
+    "source_text_evidence": "(2) The aggregate amount of the deductions under this Chapter shall not, in any case, exceed the gross total income of the assessee.",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.4444444444444444,
+    "question_source_phrase_overlap": 1.0,
+    "notes": "Section 122(2) lookup.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q14",
+    "question": "Explain the rules under Section 122(3) regarding deductions for an association of persons.",
+    "question_type": "section_lookup",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "122"
+    ],
+    "gold_subsections": [
+      "3"
+    ],
+    "gold_keywords": [
+      "association of persons",
+      "body of individuals",
+      "deduction under section",
+      "133 or 135 or 137 or 138 or 141 or 142 or 143"
+    ],
+    "gold_numeric_claims": [
+      "133",
+      "135",
+      "137",
+      "138",
+      "141",
+      "142",
+      "143"
+    ],
+    "source_chunk_ids": [
+      "08bda4c3118bad60309a2525e1256c9c"
+    ],
+    "source_text_evidence": "If the deduction under section 133 or 135 or 137 or 138 or 141 or 142 or 143 is admissible in computing the total income of an association of persons or a body of",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.2222222222222222,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Section 122(3) lookup.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q15",
+    "question": "Look up Section 123 and state its general provision for individuals.",
+    "question_type": "section_lookup",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "123"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "individual",
+      "Hindu undivided family",
+      "deduction",
+      "Schedule XV",
+      "150000"
+    ],
+    "gold_numeric_claims": [
+      "150000"
+    ],
+    "source_chunk_ids": [
+      "9f663bb64e6d883f7c7e86d54038e9b1"
+    ],
+    "source_text_evidence": "123. An individual or a Hindu undivided family, shall be allowed a deduction of the whole of the amount paid or deposited in the tax year, being the aggregate of the sums enumerated in Schedule XV, as does not exceed 150000",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Section 123 lookup.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q16",
+    "question": "What does Section 459(3) say about daily penalty when a failure continues after order service?",
+    "question_type": "section_lookup",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "3"
+    ],
+    "gold_keywords": [
+      "penalty of fifty thousand rupees",
+      "every day",
+      "failure continues",
+      "service of such order"
+    ],
+    "gold_numeric_claims": [
+      "fifty thousand"
+    ],
+    "source_chunk_ids": [
+      "b244bfd45103de33595cc5762f821c28"
+    ],
+    "source_text_evidence": "impose penalty of fifty thousand rupees for every day for which such failure continues beginning from the date of service of such order.",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.26666666666666666,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Section 459(3) lookup.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q17",
+    "question": "Look up Section 459(2) and state the penalty for failing to produce reporting entity documents.",
+    "question_type": "section_lookup",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "2"
+    ],
+    "gold_keywords": [
+      "reporting entity",
+      "fails to produce the information",
+      "5000",
+      "every day"
+    ],
+    "gold_numeric_claims": [
+      "5000"
+    ],
+    "source_chunk_ids": [
+      "49233bb39dd96a6be9c11ab2b03cc944"
+    ],
+    "source_text_evidence": "penalty of 5000 for every day during which the failure continues",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.08333333333333333,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Section 459(2) lookup.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q18",
+    "question": "What are the rules regarding daily penalty under Section 459(1) of the Act?",
+    "question_type": "section_lookup",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "1"
+    ],
+    "gold_keywords": [
+      "reporting entity",
+      "511",
+      "fails to do so",
+      "5000",
+      "15000",
+      "one month"
+    ],
+    "gold_numeric_claims": [
+      "5000",
+      "15000"
+    ],
+    "source_chunk_ids": [
+      "5254d9b66ab0b8289bbddc0f3a1cabba"
+    ],
+    "source_text_evidence": "(a) 5000 for every day for which the failure continues, if the period of failure does not exceed one month; (b) 15000 for every day for which the failure continues beyond the period of one month.",
+    "query_formulation_type": "LEXICAL",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Section 459(1) lookup.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q19",
+    "question": "Under what events is an employee eligible for gratuity deduction under Section 6 of Chapter IV?",
+    "question_type": "eligibility",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "6"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "gratuity",
+      "retirement",
+      "incapacitated",
+      "termination",
+      "employee"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "9e45682302bd463d7f6d66c712dc35c6"
+    ],
+    "source_text_evidence": "on his retirement; or\non termination of his",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Gratuity eligibility events.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q20",
+    "question": "What conditions must a pension commutation satisfy under Section 7 of Chapter IV to be deductible?",
+    "question_type": "eligibility",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "7"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "commutation of pension",
+      "Civil Pensions (Commutation) Rules",
+      "defence services",
+      "civil services"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "fa7e8b51d4363d48953c91d5387106d0"
+    ],
+    "source_text_evidence": "7. Payment in commutation of Entire amount. pension received (a) under the Civil Pensions (Commutation) Rules of the Central Government; or (b) under any similar scheme",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.18181818181818182,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Pension commutation rules.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q21",
+    "question": "Who is eligible to claim standard deduction from salary income under Chapter IV?",
+    "question_type": "eligibility",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "standard deduction",
+      "salary",
+      "less",
+      "computed"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "38b4cbc3e663243a05f7646ba22b8624"
+    ],
+    "source_text_evidence": "Standard deduction. (a) 75000 or the salary, whichever is less, where income-tax is computed under section 202(1); (b) 50000 or the salary, whichever is less, in any other case.",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.3333333333333333,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Salary earners standard deduction.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q22",
+    "question": "What are the eligibility conditions for a Lieutenant Governor's Relief Fund donation to qualify under Section 133?",
+    "question_type": "eligibility",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "133"
+    ],
+    "gold_subsections": [
+      "xv"
+    ],
+    "gold_keywords": [
+      "Chief Minister's Relief Fund",
+      "Lieutenant Governor's Relief Fund",
+      "only fund of its kind",
+      "control of the Chief Secretary",
+      "administered"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "bcffb74188f1356271a91820e7cda8ec"
+    ],
+    "source_text_evidence": "Lieutenant Governor's Relief Fund, if the fund meets all the following conditions: (A) it is the only fund of its kind established in the State or the Union territory; (B) it is under the overall control of the Chief Secretary",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.5,
+    "question_source_phrase_overlap": 2.0,
+    "notes": "Relief fund conditions.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q23",
+    "question": "What are the conditions for deducting contributions to the Swachh Bharat Kosh under Section 133?",
+    "question_type": "eligibility",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "133"
+    ],
+    "gold_subsections": [
+      "xx"
+    ],
+    "gold_keywords": [
+      "Swachh Bharat Kosh",
+      "Corporate Social Responsibility",
+      "section 135(5) of the Companies Act, 2013"
+    ],
+    "gold_numeric_claims": [
+      "135"
+    ],
+    "source_chunk_ids": [
+      "bcffb74188f1356271a91820e7cda8ec"
+    ],
+    "source_text_evidence": "the Swachh Bharat Kosh, set up by the Central Government, other than the sum spent by the assessee in pursuance of Corporate Social Responsibility under section 135(5) of the Companies Act, 2013",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.4444444444444444,
+    "question_source_phrase_overlap": 1.0,
+    "notes": "Swachh Bharat Kosh CSR exception.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q24",
+    "question": "What are the requirements for claiming a donation deduction for Clean Ganga Fund under Section 133?",
+    "question_type": "eligibility",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "133"
+    ],
+    "gold_subsections": [
+      "xxi"
+    ],
+    "gold_keywords": [
+      "Clean Ganga Fund",
+      "resident",
+      "Corporate Social Responsibility",
+      "section 135(5) of the Companies Act, 2013"
+    ],
+    "gold_numeric_claims": [
+      "135"
+    ],
+    "source_chunk_ids": [
+      "bcffb74188f1356271a91820e7cda8ec"
+    ],
+    "source_text_evidence": "the Clean Ganga Fund, set up by the Central Government, where such assessee is a resident and such sum is other than the sum spent by the assessee in pursuance of Corporate Social Responsibility under section 135(5) of the Companies Act, 2013",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.4,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Clean Ganga Fund conditions.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q25",
+    "question": "Under what condition can an individual employee claim a deduction under Section 124(1) for employer pension contributions?",
+    "question_type": "eligibility",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "124"
+    ],
+    "gold_subsections": [
+      "1"
+    ],
+    "gold_keywords": [
+      "individual employed by any employer",
+      "contribution in his account",
+      "pension scheme",
+      "notified by the Central Government"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "718bde1193393d5173651b6890e4590f"
+    ],
+    "source_text_evidence": "Where in the case of an assessee, being an individual employed by any e mployer, if the employer makes any contribution",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.15384615384615385,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Employer pension contribution eligibility.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q26",
+    "question": "Can Hindu undivided families claim a deduction under Section 123?",
+    "question_type": "eligibility",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "123"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "individual",
+      "Hindu undivided family",
+      "deduction",
+      "Schedule XV"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "9f663bb64e6d883f7c7e86d54038e9b1"
+    ],
+    "source_text_evidence": "123. An individual or a Hindu undivided family, shall be allowed a deduction of the whole of the amount paid or deposited in the tax year",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.375,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "HUF eligibility for Section 123.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q27",
+    "question": "What is the standard deduction amount for salary earners whose tax is computed under section 202(1)?",
+    "question_type": "deduction",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "Standard deduction",
+      "75000",
+      "salary",
+      "202(1)"
+    ],
+    "gold_numeric_claims": [
+      "75000"
+    ],
+    "source_chunk_ids": [
+      "38b4cbc3e663243a05f7646ba22b8624"
+    ],
+    "source_text_evidence": "(a) 75000 or the salary, whichever is less, where income-tax is computed under section 202(1);",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.5,
+    "question_source_phrase_overlap": 4.0,
+    "notes": "Standard deduction value for Section 202(1).",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q28",
+    "question": "What is the standard deduction limit for salary earners in general cases other than under section 202(1)?",
+    "question_type": "deduction",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "Standard deduction",
+      "50000",
+      "salary",
+      "whichever is less"
+    ],
+    "gold_numeric_claims": [
+      "50000"
+    ],
+    "source_chunk_ids": [
+      "38b4cbc3e663243a05f7646ba22b8624"
+    ],
+    "source_text_evidence": "(b) 50000 or the salary, whichever is less, in any other case.",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.15384615384615385,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "General standard deduction value.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q29",
+    "question": "How is the deduction amount for gratuity calculated for a non-government employee under Section 6 of Chapter IV?",
+    "question_type": "deduction",
+    "difficulty": "hard",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "6"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "gratuity",
+      "retirement",
+      "minimum of",
+      "actual gratuity",
+      "amount specified",
+      "half month's salary"
+    ],
+    "gold_numeric_claims": [
+      "ten"
+    ],
+    "source_chunk_ids": [
+      "9e45682302bd463d7f6d66c712dc35c6"
+    ],
+    "source_text_evidence": "average salary for ten months immediately preceding the month when any such event occurs;",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Gratuity calculation details.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q30",
+    "question": "What deduction is available for pension commutation received under Civil Pensions Rules of the Central Government?",
+    "question_type": "deduction",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "7"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "Pension commutation",
+      "Civil Pensions (Commutation) Rules",
+      "Entire amount"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "fa7e8b51d4363d48953c91d5387106d0"
+    ],
+    "source_text_evidence": "7. Payment in commutation of Entire amount. pension received (a) under the Civil Pensions (Commutation) Rules",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.5454545454545454,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Civil pension commutation deduction.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q31",
+    "question": "What is the maximum deduction allowed under Section 123 of the Act, and which schedule does it refer to?",
+    "question_type": "deduction",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "123"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "deduction",
+      "individual",
+      "HUF",
+      "Schedule XV",
+      "150000"
+    ],
+    "gold_numeric_claims": [
+      "150000"
+    ],
+    "source_chunk_ids": [
+      "9f663bb64e6d883f7c7e86d54038e9b1"
+    ],
+    "source_text_evidence": "deduction of the whole of the amount paid or deposited in the tax year, being the aggregate of the sums enumerated in Schedule XV, as does not exceed 150000",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.3,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Section 123 deduction limit and schedule.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q32",
+    "question": "What deduction is available for contributions made by an employee under a Central Government pension scheme under Section 124(3)?",
+    "question_type": "deduction",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "124"
+    ],
+    "gold_subsections": [
+      "3"
+    ],
+    "gold_keywords": [
+      "pension scheme",
+      "individual",
+      "not exceeding",
+      "50000"
+    ],
+    "gold_numeric_claims": [
+      "50000"
+    ],
+    "source_chunk_ids": [
+      "7f842679efe1b9785762f70a6b6d86d1"
+    ],
+    "source_text_evidence": "deduction not exceeding 50000, in computation of his total income of the whole of the amount paid or deposited in the tax year by such individual in his account under a pension scheme",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.25,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Central government pension scheme limit.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q33",
+    "question": "Is the donation made by an assessee to the PM CARES Fund eligible for a full deduction?",
+    "question_type": "deduction",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "133"
+    ],
+    "gold_subsections": [
+      "1"
+    ],
+    "gold_keywords": [
+      "donations",
+      "PM CARES FUND",
+      "whole of the aggregate",
+      "tax year"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "523983996ac2a6cd14f230317c6fdda8"
+    ],
+    "source_text_evidence": "the whole of the aggregate of the sum or the sums paid by the assessee, in the tax year as donations to (i) the National Defence Fund set up by the Central Government; or (ii) the Prime Minister's National Relief Fund or the Prime Minister's Citizen Assistance and Relief in Emergency Situations Fund (PM CARES FUND)",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.5,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "PM CARES Fund donation exemption.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q34",
+    "question": "What is the deduction amount allowed for donations made to Swachh Bharat Kosh?",
+    "question_type": "deduction",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "133"
+    ],
+    "gold_subsections": [
+      "xx"
+    ],
+    "gold_keywords": [
+      "Swachh Bharat Kosh",
+      "deduction",
+      "donations"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [
+      "bcffb74188f1356271a91820e7cda8ec"
+    ],
+    "source_text_evidence": "the Swachh Bharat Kosh, set up by the Central Government, other than the sum spent by the assessee in pursuance of Corporate Social Responsibility",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.375,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Swachh Bharat Kosh donation deduction.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q35",
+    "question": "What is the income tax rate for total income up to Rs. 4,00,000 under Section 202?",
+    "question_type": "rate",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "202",
+      "1"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "400000",
+      "Nil"
+    ],
+    "gold_numeric_claims": [
+      "400000"
+    ],
+    "source_chunk_ids": [
+      "472073a99c1947dc62350b1a054f9a6e"
+    ],
+    "source_text_evidence": "1. Upto 400000 Nil",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Tax rate for slab up to 4 lakhs.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q36",
+    "question": "What is the income tax rate for the total income slab of Rs. 4,00,001 to Rs. 8,00,000?",
+    "question_type": "rate",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "202",
+      "2"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "400001",
+      "800000",
+      "5%"
+    ],
+    "gold_numeric_claims": [
+      "400001",
+      "800000",
+      "5%"
+    ],
+    "source_chunk_ids": [
+      "4a1524c375386f556714fd78bf00d191"
+    ],
+    "source_text_evidence": "2. From 400001 to 800000 5%",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Tax rate for slab 4-8 lakhs.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q37",
+    "question": "What is the income tax rate for the total income slab of Rs. 8,00,001 to Rs. 12,00,000?",
+    "question_type": "rate",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "202",
+      "3"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "800001",
+      "1200000",
+      "10%"
+    ],
+    "gold_numeric_claims": [
+      "800001",
+      "1200000",
+      "10%"
+    ],
+    "source_chunk_ids": [
+      "93a25733e70b691ef7931675e364bdac"
+    ],
+    "source_text_evidence": "3. From 800001 to 1200000 10%",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Tax rate for slab 8-12 lakhs.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q38",
+    "question": "What is the income tax rate for the total income slab of Rs. 12,00,001 to Rs. 16,00,000?",
+    "question_type": "rate",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "202",
+      "4"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "1200001",
+      "1600000",
+      "15%"
+    ],
+    "gold_numeric_claims": [
+      "1200001",
+      "1600000",
+      "15%"
+    ],
+    "source_chunk_ids": [
+      "d2e17c18c77ac67f92b5a1d7b59237f5"
+    ],
+    "source_text_evidence": "4. From 1200001 to 1600000 15%",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Tax rate for slab 12-16 lakhs.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q39",
+    "question": "What is the income tax rate for the total income slab of Rs. 16,00,001 to Rs. 20,00,000?",
+    "question_type": "rate",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "202",
+      "5"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "1600001",
+      "2000000",
+      "20%"
+    ],
+    "gold_numeric_claims": [
+      "1600001",
+      "2000000",
+      "20%"
+    ],
+    "source_chunk_ids": [
+      "815b88c3426ccb69021288a0bdab004c"
+    ],
+    "source_text_evidence": "5. From 1600001 to 2000000 20%",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Tax rate for slab 16-20 lakhs.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q40",
+    "question": "What is the highest marginal income tax rate for total income exceeding Rs. 24,00,000 under Section 202?",
+    "question_type": "rate",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "202",
+      "7"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "Above",
+      "2400000",
+      "30%"
+    ],
+    "gold_numeric_claims": [
+      "2400000",
+      "30%"
+    ],
+    "source_chunk_ids": [
+      "477a5981bacc90b46b2f143a8bff0a8c"
+    ],
+    "source_text_evidence": "7. Above 2400000 30%",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Highest tax rate slab.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q41",
+    "question": "What is the due date and minimum percentage requirement for the first installment of advance tax?",
+    "question_type": "deadline",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "1"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "advance tax",
+      "15%",
+      "15th June"
+    ],
+    "gold_numeric_claims": [
+      "15%",
+      "15th June"
+    ],
+    "source_chunk_ids": [
+      "a5d862bf850be043a71bf7b11c1c9848"
+    ],
+    "source_text_evidence": "1. On or before the Not less than 15% of such advance tax. 15th June.",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.1,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "First advance tax deadline.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q42",
+    "question": "What cumulative percentage of advance tax must be paid on or before the 15th of September?",
+    "question_type": "deadline",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "advance tax",
+      "45%",
+      "15th September"
+    ],
+    "gold_numeric_claims": [
+      "45%",
+      "15th September"
+    ],
+    "source_chunk_ids": [
+      "c36665dd1e270c1f6abbf27a331e12f0"
+    ],
+    "source_text_evidence": "2. On or before the Not less than 45% of such advance tax, as reduced by the 15th September. amount, if any, paid in the earlier instalment.",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.5,
+    "question_source_phrase_overlap": 1.0,
+    "notes": "Second advance tax deadline.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q43",
+    "question": "What is the requirement for advance tax payment due by 15th December?",
+    "question_type": "deadline",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "3"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "advance tax",
+      "75%",
+      "15th December"
+    ],
+    "gold_numeric_claims": [
+      "75%",
+      "15th December"
+    ],
+    "source_chunk_ids": [
+      "054173be17a699ce9dcc81fdab83173e"
+    ],
+    "source_text_evidence": "3. On or before the Not less than 75% of such advance tax, as reduced by the 15th December. amount or amounts, if any, paid in the earlier instalment",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.375,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Third advance tax deadline.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q44",
+    "question": "What is the final deadline for paying the full installment of advance tax?",
+    "question_type": "deadline",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "4"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "advance tax",
+      "whole amount",
+      "15th March"
+    ],
+    "gold_numeric_claims": [
+      "15th March"
+    ],
+    "source_chunk_ids": [
+      "8165b9feede7b8021c29d5f84c2d1de5"
+    ],
+    "source_text_evidence": "4. On or before the The whole amount of such advance tax, as reduced by the 15th March. amount or amounts, if any, paid in the earlier instalment",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.25,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Fourth advance tax deadline.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q45",
+    "question": "Is the cumulative advance tax percentage due by December 15th specified as seventy-five percent?",
+    "question_type": "deadline",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "3"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "advance tax",
+      "75%",
+      "15th December"
+    ],
+    "gold_numeric_claims": [
+      "75%",
+      "15th December"
+    ],
+    "source_chunk_ids": [
+      "054173be17a699ce9dcc81fdab83173e"
+    ],
+    "source_text_evidence": "3. On or before the Not less than 75% of such advance tax, as reduced by the 15th December.",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.2727272727272727,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Verify December 15th percentage.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q46",
+    "question": "What is the daily penalty under Section 459(1)(a) if a reporting entity fails to submit its report for under a month?",
+    "question_type": "penalty",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "1"
+    ],
+    "gold_keywords": [
+      "reporting entity",
+      "penalty",
+      "5000",
+      "every day",
+      "not exceed one month"
+    ],
+    "gold_numeric_claims": [
+      "5000"
+    ],
+    "source_chunk_ids": [
+      "5254d9b66ab0b8289bbddc0f3a1cabba"
+    ],
+    "source_text_evidence": "(a) 5000 for every day for which the failure continues, if the period of failure does not exceed one month;",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.14285714285714285,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Penalty for short reporting failure.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q47",
+    "question": "What daily penalty applies under Section 459(1)(b) if a reporting entity default continues for more than a month?",
+    "question_type": "penalty",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "1"
+    ],
+    "gold_keywords": [
+      "reporting entity",
+      "penalty",
+      "15000",
+      "every day",
+      "beyond",
+      "one month"
+    ],
+    "gold_numeric_claims": [
+      "15000"
+    ],
+    "source_chunk_ids": [
+      "5254d9b66ab0b8289bbddc0f3a1cabba"
+    ],
+    "source_text_evidence": "(b) 15000 for every day for which the failure continues beyond the period of one month.",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.125,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Penalty for long reporting failure.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q48",
+    "question": "What penalty can be imposed under Section 459(2) on reporting entities for failing to furnish requested information?",
+    "question_type": "penalty",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "2"
+    ],
+    "gold_keywords": [
+      "reporting entity",
+      "fails to produce",
+      "5000",
+      "every day"
+    ],
+    "gold_numeric_claims": [
+      "5000"
+    ],
+    "source_chunk_ids": [
+      "49233bb39dd96a6be9c11ab2b03cc944"
+    ],
+    "source_text_evidence": "prescribed authority under that section may impose on such entity, a penalty of 5000 for every day during which the failure continues",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.15384615384615385,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Penalty for information default.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q49",
+    "question": "What penalty applies under Section 459(3) for continuing failure after the order has been served on the reporting entity?",
+    "question_type": "penalty",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "3"
+    ],
+    "gold_keywords": [
+      "penalty of fifty thousand rupees",
+      "every day",
+      "failure continues",
+      "service of such order"
+    ],
+    "gold_numeric_claims": [
+      "fifty thousand"
+    ],
+    "source_chunk_ids": [
+      "b244bfd45103de33595cc5762f821c28"
+    ],
+    "source_text_evidence": "prescribed authority may impose penalty of fifty thousand rupees for every day for which such failure continues beginning from the date of service of such order.",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.15384615384615385,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Penalty for post-service defaults.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q50",
+    "question": "Does a daily penalty of 5000 rupees apply under Section 459(2) for failing to produce records?",
+    "question_type": "penalty",
+    "difficulty": "easy",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "2"
+    ],
+    "gold_keywords": [
+      "fails to produce",
+      "penalty of",
+      "5000",
+      "every day"
+    ],
+    "gold_numeric_claims": [
+      "5000"
+    ],
+    "source_chunk_ids": [
+      "49233bb39dd96a6be9c11ab2b03cc944"
+    ],
+    "source_text_evidence": "penalty of 5000 for every day during which the failure continues",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.16666666666666666,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Verify records default penalty.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q51",
+    "question": "Compare the standard deduction limits available to salary earners based on whether their tax is calculated under section 202(1) or in other cases.",
+    "question_type": "cross_section",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "2"
+    ],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "Standard deduction",
+      "75000",
+      "50000",
+      "salary",
+      "202(1)"
+    ],
+    "gold_numeric_claims": [
+      "75000",
+      "50000"
+    ],
+    "source_chunk_ids": [
+      "38b4cbc3e663243a05f7646ba22b8624"
+    ],
+    "source_text_evidence": "Standard deduction. (a) 75000 or the salary, whichever is less, where income-tax is computed under section 202(1); (b) 50000 or the salary, whichever is less, in any other case.",
+    "query_formulation_type": "REASONING",
+    "question_source_token_overlap": 0.4117647058823529,
+    "question_source_phrase_overlap": 1.0,
+    "notes": "Requires comparison between section 2(a) and 2(b) rules.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q52",
+    "question": "How does Section 124(2) modify the contribution limit of 10% mentioned in Section 124(1) for assessees taxed under Section 202(1)?",
+    "question_type": "cross_section",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "124"
+    ],
+    "gold_subsections": [
+      "1",
+      "2"
+    ],
+    "gold_keywords": [
+      "10%",
+      "14%",
+      "substituted",
+      "chargeable to tax under section 202(1)"
+    ],
+    "gold_numeric_claims": [
+      "10",
+      "14"
+    ],
+    "source_chunk_ids": [
+      "718bde1193393d5173651b6890e4590f",
+      "b15b07c754f037c59090a81be0e2f52e"
+    ],
+    "source_text_evidence": "contribution in his account under a pension scheme\nchargeable to tax under section 202(1), the provisions of sub-section (1) shall have effect as if for \"10%\" referred to in clause (b) of that sub-section, \"14%\" had been substituted.",
+    "query_formulation_type": "REASONING",
+    "question_source_token_overlap": 0.4444444444444444,
+    "question_source_phrase_overlap": 1.0,
+    "notes": "Requires reasoning over Section 124(1) and Section 124(2) to explain substitution.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q53",
+    "question": "Compare the daily penalties for a reporting entity's initial default under Section 459(1) versus a continuing default after order service under Section 459(3).",
+    "question_type": "cross_section",
+    "difficulty": "hard",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "1",
+      "3"
+    ],
+    "gold_keywords": [
+      "penalty",
+      "5000",
+      "15000",
+      "50000",
+      "continuing",
+      "order has been served"
+    ],
+    "gold_numeric_claims": [
+      "5000",
+      "15000",
+      "fifty thousand"
+    ],
+    "source_chunk_ids": [
+      "5254d9b66ab0b8289bbddc0f3a1cabba",
+      "b244bfd45103de33595cc5762f821c28"
+    ],
+    "source_text_evidence": "(a) 5000 for every day for which the failure continues, if the period of failure does not exceed one month; (b) 15000 for every day for which the failure continues beyond the period of one month.\nfifty thousand rupees for every day for which such failure continues beginning from the date of service of such order.",
+    "query_formulation_type": "REASONING",
+    "question_source_token_overlap": 0.047619047619047616,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Requires reasoning across multiple chunks to outline rates (5k/15k vs 50k).",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q54",
+    "question": "Compare the deduction limit for employee pension contributions under Section 124(3) versus employer pension contribution under Section 124(1).",
+    "question_type": "cross_section",
+    "difficulty": "hard",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "124"
+    ],
+    "gold_subsections": [
+      "1",
+      "3"
+    ],
+    "gold_keywords": [
+      "deduction",
+      "employer makes any contribution",
+      "pension scheme",
+      "50000",
+      "14%"
+    ],
+    "gold_numeric_claims": [
+      "50000"
+    ],
+    "source_chunk_ids": [
+      "718bde1193393d5173651b6890e4590f",
+      "7f842679efe1b9785762f70a6b6d86d1"
+    ],
+    "source_text_evidence": "contribution in his account under a pension scheme\ndeduction not exceeding 50000, in computation of his total income of the whole of the amount paid or deposited in the tax year by such individual in his account under a pension scheme",
+    "query_formulation_type": "REASONING",
+    "question_source_token_overlap": 0.23529411764705882,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Requires comparing limits in Section 124(1) and Section 124(3).",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q55",
+    "question": "Explain standard daily penalties under Section 459(1) for reporting entity default and Section 459(2) for failing to produce records.",
+    "question_type": "cross_section",
+    "difficulty": "medium",
+    "expected_corpus_status": "SUPPORTED",
+    "gold_act": "Income-tax Act 2025",
+    "gold_sections": [
+      "459"
+    ],
+    "gold_subsections": [
+      "1",
+      "2"
+    ],
+    "gold_keywords": [
+      "5000",
+      "15000",
+      "reporting entity",
+      "fails to produce the information"
+    ],
+    "gold_numeric_claims": [
+      "5000"
+    ],
+    "source_chunk_ids": [
+      "5254d9b66ab0b8289bbddc0f3a1cabba",
+      "49233bb39dd96a6be9c11ab2b03cc944"
+    ],
+    "source_text_evidence": "5000 for every day for which the failure continues, if the period of failure does not exceed one month\npenalty of 5000 for every day during which the failure continues",
+    "query_formulation_type": "REASONING",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Requires reasoning over Section 459(1) and Section 459(2) penalty provisions.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q56",
+    "question": "What are the registration requirements and thresholds for GST in India?",
+    "question_type": "out_of_corpus",
+    "difficulty": "easy",
+    "expected_corpus_status": "NOT_SUPPORTED",
+    "gold_act": "Unknown",
+    "gold_sections": [],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "GST",
+      "registration",
+      "Goods and Services Tax"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [],
+    "source_text_evidence": "",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "GST rules are completely out of corpus for the Income-tax Act 2025.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q57",
+    "question": "What is the penalty for late filing of income tax returns in the United States under the IRS code?",
+    "question_type": "out_of_corpus",
+    "difficulty": "easy",
+    "expected_corpus_status": "NOT_SUPPORTED",
+    "gold_act": "Unknown",
+    "gold_sections": [],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "United States",
+      "IRS",
+      "late filing",
+      "penalty"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [],
+    "source_text_evidence": "",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "US tax laws are out of corpus.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q58",
+    "question": "How is wealth tax calculated for residential properties in France?",
+    "question_type": "out_of_corpus",
+    "difficulty": "easy",
+    "expected_corpus_status": "NOT_SUPPORTED",
+    "gold_act": "Unknown",
+    "gold_sections": [],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "France",
+      "wealth tax",
+      "residential properties"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [],
+    "source_text_evidence": "",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "French tax laws are out of corpus.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q59",
+    "question": "What is the corporate tax rate in Singapore for tech startups?",
+    "question_type": "out_of_corpus",
+    "difficulty": "easy",
+    "expected_corpus_status": "NOT_SUPPORTED",
+    "gold_act": "Unknown",
+    "gold_sections": [],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "Singapore",
+      "corporate tax",
+      "tech startups"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [],
+    "source_text_evidence": "",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Singapore tax laws are out of corpus.",
+    "review_status": "AUTO_GROUNDED"
+  },
+  {
+    "question_id": "Q60",
+    "question": "What are the rules for customs duty exemption on personal baggage for passengers arriving in India?",
+    "question_type": "out_of_corpus",
+    "difficulty": "easy",
+    "expected_corpus_status": "NOT_SUPPORTED",
+    "gold_act": "Unknown",
+    "gold_sections": [],
+    "gold_subsections": [],
+    "gold_keywords": [
+      "customs duty",
+      "exemption",
+      "baggage",
+      "arriving in India"
+    ],
+    "gold_numeric_claims": [],
+    "source_chunk_ids": [],
+    "source_text_evidence": "",
+    "query_formulation_type": "PARAPHRASED",
+    "question_source_token_overlap": 0.0,
+    "question_source_phrase_overlap": 0.0,
+    "notes": "Customs Act is out of corpus.",
+    "review_status": "AUTO_GROUNDED"
+  }
+]

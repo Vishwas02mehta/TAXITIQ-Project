@@ -1,0 +1,4 @@
+Formulation Type,Total Questions,Qwen2.5 Success Count,Qwen2.5 Success Rate,Qwen3 Success Count,Qwen3 Success Rate,Absolute Difference,Qwen2.5 Supported Refusal Rate,Qwen3 Supported Refusal Rate,Qwen2.5 Mean Content Coverage,Qwen3 Mean Content Coverage,Qwen2.5 Mean Token F1,Qwen3 Mean Token F1,Qwen2.5 Mean Keyword Recall,Qwen3 Mean Keyword Recall
+LEXICAL,8,3,37.50%,6,75.00%,37.50%,50.00%,0.00%,0.3416,0.6344,0.2289,0.3672,0.3646,0.6937
+PARAPHRASED,47,22,46.81%,36,76.60%,29.79%,47.62%,9.52%,0.3881,0.6809,0.2425,0.3287,0.4012,0.7139
+REASONING,5,1,20.00%,1,20.00%,0.00%,80.00%,0.00%,0.4065,0.5007,0.2559,0.2615,0.3967,0.4667

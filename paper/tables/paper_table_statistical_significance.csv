@@ -1,0 +1,15 @@
+Metric Name,Value
+"Discordant Pair b (Qwen2.5 Success, Qwen3 Failure)",2
+"Discordant Pair c (Qwen2.5 Failure, Qwen3 Success)",19
+Total Discordant Pairs,21
+Exact Two-Sided McNemar p-value,0.000221
+Continuity-Corrected McNemar Chi-Square,12.1905
+Continuity-Corrected p-value,0.000480
+Alpha Level,0.05
+Statistically Significant (p < 0.05),Yes
+Qwen2.5 Point Estimate Success,43.33%
+Qwen2.5 95% Bootstrap CI,"[31.67%, 56.67%]"
+Qwen3 Point Estimate Success,71.67%
+Qwen3 95% Bootstrap CI,"[60.00%, 83.33%]"
+Absolute Difference Point Estimate,28.33%
+Difference 95% Bootstrap CI,"[15.00%, 41.67%]"

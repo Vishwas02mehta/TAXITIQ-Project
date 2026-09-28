@@ -1,0 +1,10 @@
+Category,Total Questions,Qwen2.5 Success,Qwen3 Success,Success Difference
+Definition,10,7 (70.00%),9 (90.00%),20.00%
+Section Lookup,8,3 (37.50%),7 (87.50%),50.00%
+Eligibility,8,0 (0.00%),4 (50.00%),50.00%
+Deduction,8,4 (50.00%),5 (62.50%),12.50%
+Rate,6,2 (33.33%),4 (66.67%),33.33%
+Deadline,5,2 (40.00%),3 (60.00%),20.00%
+Penalty,5,2 (40.00%),5 (100.00%),60.00%
+Cross Section,5,1 (20.00%),1 (20.00%),0.00%
+Out Of Corpus,5,5 (100.00%),5 (100.00%),0.00%

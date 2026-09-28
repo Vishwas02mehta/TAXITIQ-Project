@@ -1,0 +1,121 @@
+{
+  "qwen2_5": {
+    "token_f1": 0.24171979490988948,
+    "keyword_recall": 0.39545454545454545,
+    "numeric_claim_recall": 0.5128205128205128,
+    "citation_precision": 1.0,
+    "citation_validity_rate": 0.9454545454545454,
+    "unsupported_numeric_claim_count": 0,
+    "refusal_rate_supported": 0.5818181818181818,
+    "average_latency_sec": 134.35950727462767,
+    "total_latency_sec": 8061.570436477661,
+    "average_output_tokens": 40.6,
+    "evidence_available_success_rate": 0.4117647058823529,
+    "correct_refusal_rate_ooc": 1.0,
+    "unsupported_answer_rate_ooc": 0.0,
+    "failure_attribution": {
+      "SUCCESS": 21,
+      "CORPUS_EVIDENCE_INVALID": 0,
+      "RETRIEVAL_FAILURE": 3,
+      "RERANKER_FAILURE": 1,
+      "CONTEXT_ASSEMBLY_FAILURE": 0,
+      "GENERATOR_FAILURE": 30
+    },
+    "success_count": 26,
+    "success_rate": 0.43333333333333335,
+    "generator_failure_reasons": {
+      "EMPTY_RESPONSE": 0,
+      "SUPPORTED_QUESTION_REFUSAL": 28,
+      "CITATION_GROUNDING_FAILURE": 0,
+      "NUMERIC_GROUNDING_FAILURE": 0,
+      "CONTENT_COVERAGE_BELOW_THRESHOLD": 2,
+      "UNSUPPORTED_ANSWER_ON_NOT_SUPPORTED": 0
+    }
+  },
+  "qwen3": {
+    "token_f1": 0.32817099168692154,
+    "keyword_recall": 0.6884848484848485,
+    "numeric_claim_recall": 0.876068376068376,
+    "citation_precision": 0.9878048780487805,
+    "citation_validity_rate": 0.8545454545454545,
+    "unsupported_numeric_claim_count": 1,
+    "refusal_rate_supported": 0.12727272727272726,
+    "average_latency_sec": 281.9000566482544,
+    "total_latency_sec": 16914.003398895264,
+    "average_output_tokens": 68.06666666666666,
+    "evidence_available_success_rate": 0.7450980392156863,
+    "correct_refusal_rate_ooc": 1.0,
+    "unsupported_answer_rate_ooc": 0.0,
+    "failure_attribution": {
+      "SUCCESS": 38,
+      "CORPUS_EVIDENCE_INVALID": 0,
+      "RETRIEVAL_FAILURE": 3,
+      "RERANKER_FAILURE": 1,
+      "CONTEXT_ASSEMBLY_FAILURE": 0,
+      "GENERATOR_FAILURE": 13
+    },
+    "success_count": 43,
+    "success_rate": 0.7166666666666667,
+    "generator_failure_reasons": {
+      "EMPTY_RESPONSE": 4,
+      "SUPPORTED_QUESTION_REFUSAL": 4,
+      "CITATION_GROUNDING_FAILURE": 1,
+      "NUMERIC_GROUNDING_FAILURE": 1,
+      "CONTENT_COVERAGE_BELOW_THRESHOLD": 3,
+      "UNSUPPORTED_ANSWER_ON_NOT_SUPPORTED": 0
+    }
+  },
+  "retrieval": {
+    "vector": {
+      "recall_any_1": 0.6181818181818182,
+      "recall_all_1": 0.5272727272727272,
+      "recall_any_5": 0.8363636363636363,
+      "recall_all_5": 0.8181818181818182,
+      "recall_any_10": 0.8727272727272727,
+      "recall_all_10": 0.8545454545454545,
+      "recall_any_30": 0.9454545454545454,
+      "recall_all_30": 0.9454545454545454,
+      "mrr": 0.7107415772633164
+    },
+    "bm25": {
+      "recall_any_1": 0.34545454545454546,
+      "recall_all_1": 0.32727272727272727,
+      "recall_any_5": 0.6181818181818182,
+      "recall_all_5": 0.5818181818181818,
+      "recall_any_10": 0.6727272727272727,
+      "recall_all_10": 0.6181818181818182,
+      "recall_any_30": 0.8,
+      "recall_all_30": 0.7454545454545455,
+      "mrr": 0.46626111343853277
+    },
+    "hybrid": {
+      "recall_any_1": 0.7454545454545455,
+      "recall_all_1": 0.6545454545454545,
+      "recall_any_5": 0.8363636363636363,
+      "recall_all_5": 0.8181818181818182,
+      "recall_any_10": 0.8545454545454545,
+      "recall_all_10": 0.8545454545454545,
+      "recall_any_30": 0.9454545454545454,
+      "recall_all_30": 0.9454545454545454,
+      "mrr": 0.7916942727504225
+    }
+  },
+  "reranker": {
+    "recall_any_8": 0.9272727272727272,
+    "recall_all_8": 0.9272727272727272,
+    "mean_rank_delta": 2.15,
+    "median_rank_delta": 0.0,
+    "chunks_improved": 15,
+    "chunks_unchanged": 37,
+    "chunks_worsened": 8,
+    "chunks_dropped": 1
+  },
+  "context_assembly": {
+    "gold_any_recall": 0.9272727272727272,
+    "gold_all_recall": 0.9272727272727272,
+    "total_gold_entering": 56,
+    "total_gold_preserved": 56,
+    "total_gold_trimmed": 0,
+    "total_gold_dedup": 0
+  }
+}

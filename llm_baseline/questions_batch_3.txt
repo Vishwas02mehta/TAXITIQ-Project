@@ -1,0 +1,100 @@
+Q101: What is the statutory calculation limit or rate for MAT tax rate under Section 115JB under Section 115JB of the Income-tax Act, 2025?
+
+Q102: What is the statutory calculation limit or rate for AMT tax rate for non-corporate assessees under Section 115JC of the Income-tax Act, 2025?
+
+Q103: What is the statutory calculation limit or rate for capital gains tax rate on STCG under Section 111A under Section 111A of the Income-tax Act, 2025?
+
+Q104: What is the statutory calculation limit or rate for capital gains tax rate on LTCG under Section 112A under Section 112A of the Income-tax Act, 2025?
+
+Q105: What is the statutory calculation limit or rate for tax rate on virtual digital assets under Section 115BBH under Section 115BBH of the Income-tax Act, 2025?
+
+Q106: What is the statutory calculation limit or rate for TDS rate on virtual digital asset transfer under Section 194S under Section 194S of the Income-tax Act, 2025?
+
+Q107: What is the statutory calculation limit or rate for cash withdrawal TDS threshold under Section 194N under Section 194N of the Income-tax Act, 2025?
+
+Q108: What is the statutory calculation limit or rate for benefit/perquisite business TDS threshold under Section 194R under Section 194R of the Income-tax Act, 2025?
+
+Q109: What is the statutory calculation limit or rate for online gaming winning tax rate under Section 115BBJ under Section 115BBJ of the Income-tax Act, 2025?
+
+Q110: What is the statutory calculation limit or rate for online gaming TDS threshold under Section 194BA under Section 194BA of the Income-tax Act, 2025?
+
+Q111: What is the statutory calculation limit or rate for Rule 3 salary perquisite valuation percentage for accommodation under Section 3 of the Income-tax Rules?
+
+Q112: What is the statutory calculation limit or rate for Rule 11UA unquoted equity share valuation formula asset rate under Section 11UA of the Income-tax Rules?
+
+Q113: What is the statutory calculation limit or rate for Rule 2BB transport allowance exemption limit for blind employees under Section 2BB of the Income-tax Rules?
+
+Q114: What is the statutory calculation limit or rate for Rule 2BB children education allowance exemption limit under Section 2BB of the Income-tax Rules?
+
+Q115: What is the statutory calculation limit or rate for Rule 2BB hostel expenditure allowance exemption limit under Section 2BB of the Income-tax Rules?
+
+Q116: What is the statutory calculation limit or rate for CBDT Circular 4/2026 interest rate relaxation threshold under Section 4 of the CBDT Circular 4/2026?
+
+Q117: What is the statutory calculation limit or rate for CBDT Circular 6/2026 monetary limit for filing departmental appeals under Section 6 of the CBDT Circular 6/2026?
+
+Q118: What is the statutory calculation limit or rate for Finance Act 2025 amended Section 112A LTCG tax rate under Section 112A of the Finance Act 2025?
+
+Q119: What is the statutory calculation limit or rate for Finance Act 2024 STCG tax rate amendment under Section 111A under Section 111A of the Finance Act 2024 (No. 2)?
+
+Q120: What is the statutory calculation limit or rate for Finance Act 2023 revised new tax regime slab structure under Section First Schedule of the Finance Act 2023?
+
+Q121: What is the statutory exception or non-applicability proviso for proviso on CSR expenditure disallowance under Section 37 under Section 37 of the Income-tax Act, 2025?
+
+Q122: What is the statutory exception or non-applicability proviso for proviso on cash payments exceeding Rs. 10,000 under Section 40A(3) under Section 40A of the Income-tax Act, 2025?
+
+Q123: What is the statutory exception or non-applicability proviso for proviso on non-deduction of TDS disallowance under Section 40(a)(ia) under Section 40 of the Income-tax Act, 2025?
+
+Q124: What is the statutory exception or non-applicability proviso for proviso on non-deduction of TDS to non-residents under Section 40(a)(i) under Section 40 of the Income-tax Act, 2025?
+
+Q125: What is the statutory exception or non-applicability proviso for exception for MSME payments disallowance under Section 43B(h) under Section 43B of the Income-tax Act, 2025?
+
+Q126: What is the statutory exception or non-applicability proviso for exception to capital asset definition for agricultural land under Section 2 of the Income-tax Act, 2025?
+
+Q127: What is the statutory exception or non-applicability proviso for exception to capital asset definition for personal effects under Section 2 of the Income-tax Act, 2025?
+
+Q128: What is the statutory exception or non-applicability proviso for exception to dividend taxability for inter-corporate dividends under Section 80M of the Income-tax Act, 2025?
+
+Q129: What is the statutory exception or non-applicability proviso for exception on transfer definition for gift and will transfers under Section 47 of the Income-tax Act, 2025?
+
+Q130: What is the statutory exception or non-applicability proviso for exception on transfer definition for company amalgamation under Section 47 of the Income-tax Act, 2025?
+
+Q131: What is the statutory exception or non-applicability proviso for exception on transfer definition for corporate demerger under Section 47 of the Income-tax Act, 2025?
+
+Q132: What is the statutory exception or non-applicability proviso for proviso on clubbing of minor income in case of disability under Section 64 of the Income-tax Act, 2025?
+
+Q133: What is the statutory exception or non-applicability proviso for proviso on clubbing of minor income from manual work under Section 64 of the Income-tax Act, 2025?
+
+Q134: What is the statutory exception or non-applicability proviso for exception to Section 56(2)(x) for gifts received on marriage under Section 56 of the Income-tax Act, 2025?
+
+Q135: What is the statutory exception or non-applicability proviso for exception to Section 56(2)(x) for gifts received under will or inheritance under Section 56 of the Income-tax Act, 2025?
+
+Q136: What is the statutory exception or non-applicability proviso for exception to Section 56(2)(x) for gifts received from relatives under Section 56 of the Income-tax Act, 2025?
+
+Q137: What is the statutory exception or non-applicability proviso for proviso on loss setoff disallowance under speculative business under Section 73 of the Income-tax Act, 2025?
+
+Q138: What is the statutory exception or non-applicability proviso for proviso on capital loss setoff restrictions under Section 70 of the Income-tax Act, 2025?
+
+Q139: What is the statutory exception or non-applicability proviso for exception to Section 269SS cash loan acceptance restriction under Section 269SS of the Income-tax Act, 2025?
+
+Q140: What is the statutory exception or non-applicability proviso for exception to Section 269T cash loan repayment restriction under Section 269T of the Income-tax Act, 2025?
+
+Q141: What is the statutory exception or non-applicability proviso for proviso on non-compete fee taxability under Section 28 under Section 28 of the Income-tax Act, 2025?
+
+Q142: What is the statutory exception or non-applicability proviso for exception to audit requirement under Section 44AB for presumptive tax under Section 44AB of the Income-tax Act, 2025?
+
+Q143: What is the statutory exception or non-applicability proviso for proviso on interest deduction under Section 24(b) for self-occupied house under Section 24 of the Income-tax Act, 2025?
+
+Q144: What is the statutory exception or non-applicability proviso for exception on capital gain taxability for compulsory acquisition of urban agricultural land under Section 10 of the Income-tax Act, 2025?
+
+Q145: What is the statutory exception or non-applicability proviso for Rule 3D exception for medical treatment abroad perquisites under Section 3D of the Income-tax Rules?
+
+Q146: What is the statutory exception or non-applicability proviso for Rule 11AAE exception for non-applicability of valuation to bonus shares under Section 11AAE of the Income-tax Rules?
+
+Q147: What is the statutory exception or non-applicability proviso for CBDT Circular 2/2026 exception on TDS for non-resident shipping under Section 2 of the CBDT Circular 2/2026?
+
+Q148: What is the statutory exception or non-applicability proviso for CBDT Circular 5/2026 exception on penalty for bona fide technical defaults under Section 5 of the CBDT Circular 5/2026?
+
+Q149: What is the statutory exception or non-applicability proviso for Finance Act 2026 proviso on STT non-deductibility for non-business assessees under Section First Schedule of the Finance Act 2026?
+
+Q150: What is the statutory exception or non-applicability proviso for Finance Act 2025 exception on angel tax applicability for registered startups under Section 56 of the Finance Act 2025?
+

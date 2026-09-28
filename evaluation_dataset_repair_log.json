@@ -1,0 +1,42 @@
+[
+  {
+    "old_question_id": "Q36",
+    "old_section": "202",
+    "old_source_chunk_ids": ["4a1524c375386f556714fd78bf00d191"],
+    "new_section": "22",
+    "new_source_chunk_ids": ["25ed1f3515a80aa9acdda134fc1ee363"],
+    "replacement_reason": "Remove near-duplicate Section 202 rate question and improve section diversity by adding house property standard deduction rate."
+  },
+  {
+    "old_question_id": "Q37",
+    "old_section": "202",
+    "old_source_chunk_ids": ["93a25733e70b691ef7931675e364bdac"],
+    "new_section": "23",
+    "new_source_chunk_ids": ["b47e80e66d2898d4aa22e43a6f0e94a1"],
+    "replacement_reason": "Remove near-duplicate Section 202 rate question and improve section diversity by adding arrears of rent deduction rate."
+  },
+  {
+    "old_question_id": "Q38",
+    "old_section": "202",
+    "old_source_chunk_ids": ["d2e17c18c77ac67f92b5a1d7b59237f5"],
+    "new_section": "124",
+    "new_source_chunk_ids": ["718bde1193393d5173651b6890e4590f"],
+    "replacement_reason": "Remove near-duplicate Section 202 rate question and improve section diversity by adding base pension contribution rate limit."
+  },
+  {
+    "old_question_id": "Q39",
+    "old_section": "202",
+    "old_source_chunk_ids": ["815b88c3426ccb69021288a0bdab004c"],
+    "new_section": "124",
+    "new_source_chunk_ids": ["b15b07c754f037c59090a81be0e2f52e"],
+    "replacement_reason": "Remove near-duplicate Section 202 rate question and improve section diversity by adding substituted pension contribution rate limit."
+  },
+  {
+    "old_question_id": "Q51",
+    "old_section": "2",
+    "old_source_chunk_ids": ["38b4cbc3e663243a05f7646ba22b8624"],
+    "new_section": "11, 12",
+    "new_source_chunk_ids": ["185ba1800d312e61cf35409db3cf99da", "c06b6aa209d396b1fa69d98480b39125"],
+    "replacement_reason": "Replace single-chunk reasoning question with a genuine multi-chunk reasoning question comparing Section 11 and Section 12."
+  }
+]

@@ -1,0 +1,789 @@
+{
+  "numbers": [
+    {
+      "metric_name": "total_questions",
+      "value": 60,
+      "display_value": "60",
+      "source_artifact": "evaluation_dataset.json",
+      "source_field": "len()",
+      "allowed_sections": [
+        "abstract",
+        "methodology",
+        "results",
+        "discussion",
+        "outline",
+        "limitations"
+      ]
+    },
+    {
+      "metric_name": "total_chunks",
+      "value": 4123,
+      "display_value": "4,123",
+      "source_artifact": "chunks.json",
+      "source_field": "len()",
+      "allowed_sections": [
+        "methodology",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "supported_questions",
+      "value": 55,
+      "display_value": "55",
+      "source_artifact": "evaluation_dataset.json",
+      "source_field": "expected_corpus_status == SUPPORTED",
+      "allowed_sections": [
+        "methodology",
+        "results",
+        "discussion"
+      ]
+    },
+    {
+      "metric_name": "not_supported_questions",
+      "value": 5,
+      "display_value": "5",
+      "source_artifact": "evaluation_dataset.json",
+      "source_field": "expected_corpus_status == NOT_SUPPORTED",
+      "allowed_sections": [
+        "methodology",
+        "results",
+        "discussion"
+      ]
+    },
+    {
+      "metric_name": "lexical_questions",
+      "value": 8,
+      "display_value": "8",
+      "source_artifact": "evaluation_dataset.json",
+      "source_field": "query_formulation_type == LEXICAL",
+      "allowed_sections": [
+        "methodology",
+        "results"
+      ]
+    },
+    {
+      "metric_name": "paraphrased_questions",
+      "value": 47,
+      "display_value": "47",
+      "source_artifact": "evaluation_dataset.json",
+      "source_field": "query_formulation_type == PARAPHRASED",
+      "allowed_sections": [
+        "methodology",
+        "results"
+      ]
+    },
+    {
+      "metric_name": "reasoning_questions",
+      "value": 5,
+      "display_value": "5",
+      "source_artifact": "evaluation_dataset.json",
+      "source_field": "query_formulation_type == REASONING",
+      "allowed_sections": [
+        "methodology",
+        "results",
+        "limitations"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_success_count",
+      "value": 26,
+      "display_value": "26",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.b_only_qwen2_5 + a_both_success",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_success_rate",
+      "value": 43.33,
+      "display_value": "43.33%",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.success_rate",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen3_success_count",
+      "value": 43,
+      "display_value": "43",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.c_only_qwen3 + a_both_success",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen3_success_rate",
+      "value": 71.67,
+      "display_value": "71.67%",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.success_rate",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "success_difference",
+      "value": 28.33,
+      "display_value": "+28.33",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "success_difference",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "both_success_count",
+      "value": 24,
+      "display_value": "24",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.a_both_success",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "only_qwen2_5_success_count",
+      "value": 2,
+      "display_value": "2",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.b_only_qwen2_5",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "only_qwen3_success_count",
+      "value": 19,
+      "display_value": "19",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.c_only_qwen3",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "both_failure_count",
+      "value": 15,
+      "display_value": "15",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.d_both_failure",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "mcnemar_b",
+      "value": 2,
+      "display_value": "2",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.mcnemar.b",
+      "allowed_sections": [
+        "results",
+        "discussion"
+      ]
+    },
+    {
+      "metric_name": "mcnemar_c",
+      "value": 19,
+      "display_value": "19",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.mcnemar.c",
+      "allowed_sections": [
+        "results",
+        "discussion"
+      ]
+    },
+    {
+      "metric_name": "mcnemar_p_value",
+      "value": 0.000221,
+      "display_value": "0.000221",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.mcnemar.exact_p",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "mcnemar_chi2",
+      "value": 12.1905,
+      "display_value": "12.1905",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.mcnemar.chi2",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "mcnemar_corrected_p",
+      "value": 0.00048,
+      "display_value": "0.000480",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "statistics.mcnemar.corrected_p",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "bootstrap_iterations",
+      "value": 10000,
+      "display_value": "10,000",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.iterations",
+      "allowed_sections": [
+        "methodology",
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "bootstrap_seed",
+      "value": 42,
+      "display_value": "42",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.seed",
+      "allowed_sections": [
+        "methodology",
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_ci_lower",
+      "value": 31.67,
+      "display_value": "31.67%",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.qwen2_5_success_rate.ci_lower_95",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_ci_upper",
+      "value": 56.67,
+      "display_value": "56.67%",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.qwen2_5_success_rate.ci_upper_95",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen3_ci_lower",
+      "value": 60.0,
+      "display_value": "60.00%",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.qwen3_success_rate.ci_lower_95",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen3_ci_upper",
+      "value": 83.33,
+      "display_value": "83.33%",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.qwen3_success_rate.ci_upper_95",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "diff_ci_lower",
+      "value": 15.0,
+      "display_value": "15.00%",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.difference_success_rate.ci_lower_95",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "diff_ci_upper",
+      "value": 41.67,
+      "display_value": "41.67%",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.difference_success_rate.ci_upper_95",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_refusals",
+      "value": 28,
+      "display_value": "28",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "qwen2_5.generator_failure_reasons.SUPPORTED_QUESTION_REFUSAL",
+      "allowed_sections": [
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_refusal_rate",
+      "value": 50.91,
+      "display_value": "50.91%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "qwen2_5.refusal_rate_supported",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen3_refusals",
+      "value": 4,
+      "display_value": "4",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "qwen3.generator_failure_reasons.SUPPORTED_QUESTION_REFUSAL",
+      "allowed_sections": [
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen3_refusal_rate",
+      "value": 7.27,
+      "display_value": "7.27%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "qwen3.refusal_rate_supported",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "ooc_refusal_rate",
+      "value": 100.0,
+      "display_value": "100%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "qwen2_5.correct_refusal_rate_ooc",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen3_citation_failures",
+      "value": 1,
+      "display_value": "1",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "qwen3.generator_failure_reasons.CITATION_GROUNDING_FAILURE",
+      "allowed_sections": [
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen3_numeric_failures",
+      "value": 1,
+      "display_value": "1",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "qwen3.generator_failure_reasons.NUMERIC_GROUNDING_FAILURE",
+      "allowed_sections": [
+        "results",
+        "discussion",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_citation_failures",
+      "value": 0,
+      "display_value": "0",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "qwen2_5.generator_failure_reasons.CITATION_GROUNDING_FAILURE",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_numeric_failures",
+      "value": 0,
+      "display_value": "0",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "qwen2_5.generator_failure_reasons.NUMERIC_GROUNDING_FAILURE",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "vector_recall_1",
+      "value": 61.82,
+      "display_value": "61.82%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.vector.recall_any_1",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "vector_recall_5",
+      "value": 83.64,
+      "display_value": "83.64%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.vector.recall_any_5",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "vector_recall_10",
+      "value": 87.27,
+      "display_value": "87.27%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.vector.recall_any_10",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "vector_recall_30",
+      "value": 94.55,
+      "display_value": "94.55%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.vector.recall_any_30",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "vector_mrr",
+      "value": 0.7107,
+      "display_value": "0.7107",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.vector.mrr",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "bm25_recall_1",
+      "value": 34.55,
+      "display_value": "34.55%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.bm25.recall_any_1",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "bm25_recall_5",
+      "value": 61.82,
+      "display_value": "61.82%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.bm25.recall_any_5",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "bm25_recall_10",
+      "value": 67.27,
+      "display_value": "67.27%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.bm25.recall_any_10",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "bm25_recall_30",
+      "value": 80.0,
+      "display_value": "80.00%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.bm25.recall_any_30",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "bm25_mrr",
+      "value": 0.4663,
+      "display_value": "0.4663",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.bm25.mrr",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "hybrid_recall_1",
+      "value": 74.55,
+      "display_value": "74.55%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.hybrid.recall_any_1",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "hybrid_recall_5",
+      "value": 83.64,
+      "display_value": "83.64%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.hybrid.recall_any_5",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "hybrid_recall_10",
+      "value": 85.45,
+      "display_value": "85.45%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.hybrid.recall_any_10",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "hybrid_recall_30",
+      "value": 94.55,
+      "display_value": "94.55%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.hybrid.recall_any_30",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "hybrid_mrr",
+      "value": 0.7917,
+      "display_value": "0.7917",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "retrieval.hybrid.mrr",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "reranker_recall_any",
+      "value": 92.73,
+      "display_value": "92.73%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "reranker.recall_any_8",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "reranker_recall_all",
+      "value": 92.73,
+      "display_value": "92.73%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "reranker.recall_all_8",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "context_any_recall",
+      "value": 92.73,
+      "display_value": "92.73%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "context_assembly.gold_any_recall",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "context_all_recall",
+      "value": 92.73,
+      "display_value": "92.73%",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "context_assembly.gold_all_recall",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "gold_trimmed",
+      "value": 0,
+      "display_value": "0",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "context_assembly.total_gold_trimmed",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "gold_dedup",
+      "value": 0,
+      "display_value": "0",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field": "context_assembly.total_gold_dedup",
+      "allowed_sections": [
+        "results"
+      ]
+    },
+    {
+      "metric_name": "confidence_level",
+      "value": 95,
+      "display_value": "95%",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "confidence_level",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline",
+        "threats_to_validity",
+        "contributions",
+        "conclusion"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_success_rate_diff_format",
+      "value": 28.33,
+      "display_value": "28.33%",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "success_rate_difference",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline",
+        "conclusion"
+      ]
+    },
+    {
+      "metric_name": "qwen2_5_ci_full",
+      "value": [
+        31.67,
+        56.67
+      ],
+      "display_value": "[31.67%, 56.67%]",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.qwen2_5_success_rate",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "qwen3_ci_full",
+      "value": [
+        60.0,
+        83.33
+      ],
+      "display_value": "[60.00%, 83.33%]",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.qwen3_success_rate",
+      "allowed_sections": [
+        "results",
+        "outline"
+      ]
+    },
+    {
+      "metric_name": "diff_ci_full",
+      "value": [
+        15.0,
+        41.67
+      ],
+      "display_value": "[15.00%, 41.67%]",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.difference_success_rate",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline",
+        "contributions",
+        "conclusion"
+      ]
+    },
+    {
+      "metric_name": "top_p_setup",
+      "value": 0.9,
+      "display_value": "0.9",
+      "source_artifact": "hyperparameters",
+      "source_field": "top_p",
+      "allowed_sections": [
+        "setup",
+        "reproducibility_statement"
+      ]
+    },
+    {
+      "metric_name": "diff_ci_pp",
+      "value": [
+        15.0,
+        41.67
+      ],
+      "display_value": "15.00 to 41.67 percentage points",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field": "bootstrap_results.difference_success_rate",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline",
+        "contributions",
+        "conclusion"
+      ]
+    },
+    {
+      "metric_name": "diff_pp",
+      "value": 28.33,
+      "display_value": "28.33 percentage points",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "success_difference",
+      "allowed_sections": [
+        "abstract",
+        "results",
+        "discussion",
+        "outline",
+        "contributions",
+        "conclusion"
+      ]
+    },
+    {
+      "metric_name": "diff_pp_adj",
+      "value": 28.33,
+      "display_value": "28.33 percentage-point",
+      "source_artifact": "results_integrity_audit.json",
+      "source_field": "success_difference",
+      "allowed_sections": [
+        "contributions"
+      ]
+    }
+  ]
+}

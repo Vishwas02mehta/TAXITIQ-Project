@@ -1,0 +1,59 @@
+Q201: The TDS on benefits/perquisites arising from business/profession under (old) Section 194R was inserted by the Finance Act, 2022, and took effect from 1 July 2022 (i.e., applicable from AY 2023-24).
+
+Q202: The TDS on transfer of virtual digital assets under (old) Section 194S was inserted by the Finance Act, 2022, and took effect from 1 July 2022 (i.e., applicable from AY 2023-24).
+
+Q203: The TDS on net winnings from online games under (old) Section 194BA was inserted by the Finance Act, 2023, and took effect from 1 April 2023 (i.e., applicable from AY 2024-25).
+
+Q204: I recall that STT rates on futures and options (particularly options) were increased via the Finance Act (No. 2), 2024, generally effective from 1 October 2024, but I am not fully confident of the exact revised rate figures without verification, so I won't state specific percentages.
+
+Q205: I do not have confident, verified knowledge of a Finance Act 2025 extension of the Section 80-IAC startup tax holiday eligibility window to 2026 — this is plausible given the pattern of the incorporation-window deadline being extended in multiple past Finance Acts, but I cannot confirm the specific 2025 extension or its exact terms.
+
+Q206: The tax audit report under Section 44AB (Form 3CA/3CB along with Form 3CD) is generally required to be filed at least one month before the due date for filing the return of income under Section 139(1) — historically this has meant a tax audit due date of 30 September (or 31 October for assessees also subject to transfer pricing reporting) of the assessment year, ahead of the corresponding return filing due date. Exact 2025 Act date not confirmed (these dates have occasionally been extended by CBDT).
+
+Q207: Quarterly TDS statements (Form 26Q, for TDS other than salary) are generally due within a specified period after each quarter — historically by 31 July, 31 October, 31 January, and 31 May for the four quarters of the financial year respectively. Exact current 2025/2026 dates not confirmed (occasionally extended by CBDT).
+
+Q208: Form 16 (annual TDS certificate for salary) is generally required to be issued by the employer by 15 June following the end of the financial year in which the income was paid and tax deducted. Exact current date not confirmed.
+
+Q209: Form 16A (TDS certificate for non-salary payments) is generally required to be issued quarterly, within 15 days from the due date for furnishing the corresponding quarterly TDS statement (Form 26Q). Exact current dates not confirmed.
+
+Q210: PAN application via Form 49A (for resident applicants; Form 49AA for non-residents/foreign entities) is generally filed with prescribed documents (proof of identity, address, and date of birth) either online (through NSDL/UTIITSL portals) or offline at designated PAN facilitation centres, along with the prescribed fee; there is no fixed "deadline" as such — it's an application-based procedure to be completed when required (e.g., before undertaking specified financial transactions). Exact current 2025/2026 procedural details not confirmed.
+
+Q211: Where PAN is not linked with Aadhaar by the prescribed deadline, PAN becomes inoperative, and a specified fee applies for linking after the deadline (historically a tiered late fee, e.g., Rs. 1,000 in the applicable window). Consequences of an inoperative PAN generally include higher TDS/TCS deduction (as if PAN were not furnished), inability to file returns, and other specified restrictions. Exact current 2025/2026 fee amount/deadline not confirmed.
+
+Q212: Form 10E must generally be filed electronically before filing the income tax return, in order to validly claim relief under Section 89(1) for salary arrears/advance salary; without filing Form 10E, the relief claim is typically disallowed even if claimed in the return. Exact current procedural details not confirmed.
+
+Q213: Form 67 for claiming Foreign Tax Credit is generally required to be filed on or before the due date for furnishing the return of income under Section 139(1) (a relaxation to permit filing up to the end of the assessment year, in certain cases, was introduced by a later amendment to Rule 128). Exact current 2025/2026 deadline not confirmed.
+
+Q214: Advance tax is generally payable in four installments during the financial year — historically 15% by 15 June, 45% (cumulative) by 15 September, 75% (cumulative) by 15 December, and 100% (cumulative) by 15 March (with a modified single-installment schedule for taxpayers under the presumptive taxation scheme, generally 100% by 15 March). Exact 2025 Act section number/percentages not confirmed.
+
+Q215: An updated return under (old) Section 139(8A) can generally be filed within a specified period from the end of the relevant assessment year (historically up to 24 months, later reportedly extended further), subject to payment of additional tax under (old) Section 140B (historically 25% or 50% of aggregate tax and interest due, depending on the timing of filing within that window). Exact 2025 Act section numbers, current time window, and additional tax percentages not confirmed.
+
+Q216: Statement of Financial Transactions (SFT) in Form 61A is generally required to be filed annually by specified reporting entities, historically by 31 May of the financial year immediately following the financial year in which the transaction is registered/recorded. Exact current 2025/2026 deadline not confirmed.
+
+Q217: Form 15G (for individuals below 60 years and HUFs/other non-company, non-firm assessees) and Form 15H (for senior citizens) are self-declarations submitted to a payer (e.g., a bank) to avoid TDS on specified income (like interest) where the recipient's estimated total income is below the taxable threshold; these are generally required to be submitted before the payment/credit of such income, and payers must generally furnish these declarations to the tax authorities within a specified period. Exact current 2025/2026 filing details not confirmed.
+
+Q218: Form 10A is generally used for registration of charitable/religious trusts or institutions under the applicable provisions (both fresh registration and re-registration/renewal in specified circumstances), to be filed electronically with prescribed documents within specified timelines relative to commencement of activities or expiry of prior registration validity. Exact current 2025/2026 procedural timelines not confirmed (registration/renewal procedures for trusts were significantly overhauled in recent years and I'm not fully confident of the exact current form/timeline mapping between Form 10A and Form 10AB).
+
+Q219: Form 10B (or Form 10BB, depending on income/receipt thresholds) is the audit report required for charitable/religious trusts or institutions claiming exemption, generally required to be filed at least a specified period before the due date for filing the return of income (historically the same one-month-before-return-due-date pattern as Section 44AB tax audits). Exact current 2025/2026 threshold distinguishing Form 10B vs 10BB, and exact deadline, not confirmed.
+
+Q220: I cannot answer this. I have no reliable record of "CBDT Circular 1/2026" or any compliance extension for foreign portfolio investors described in it, and I should not fabricate specific circular content I cannot verify.
+
+Q221: This question falls outside the Income-tax Act corpus — GST (Goods and Services Tax) rates on telecommunication services are governed by GST law (CGST/SGST/IGST Acts and related notifications), not the Income-tax Act. I don't have a confident, current GST rate figure to offer here, and answering from the Income-tax Act framework wouldn't be accurate.
+
+Q222: This question falls outside the Income-tax Act corpus — customs duty/import tariffs on crude palm oil are governed by the Customs Act and Customs Tariff Act (and periodic notifications), not the Income-tax Act. I cannot provide a reliable current rate.
+
+Q223: This question falls outside the Income-tax Act corpus — stamp duty and registration fee rates are governed by state-specific stamp legislation (e.g., the Maharashtra Stamp Act), not the (central) Income-tax Act. I cannot provide a reliable current rate.
+
+Q224: This question falls outside the Income-tax Act corpus — municipal property tax in New Delhi is governed by municipal corporation bye-laws/the relevant Municipal Corporation Act, not the Income-tax Act. I cannot provide a reliable current calculation methodology/rate.
+
+Q225: This question falls outside the Income-tax Act corpus — VAT on petrol in Karnataka is governed by state VAT legislation (petroleum products remain outside GST and are taxed under state VAT), not the Income-tax Act. I cannot provide a reliable current rate.
+
+Q226: This question falls outside the Income-tax Act corpus — professional tax is a state-level levy (e.g., under the West Bengal State Tax on Professions, Trades, Callings and Employments Act), not governed by the (central) Income-tax Act. I cannot provide reliable current slab rates.
+
+Q227: This question falls outside the Income-tax Act corpus (as commonly understood) — Securities Transaction Tax (STT) under Indian law applies only to transactions on recognized Indian stock exchanges (and specified transactions), not to trades executed on US exchanges like NASDAQ, which fall outside Indian STT's scope entirely. There is no applicable STT rate on NASDAQ trades under Indian law.
+
+Q228: This question falls outside the Income-tax Act corpus — UK corporate/gift tax legislation (e.g., UK Inheritance Tax rules) is foreign law, not part of the Indian Income-tax Act. I cannot reliably state current UK gift tax limits, and this is outside the scope of what this question set purports to test.
+
+Q229: This question falls outside the Income-tax Act corpus — Singapore's corporate tax rate for software/other companies is governed by Singapore's Income Tax Act, not India's. I cannot reliably state current Singapore rates, and this falls outside the scope of the Indian Income-tax Act corpus.
+
+Q230: This question falls outside the Income-tax Act corpus — excise duty on alcoholic liquor for human consumption is a state subject (states levy excise duty on alcohol under their own excise legislation; it is excluded from GST), not governed by the (central) Income-tax Act. I cannot provide reliable current rates.

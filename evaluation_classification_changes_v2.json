@@ -1,0 +1,3062 @@
+[
+  {
+    "question_id": "Q01",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.26573426573426573,
+      "keyword_recall": 0.8,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.26573426573426573,
+      "keyword_recall": 0.8,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.7531468531468531,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q02",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.3185840707964602,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.3185840707964602,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.8296460176991151,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q02",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.3302752293577982,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.3302752293577982,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.8325688073394495,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q04",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.2362204724409449,
+      "keyword_recall": 0.8333333333333334,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.2362204724409449,
+      "keyword_recall": 0.8333333333333334,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.7639107611548557,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q04",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.2666666666666667,
+      "keyword_recall": 1.0,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.2666666666666667,
+      "keyword_recall": 1.0,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.8533333333333334,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q05",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.10526315789473684,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.10526315789473684,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.02631578947368421,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q10",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.17391304347826086,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.17391304347826086,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.034782608695652174,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q11",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.2622950819672131,
+      "keyword_recall": 0.4,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.2622950819672131,
+      "keyword_recall": 0.4,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.5524590163934426,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q11",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.20289855072463767,
+      "keyword_recall": 0.6,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.20289855072463767,
+      "keyword_recall": 0.6,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": true,
+      "content_coverage_score": 0.6405797101449275,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q12",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.1142857142857143,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.1142857142857143,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.02285714285714286,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q13",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.1176470588235294,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.1176470588235294,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.02941176470588235,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q14",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.23157894736842105,
+      "keyword_recall": 0.25,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.23157894736842105,
+      "keyword_recall": 0.25,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.1713157894736842,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q16",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.28888888888888886,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.28888888888888886,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.7327777777777779,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q17",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.2444444444444444,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.2444444444444444,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.7238888888888889,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q17",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.2985074626865672,
+      "keyword_recall": 0.5,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.2985074626865672,
+      "keyword_recall": 0.5,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.6097014925373134,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q18",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.0425531914893617,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0425531914893617,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.00851063829787234,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q18",
+    "model": "qwen3",
+    "old_success": true,
+    "new_success": false,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.40559440559440557,
+      "keyword_recall": 0.5,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 1,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": true
+    },
+    "new_metrics": {
+      "f1": 0.40559440559440557,
+      "keyword_recall": 0.5,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 1,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.6311188811188811,
+      "failure_reasons": [
+        "NUMERIC_GROUNDING_FAILURE"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "NUMERIC_GROUNDING_FAILURE"
+    ],
+    "short_explanation": "Model output changed from SUCCESS to FAILURE due to: NUMERIC_GROUNDING_FAILURE."
+  },
+  {
+    "question_id": "Q19",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.0,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q19",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.17721518987341772,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.17721518987341772,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.7943037974683544,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q20",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.05405405405405406,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.05405405405405406,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.013513513513513514,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q20",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.2119205298013245,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.2119205298013245,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.8029801324503312,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q21",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.09523809523809523,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.09523809523809523,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.023809523809523808,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q21",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.25862068965517243,
+      "keyword_recall": 0.75,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.25862068965517243,
+      "keyword_recall": 0.75,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.6271551724137931,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q22",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.04938271604938271,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.04938271604938271,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.012345679012345678,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q23",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.045454545454545456,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.045454545454545456,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.009090909090909092,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q23",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false,
+      "content_coverage_score": 0.0,
+      "failure_reasons": [
+        "EMPTY_RESPONSE"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "EMPTY_RESPONSE"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['EMPTY_RESPONSE'])."
+  },
+  {
+    "question_id": "Q24",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.23611111111111116,
+      "keyword_recall": 0.25,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.23611111111111116,
+      "keyword_recall": 0.25,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.17222222222222222,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q25",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.0625,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0625,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.015625,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q25",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.2075471698113208,
+      "keyword_recall": 0.5,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.2075471698113208,
+      "keyword_recall": 0.5,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.4268867924528302,
+      "failure_reasons": [
+        "CONTENT_COVERAGE_BELOW_THRESHOLD"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "CONTENT_COVERAGE_BELOW_THRESHOLD"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['CONTENT_COVERAGE_BELOW_THRESHOLD'])."
+  },
+  {
+    "question_id": "Q26",
+    "model": "qwen2_5",
+    "old_success": true,
+    "new_success": false,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.43478260869565216,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": true
+    },
+    "new_metrics": {
+      "f1": 0.43478260869565216,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.8586956521739131,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Model output changed from SUCCESS to FAILURE due to: SUPPORTED_QUESTION_REFUSAL."
+  },
+  {
+    "question_id": "Q26",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.19259259259259262,
+      "keyword_recall": 0.75,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.19259259259259262,
+      "keyword_recall": 0.75,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.6106481481481482,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q28",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.3478260869565218,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.3478260869565218,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.7445652173913044,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q28",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.3333333333333333,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.3333333333333333,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.7416666666666667,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q29",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.08,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.08,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.016,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q29",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.048484848484848485,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.048484848484848485,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.343030303030303,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q30",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false,
+      "content_coverage_score": 0.0,
+      "failure_reasons": [
+        "EMPTY_RESPONSE"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "EMPTY_RESPONSE"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['EMPTY_RESPONSE'])."
+  },
+  {
+    "question_id": "Q31",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.20689655172413793,
+      "keyword_recall": 0.4,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.20689655172413793,
+      "keyword_recall": 0.4,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.5413793103448276,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q32",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.045454545454545456,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.045454545454545456,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.009090909090909092,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q33",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.20930232558139536,
+      "keyword_recall": 0.25,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.20930232558139536,
+      "keyword_recall": 0.25,
+      "numeric_recall": null,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.23982558139534885,
+      "failure_reasons": [
+        "CONTENT_COVERAGE_BELOW_THRESHOLD"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "CONTENT_COVERAGE_BELOW_THRESHOLD"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['CONTENT_COVERAGE_BELOW_THRESHOLD'])."
+  },
+  {
+    "question_id": "Q36",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.0588235294117647,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0588235294117647,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.011764705882352941,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q36",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.24193548387096772,
+      "keyword_recall": 1.0,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.24193548387096772,
+      "keyword_recall": 1.0,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "HIGH",
+      "success": true,
+      "content_coverage_score": 0.8483870967741935,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q38",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.44680851063829785,
+      "keyword_recall": 0.25,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.44680851063829785,
+      "keyword_recall": 0.25,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": true,
+      "content_coverage_score": 0.5143617021276595,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q39",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.11538461538461536,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.11538461538461536,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.023076923076923075,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q40",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.0,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q40",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.047058823529411764,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.047058823529411764,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.6427450980392156,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q41",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.11904761904761905,
+      "keyword_recall": 1.0,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.11904761904761905,
+      "keyword_recall": 1.0,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.8238095238095239,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q42",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.3225806451612903,
+      "keyword_recall": 0.3333333333333333,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.3225806451612903,
+      "keyword_recall": 0.3333333333333333,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false,
+      "content_coverage_score": 0.23118279569892472,
+      "failure_reasons": [
+        "CONTENT_COVERAGE_BELOW_THRESHOLD"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "CONTENT_COVERAGE_BELOW_THRESHOLD"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['CONTENT_COVERAGE_BELOW_THRESHOLD'])."
+  },
+  {
+    "question_id": "Q42",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false,
+      "content_coverage_score": 0.0,
+      "failure_reasons": [
+        "EMPTY_RESPONSE"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "EMPTY_RESPONSE"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['EMPTY_RESPONSE'])."
+  },
+  {
+    "question_id": "Q43",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.5357142857142857,
+      "keyword_recall": 1.0,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.5357142857142857,
+      "keyword_recall": 1.0,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": true,
+      "content_coverage_score": 0.9071428571428573,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q45",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.06666666666666667,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.06666666666666667,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.013333333333333334,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q45",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.3008849557522124,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": 0.5,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.3008849557522124,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": 0.5,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": true,
+      "content_coverage_score": 0.5435103244837758,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q46",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.06451612903225806,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.06451612903225806,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.012903225806451613,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q47",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.19999999999999998,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.19999999999999998,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.6733333333333333,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q47",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.3333333333333333,
+      "keyword_recall": 0.8333333333333334,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.3333333333333333,
+      "keyword_recall": 0.8333333333333334,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.7833333333333333,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q48",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.060606060606060615,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.060606060606060615,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.012121212121212123,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q50",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.2095238095238095,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.2095238095238095,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.7169047619047619,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q50",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.20253164556962022,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.20253164556962022,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.7155063291139241,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q51",
+    "model": "qwen2_5",
+    "old_success": true,
+    "new_success": false,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.36363636363636365,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true
+    },
+    "new_metrics": {
+      "f1": 0.36363636363636365,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.5909090909090909,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Model output changed from SUCCESS to FAILURE due to: SUPPORTED_QUESTION_REFUSAL."
+  },
+  {
+    "question_id": "Q52",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.39473684210526316,
+      "keyword_recall": 0.5,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.39473684210526316,
+      "keyword_recall": 0.5,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": true,
+      "content_coverage_score": 0.6289473684210527,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q52",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.3636363636363637,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 0.5,
+      "citation_validity": false,
+      "unsupported_citation_count": 1,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.3636363636363637,
+      "keyword_recall": 0.75,
+      "numeric_recall": 1.0,
+      "citation_precision": 0.5,
+      "citation_validity": false,
+      "unsupported_citation_count": 1,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false,
+      "content_coverage_score": 0.7477272727272728,
+      "failure_reasons": [
+        "CITATION_GROUNDING_FAILURE"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "CITATION_GROUNDING_FAILURE"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['CITATION_GROUNDING_FAILURE'])."
+  },
+  {
+    "question_id": "Q53",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.16260162601626013,
+      "keyword_recall": 0.16666666666666666,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.16260162601626013,
+      "keyword_recall": 0.16666666666666666,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.11585365853658536,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q53",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.24309392265193366,
+      "keyword_recall": 0.3333333333333333,
+      "numeric_recall": 0.6666666666666666,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.24309392265193366,
+      "keyword_recall": 0.3333333333333333,
+      "numeric_recall": 0.6666666666666666,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.4152854511970534,
+      "failure_reasons": [
+        "CONTENT_COVERAGE_BELOW_THRESHOLD"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "CONTENT_COVERAGE_BELOW_THRESHOLD"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['CONTENT_COVERAGE_BELOW_THRESHOLD'])."
+  },
+  {
+    "question_id": "Q54",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.24427480916030533,
+      "keyword_recall": 0.4,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.24427480916030533,
+      "keyword_recall": 0.4,
+      "numeric_recall": 1.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "HIGH",
+      "success": false,
+      "content_coverage_score": 0.5488549618320611,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q54",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": false,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "LOW",
+      "success": false,
+      "content_coverage_score": 0.0,
+      "failure_reasons": [
+        "EMPTY_RESPONSE"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "EMPTY_RESPONSE"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['EMPTY_RESPONSE'])."
+  },
+  {
+    "question_id": "Q55",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.11428571428571428,
+      "keyword_recall": 0.25,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.11428571428571428,
+      "keyword_recall": 0.25,
+      "numeric_recall": 0.0,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.14785714285714285,
+      "failure_reasons": [
+        "SUPPORTED_QUESTION_REFUSAL"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "SUPPORTED_QUESTION_REFUSAL"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['SUPPORTED_QUESTION_REFUSAL'])."
+  },
+  {
+    "question_id": "Q55",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": false,
+    "old_failure_stage": "GENERATOR_FAILURE",
+    "new_failure_stage": "GENERATOR_FAILURE",
+    "old_metrics": {
+      "f1": 0.18867924528301888,
+      "keyword_recall": 0.25,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.18867924528301888,
+      "keyword_recall": 0.25,
+      "numeric_recall": 1.0,
+      "citation_precision": 1.0,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": false,
+      "confidence": "MEDIUM",
+      "success": false,
+      "content_coverage_score": 0.46273584905660375,
+      "failure_reasons": [
+        "CONTENT_COVERAGE_BELOW_THRESHOLD"
+      ]
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [
+      "CONTENT_COVERAGE_BELOW_THRESHOLD"
+    ],
+    "short_explanation": "Failure stage/reason updated (Stage: GENERATOR_FAILURE -> GENERATOR_FAILURE, Reasons: ['CONTENT_COVERAGE_BELOW_THRESHOLD'])."
+  },
+  {
+    "question_id": "Q56",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.0,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q56",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.75,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q57",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.75,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q57",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.5,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.5,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.375,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q58",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.0,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q58",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.6666666666666666,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.5,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q59",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.0,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q59",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 1.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.75,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q60",
+    "model": "qwen2_5",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.0,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  },
+  {
+    "question_id": "Q60",
+    "model": "qwen3",
+    "old_success": false,
+    "new_success": true,
+    "old_failure_stage": "SUCCESS",
+    "new_failure_stage": "SUCCESS",
+    "old_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": false
+    },
+    "new_metrics": {
+      "f1": 0.0,
+      "keyword_recall": 0.0,
+      "numeric_recall": null,
+      "citation_precision": null,
+      "citation_validity": true,
+      "unsupported_citation_count": 0,
+      "unsupported_numeric_claim_count": 0,
+      "refusal": true,
+      "confidence": "MEDIUM",
+      "success": true,
+      "content_coverage_score": 0.0,
+      "failure_reasons": []
+    },
+    "old_rule": "V1 metrics rules (token F1 >= 0.35, keyword recall >= 0.5, numeric recall >= 0.5, citation validity = True)",
+    "new_rule": "INDIALAWRAG_SCORING_V2 Offline scoring rules (supported refusal check, grounding check, versioned content coverage >= 0.50)",
+    "failure_reasons": [],
+    "short_explanation": "Model output changed from FAILURE to SUCCESS under version 2 criteria."
+  }
+]

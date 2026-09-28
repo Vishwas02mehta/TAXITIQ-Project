@@ -1,0 +1,3036 @@
+{
+  "Claude Sonnet 4": [
+    {
+      "question_id": "Q007",
+      "question": "What is the statutory definition of securities under Section 3 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "I do not have confident recall of a \"securities\" definition under Section 3 specifically. Under the old Act, \"securities\" generally took the meaning under the Securities Contracts (Regulation) Act, 1956, referenced in specific provisions (e.g., capital gains, TDS on interest on securities). Cannot confirm 2025 Act section/clause.",
+      "gold_answer": "Securities are defined under Section 3(7) to include shares, stocks, debentures, and marketable securities.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "3"
+      ],
+      "gold_sections": [
+        "3"
+      ]
+    },
+    {
+      "question_id": "Q036",
+      "question": "What is the statutory definition of urban area under Section 2 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "\"Urban area\" is generally used for classification purposes (e.g., agricultural land, HRA) based on population and distance from municipal limits, as notified/prescribed. Exact clause and thresholds not confirmed under the 2025 Act.",
+      "gold_answer": "Defined under Section 2(14) based on municipal status and minimum population threshold.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q045",
+      "question": "Who is eligible to claim Swachh Bharat Kosh donation under Section 133 of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Donations to the Swachh Bharat Kosh are generally eligible for 100% deduction (analogous to old Section 80G), available to donors other than those claiming CSR expenditure for the same contribution (companies cannot claim both CSR credit and 80G-type deduction for the same donation). Exact Section 133 eligibility conditions under the 2025 Act not fully confirmed.",
+      "gold_answer": "Donations to Swachh Bharat Kosh qualify for 100% deduction provided they are non-CSR contributions under Section 133.",
+      "fabricated_sections": [
+        "80G"
+      ],
+      "cited_sections": [
+        "80G",
+        "133"
+      ],
+      "gold_sections": [
+        "133"
+      ]
+    },
+    {
+      "question_id": "Q046",
+      "question": "Who is eligible to claim Clean Ganga Fund donation under Section 133 of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Donations to the Clean Ganga Fund are generally eligible for 100% deduction (analogous to old Section 80G), similarly restricted so that CSR-mandated corporate donations don't also claim the tax deduction. Exact Section 133 eligibility conditions under the 2025 Act not fully confirmed.",
+      "gold_answer": "Resident assessees are eligible for 100% deduction for contributions to Clean Ganga Fund under Section 133.",
+      "fabricated_sections": [
+        "80G"
+      ],
+      "cited_sections": [
+        "80G",
+        "133"
+      ],
+      "gold_sections": [
+        "133"
+      ]
+    },
+    {
+      "question_id": "Q048",
+      "question": "Who is eligible to claim HUF donation deduction under Section 123 of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "I do not have confident recall of a specific \"HUF donation deduction\" provision under Section 123 of the 2025 Act. Generally, HUFs (like individuals) are eligible for donation-based deductions (analogous to old Section 80G) subject to the same qualifying fund/institution and percentage-of-income conditions as other non-corporate assessees. Exact Section 123 conditions not confirmed.",
+      "gold_answer": "HUFs making donations to approved trusts are eligible for deduction under Section 123.",
+      "fabricated_sections": [
+        "80G"
+      ],
+      "cited_sections": [
+        "123",
+        "80G",
+        "123"
+      ],
+      "gold_sections": [
+        "123"
+      ]
+    },
+    {
+      "question_id": "Q050",
+      "question": "Who is eligible to claim retrenchment compensation exemption under Section 10B of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Retrenchment compensation is generally exempt up to the amount specified under the Industrial Disputes Act, 1947, or a specified monetary limit, whichever is less, analogous to old Section 10(10B). Exact 2025 Act section number and current limit not confirmed (the \"Section 10B\" reference in the question may not correspond to the 2025 Act's actual numbering).",
+      "gold_answer": "Workmen are eligible for retrenchment exemption under Section 10(10B) up to Rs. 5 lakhs.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "10(10B)",
+        "10B"
+      ],
+      "gold_sections": [
+        "10B"
+      ]
+    },
+    {
+      "question_id": "Q051",
+      "question": "Who is eligible to claim voluntary retirement scheme (VRS) exemption under Section 10C of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "VRS exemption is generally available to employees of specified undertakings (public sector companies, other companies, authorities, cooperative societies, universities, IITs, local authorities, etc.) who retire under a voluntary retirement/separation scheme meeting prescribed guidelines, exempt up to a specified monetary ceiling (historically Rs. 5 lakh under old S.10(10C)). Exact 2025 Act eligibility conditions/ceiling not confirmed.",
+      "gold_answer": "Employees taking VRS under approved guidelines qualify for exemption up to Rs. 5 lakhs under Section 10(10C).",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "10C"
+      ]
+    },
+    {
+      "question_id": "Q053",
+      "question": "Who is eligible to claim medical insurance premium deduction under Section 80D of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Medical insurance premium deduction is generally available to individuals and HUFs paying premium for health insurance of self, spouse, dependent children, or parents, with additional limits for senior citizens (analogous to old Section 80D). Exact 2025 Act limits not confirmed.",
+      "gold_answer": "Individual and HUF assessees paying health insurance premiums qualify under Section 80D.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80D"
+      ],
+      "gold_sections": [
+        "80D"
+      ]
+    },
+    {
+      "question_id": "Q054",
+      "question": "Who is eligible to claim interest on handicap medical treatment deduction under Section 80DD of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Deduction for maintenance/medical treatment of a dependent with disability is generally available to individuals/HUFs, with a higher deduction for severe disability, regardless of actual expenditure amount (analogous to old Section 80DD). This is a flat deduction, not \"interest on\" medical treatment — I flag that the question's framing (\"interest on handicap medical treatment\") appears inaccurate; the provision covers a fixed deduction, not interest. Exact 2025 Act limits not confirmed.",
+      "gold_answer": "Resident individuals and HUFs maintaining disabled dependents qualify under Section 80DD.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80DD"
+      ],
+      "gold_sections": [
+        "80DD"
+      ]
+    },
+    {
+      "question_id": "Q056",
+      "question": "Who is eligible to claim electric vehicle loan interest deduction under Section 80EEB of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Deduction for interest on loan for purchase of electric vehicle is generally available to individuals, subject to loan sanction within a specified period from a financial institution/NBFC, up to a specified monetary ceiling (historically Rs. 1.5 lakh under old Section 80EEB). Exact 2025 Act eligibility window/limit not confirmed (this incentive may also have lapsed depending on sanction-date cutoffs).",
+      "gold_answer": "Individuals purchasing electric vehicles on institutional loans qualify under Section 80EEB.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80EEB"
+      ],
+      "gold_sections": [
+        "80EEB"
+      ]
+    },
+    {
+      "question_id": "Q057",
+      "question": "Who is eligible to claim scientific research donation deduction under Section 80GGA of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Deduction for donations for scientific research or rural development is generally available to any assessee, for sums paid to approved research associations, universities, colleges, or specified institutions/rural development programs (analogous to old Section 80GGA), generally with 100% deduction, subject to conditions and typically not available if the assessee has business income eligible for other similar deductions. Exact 2025 Act conditions not confirmed.",
+      "gold_answer": "Non-business assessees making donations to approved research institutions qualify under Section 80GGA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80GGA"
+      ],
+      "gold_sections": [
+        "80GGA"
+      ]
+    },
+    {
+      "question_id": "Q060",
+      "question": "Who is eligible to claim royalty on patents deduction under Section 80RRB of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Deduction for royalty income on patents is generally available to resident individuals who are patentees (or co-patentees) registered under the Patents Act, 1970, deriving royalty income, up to a specified monetary ceiling (historically Rs. 3 lakh under old Section 80RRB). Exact 2025 Act limit not confirmed.",
+      "gold_answer": "Resident individual patent inventors qualify for royalty deduction under Section 80RRB.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80RRB"
+      ],
+      "gold_sections": [
+        "80RRB"
+      ]
+    },
+    {
+      "question_id": "Q061",
+      "question": "Who is eligible to claim savings account interest deduction under Section 80TTA of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Deduction for interest on savings bank account is generally available to individuals and HUFs (not to those already claiming Section 80TTB), up to a specified ceiling (historically Rs. 10,000 under old Section 80TTA). Exact 2025 Act limit not confirmed.",
+      "gold_answer": "Individual and HUF non-senior citizen taxpayers qualify under Section 80TTA.",
+      "fabricated_sections": [
+        "80TTB"
+      ],
+      "cited_sections": [
+        "80TTB",
+        "80TTA"
+      ],
+      "gold_sections": [
+        "80TTA"
+      ]
+    },
+    {
+      "question_id": "Q062",
+      "question": "Who is eligible to claim senior citizen deposit interest deduction under Section 80TTB of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Deduction for interest on deposits (savings/fixed) is generally available to senior citizen resident individuals, up to a specified ceiling (historically Rs. 50,000 under old Section 80TTB), in lieu of the lower Section 80TTA-type deduction. Exact 2025 Act limit not confirmed.",
+      "gold_answer": "Resident senior citizens earning interest on bank or post office deposits qualify under Section 80TTB.",
+      "fabricated_sections": [
+        "80TTA"
+      ],
+      "cited_sections": [
+        "80TTB",
+        "80TTA"
+      ],
+      "gold_sections": [
+        "80TTB"
+      ]
+    },
+    {
+      "question_id": "Q064",
+      "question": "Who is eligible to claim presumptive professional tax eligibility under Section 44ADA of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Presumptive taxation for specified professions is generally available to resident individuals (and certain firms, excluding LLPs) in specified professions (legal, medical, engineering, architectural, accountancy, technical consultancy, interior decoration, etc.) with gross receipts below a specified threshold, presuming income at a specified percentage (historically 50% under old Section 44ADA). Exact 2025 Act thresholds/percentage not confirmed.",
+      "gold_answer": "Specified resident professionals with receipts below threshold qualify under Section 44ADA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44ADA"
+      ],
+      "gold_sections": [
+        "44ADA"
+      ]
+    },
+    {
+      "question_id": "Q065",
+      "question": "Who is eligible to claim goods carriage presumptive tax eligibility under Section 44AE of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Presumptive taxation for goods carriage business is generally available to assessees owning not more than a specified number of goods carriages during the year, presuming income per vehicle per month (analogous to old Section 44AE). Exact 2025 Act vehicle limit/per-vehicle amount not confirmed.",
+      "gold_answer": "Transporters owning no more than 10 goods vehicles qualify under Section 44AE.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44AE"
+      ],
+      "gold_sections": [
+        "44AE"
+      ]
+    },
+    {
+      "question_id": "Q066",
+      "question": "Who is eligible to claim startup tax holiday eligibility under Section 80IAC of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Tax holiday for eligible startups is generally available to companies/LLPs recognized as \"eligible startups\" (incorporated within a specified window, meeting turnover and innovation/scalability conditions as notified by DPIIT), allowing 100% profit deduction for 3 consecutive years out of a specified initial block of years (analogous to old Section 80-IAC). Exact 2025 Act incorporation-window cutoff and conditions not confirmed (this is an area that gets extended/amended frequently via Finance A",
+      "gold_answer": "Recognized eligible startups satisfying turnover and incorporation criteria qualify under Section 80IAC.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80"
+      ],
+      "gold_sections": [
+        "80IAC"
+      ]
+    },
+    {
+      "question_id": "Q067",
+      "question": "Who is eligible to claim tea development account deduction under Section 33AB of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Deduction for deposits in a Tea Development Account is generally available to assessees carrying on business of growing and manufacturing tea in India, for amounts deposited with NABARD/a specified account under an approved scheme (analogous to old Section 33AB). Exact 2025 Act conditions/percentage limit not confirmed.",
+      "gold_answer": "Tea, coffee, and rubber growers depositing funds with NABARD qualify under Section 33AB.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "33AB"
+      ],
+      "gold_sections": [
+        "33AB"
+      ]
+    },
+    {
+      "question_id": "Q068",
+      "question": "Who is eligible to claim site restoration fund deduction under Section 33ABA of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Deduction for deposits in a Site Restoration Fund is generally available to assessees carrying on business of prospecting for, or extraction/production of, petroleum or natural gas in India under an agreement with the Central Government, for amounts deposited with SBI/a specified account (analogous to old Section 33ABA). Exact 2025 Act conditions/percentage limit not confirmed.",
+      "gold_answer": "Petroleum and gas extraction entities depositing funds in SBI account qualify under Section 33ABA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "33ABA"
+      ],
+      "gold_sections": [
+        "33ABA"
+      ]
+    },
+    {
+      "question_id": "Q072",
+      "question": "Who is eligible to claim amortization of preliminary expenses under Section 35D of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Amortization of preliminary expenses (e.g., project report, feasibility study, incorporation expenses) is generally available to Indian companies and resident non-corporate assessees, for specified expenditure incurred before commencement of business or in connection with extension/new unit, spread over a specified number of years (historically 5 years, subject to a cap based on cost of project/capital employed, under old Section 35D). Exact 2025 Act limits not confirmed.",
+      "gold_answer": "Indian companies and resident assessees incurring setup expenses qualify under Section 35D.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "35D"
+      ],
+      "gold_sections": [
+        "35D"
+      ]
+    },
+    {
+      "question_id": "Q079",
+      "question": "Who is eligible to claim Rule 11CB valuation eligibility for indirect transfer under Section 11CB of the Income-tax Rules?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "I do not have confident, verifiable recall of a \"Rule 11CB\" under Income-tax Rules governing indirect transfer valuation with this exact numbering — under the old Rules, Rule 11UA/11UB dealt with valuation for indirect transfer/FMV purposes. I don't want to fabricate the specific eligibility conditions for a rule I can't verify as \"11CB.\"",
+      "gold_answer": "Taxpayers calculating fair market value of indirect Indian asset transfers qualify under Rule 11CB.",
+      "fabricated_sections": [
+        "11UA"
+      ],
+      "cited_sections": [
+        "11CB",
+        "11UA"
+      ],
+      "gold_sections": [
+        "11CB"
+      ]
+    },
+    {
+      "question_id": "Q085",
+      "question": "What is the statutory calculation limit or rate for TDS threshold on rent under Section 194I under Section 194I of the Income-tax Act, 2025?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "TDS on rent is generally deducted at 10% (land/building/furniture) or 2% (plant/machinery/equipment), where rent paid/payable in a year exceeds a threshold (historically Rs. 2,40,000 under old Section 194-I, raised in recent years). Exact 2025 Act threshold/rates not confirmed.",
+      "gold_answer": "Rent TDS threshold under Section 194I is Rs. 2,40,000 per financial year.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194"
+      ],
+      "gold_sections": [
+        "194I"
+      ]
+    },
+    {
+      "question_id": "Q086",
+      "question": "What is the statutory calculation limit or rate for TDS threshold on sale of immovable property under Section 194IA under Section 194IA of the Income-tax Act, 2025?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "TDS on payment for transfer of immovable property (other than agricultural land) is generally deducted at 1%, where the consideration (or stamp duty value) exceeds a threshold (historically Rs. 50 lakh under old Section 194-IA). Exact 2025 Act threshold/rate not confirmed.",
+      "gold_answer": "Property purchase TDS threshold under Section 194IA is Rs. 50,00,000 at 1% rate.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194"
+      ],
+      "gold_sections": [
+        "194IA"
+      ]
+    },
+    {
+      "question_id": "Q087",
+      "question": "What is the statutory calculation limit or rate for TDS threshold on property rent by individuals under Section 194IB under Section 194IB of the Income-tax Act, 2025?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "TDS on rent paid by individuals/HUFs not otherwise subject to tax audit is generally deducted at 5% (reduced to 2% in recent Finance Acts), where monthly rent exceeds a threshold (historically Rs. 50,000 per month under old Section 194-IB). Exact 2025 Act threshold/rate not confirmed.",
+      "gold_answer": "Monthly rent threshold for individual TDS under Section 194IB is Rs. 50,000 per month.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194"
+      ],
+      "gold_sections": [
+        "194IB"
+      ]
+    },
+    {
+      "question_id": "Q090",
+      "question": "What is the statutory calculation limit or rate for TCS rate on LRS remittance under Section 206C under Section 206C of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "TCS on remittances under the Liberalised Remittance Scheme (LRS) is generally collected at a specified rate (historically 20% for most purposes above a threshold, with a lower rate/exemption for education loan-funded remittances and a threshold of Rs. 7 lakh in aggregate per year, under old Section 206C(1G)). Exact 2025 Act thresholds/rates not confirmed (these have changed multiple times via recent Finance Acts).",
+      "gold_answer": "LRS remittance TCS rate is 20% above Rs. 7 lakh threshold under Section 206C(1G).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "206C(1G)"
+      ],
+      "gold_sections": [
+        "206C"
+      ]
+    },
+    {
+      "question_id": "Q093",
+      "question": "What is the statutory calculation limit or rate for basic exemption limit for senior citizens under Section First Schedule of the Finance Act 2026?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "I am not confident of the current basic exemption limit for senior citizens (60-80 years) under the applicable Finance Act's First Schedule; under the old tax regime this was historically Rs. 3,00,000, but under the new regime a common slab structure (without special senior citizen exemption) has generally applied in recent years. Cannot confirm the 2026 figure.",
+      "gold_answer": "Senior citizen basic tax exemption is Rs. 3,00,000 under Finance Act 2026.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q094",
+      "question": "What is the statutory calculation limit or rate for basic exemption limit for super senior citizens under Section First Schedule of the Finance Act 2026?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "I am not confident of the current basic exemption limit for super senior citizens (80+ years); under the old tax regime this was historically Rs. 5,00,000. Cannot confirm the 2026 figure or whether this old-regime-style differentiation persists.",
+      "gold_answer": "Super senior citizen basic tax exemption threshold is Rs. 5,00,000 under Finance Act 2026.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q096",
+      "question": "What is the statutory calculation limit or rate for surcharge threshold on high income individuals under Section First Schedule of the Finance Act 2026?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "I am not confident of the exact current surcharge threshold(s) for high-income individuals (historically surcharge applied in slabs starting from total income above Rs. 50 lakh, with increasing rates at Rs. 1 crore, Rs. 2 crore, and Rs. 5 crore). Cannot confirm 2026 figures.",
+      "gold_answer": "Individual income surcharge starts at 10% above Rs. 50 lakh income threshold.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q100",
+      "question": "What is the statutory calculation limit or rate for corporate tax rate under Section 115BAA under Section 115BAA of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "The concessional corporate tax rate under Section 115BAA is generally 22% (plus applicable surcharge and cess) for domestic companies opting in and foregoing specified deductions/exemptions, with no sunset/incorporation-date restriction (unlike Section 115BAB). Exact 2025 Act clause/conditions not confirmed.",
+      "gold_answer": "Domestic company concessional tax rate under Section 115BAA is 22% (effective ~25.17%).",
+      "fabricated_sections": [
+        "115BAB"
+      ],
+      "cited_sections": [
+        "115BAA",
+        "115BAB"
+      ],
+      "gold_sections": [
+        "115BAA"
+      ]
+    },
+    {
+      "question_id": "Q120",
+      "question": "What is the statutory calculation limit or rate for Finance Act 2023 revised new tax regime slab structure under Section First Schedule of the Finance Act 2023?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "I do not have a confident, verified recollection of the exact new tax regime slab structure specifically as amended by Finance Act 2023 (I recall broad changes were made increasing the number of slabs/adjusting rates and increasing rebate thresholds around that period), but I do not want to state specific slab boundaries and rates without being able to verify them.",
+      "gold_answer": "New tax regime basic exemption was raised to Rs. 3 lakh by Finance Act 2023.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q121",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on CSR expenditure disallowance under Section 37 under Section 37 of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "CSR expenditure is generally disallowed as a business deduction under the \"explanation\" to the general business expenditure provision (analogous to old Section 37(1) Explanation 2), on the basis that CSR spending mandated under the Companies Act is not treated as incurred \"wholly and exclusively for the purposes of business.\" Certain specific CSR-related expenditures (e.g., some categories overlapping with Section 80G-eligible donations) may still be separately deductible under their own specifi",
+      "gold_answer": "CSR expenditure is explicitly disallowed as a business expense under Explanation 2 to Section 37(1).",
+      "fabricated_sections": [
+        "80G"
+      ],
+      "cited_sections": [
+        "37(1)",
+        "80G"
+      ],
+      "gold_sections": [
+        "37"
+      ]
+    },
+    {
+      "question_id": "Q122",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on cash payments exceeding Rs. 10,000 under Section 40A(3) under Section 40A of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "The disallowance for cash payments to a person exceeding Rs. 10,000 in a day (Rs. 35,000 for payments to transporters) generally has exceptions for payments covered under prescribed circumstances (e.g., payments to banks/government, payments in areas without banking facilities, payments to cultivators/producers of agricultural produce, payments on bank holidays, terminal benefits to employees below a threshold, and other situations prescribed under Rule 6DD), analogous to old Section 40A(3)/40A(",
+      "gold_answer": "Cash payments exceeding Rs. 10,000 in a day are 100% disallowed under Section 40A(3).",
+      "fabricated_sections": [
+        "6DD"
+      ],
+      "cited_sections": [
+        "40A(3)",
+        "6DD"
+      ],
+      "gold_sections": [
+        "40A"
+      ]
+    },
+    {
+      "question_id": "Q140",
+      "question": "What is the statutory exception or non-applicability proviso for exception to Section 269T cash loan repayment restriction under Section 269T of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "The restriction on repaying loans/deposits/specified advances of Rs. 20,000 or more otherwise than by account payee cheque/draft/electronic means (analogous to old Section 269T) generally has similar exceptions as Section 269SS, for government, banking companies, government companies, and certain other notified entities. Exact 2025 Act clause/exceptions not confirmed.",
+      "gold_answer": "Cash repayment to Government or banks is exempt from Section 269T penalty.",
+      "fabricated_sections": [
+        "269SS"
+      ],
+      "cited_sections": [
+        "269T",
+        "269SS"
+      ],
+      "gold_sections": [
+        "269T"
+      ]
+    },
+    {
+      "question_id": "Q151",
+      "question": "How do Section 194J and Section 194C interact regarding interplay between Section 194J and Section 194C for technical work under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 194J (fees for professional/technical services) and Section 194C (payments to contractors) generally interact based on the true nature of the work: routine contract work (e.g., civil construction, catering, advertising production) falls under 194C, while work requiring specialized technical/professional skill or managerial/consultancy services falls under 194J, and courts/CBDT guidance have emphasized substance over form to avoid misclassification (e.g., certain \"technical services\" like",
+      "gold_answer": "Technical service payments are subject to 2% TDS under Section 194J, overriding general contract TDS under Section 194C.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194J",
+        "194C"
+      ],
+      "gold_sections": [
+        "194J",
+        "194C"
+      ]
+    },
+    {
+      "question_id": "Q153",
+      "question": "How do Section 194Q and Section 206C interact regarding interplay between Section 194Q and Section 206C(1H) for buyer vs seller tax deduction under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 194Q (TDS on purchase of goods by buyer) and Section 206C(1H) (TCS on sale of goods by seller) generally interact such that if both provisions would otherwise apply to the same transaction, TDS under Section 194Q takes precedence and the seller is not required to collect TCS under 206C(1H) once the buyer is liable to deduct TDS. Exact 2025 Act clause not confirmed.",
+      "gold_answer": "Section 194Q buyer TDS takes priority over Section 206C(1H) seller TCS on goods purchase.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194Q",
+        "206C(1H)",
+        "194Q"
+      ],
+      "gold_sections": [
+        "194Q",
+        "206C"
+      ]
+    },
+    {
+      "question_id": "Q154",
+      "question": "How do Section 44AD and Section 44AB interact regarding interplay between Section 44AD and Section 44AB for audit threshold under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 44AD (presumptive taxation for business) and Section 44AB (tax audit) generally interact such that an assessee opting for presumptive taxation under 44AD and declaring income at or above the prescribed presumptive rate is exempt from tax audit; however, if income is declared lower than the presumptive rate and total income exceeds the basic exemption limit, tax audit under 44AB becomes mandatory. Exact 2025 Act clause not confirmed.",
+      "gold_answer": "Taxpayers declaring presumptive profit below 8%/6% with income above exemption must undergo Section 44AB audit.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44AD",
+        "44AB"
+      ],
+      "gold_sections": [
+        "44AD",
+        "44AB"
+      ]
+    },
+    {
+      "question_id": "Q155",
+      "question": "How do Section 50C and Section 43CA interact regarding interplay between Section 50C and Section 43CA for real estate stamp duty valuation under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 50C (stamp duty valuation for transfer of land/building held as capital asset) and Section 43CA (stamp duty valuation for transfer of land/building held as stock-in-trade) generally operate in parallel — both deem the stamp duty value as the sale consideration if it exceeds the actual consideration by more than a specified tolerance (historically 10%), with 50C applying to capital assets (taxed as capital gains) and 43CA applying to business assets held as stock-in-trade (taxed as busine",
+      "gold_answer": "Section 50C governs capital gains on land/building while Section 43CA governs business profits on real estate inventory.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "50C",
+        "43CA"
+      ],
+      "gold_sections": [
+        "50C",
+        "43CA"
+      ]
+    },
+    {
+      "question_id": "Q158",
+      "question": "How do Section 10 and Section 80GG interact regarding interplay between Section 10(13A) and Section 80GG for HRA vs rent deduction under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 10(13A) (HRA exemption, available only to salaried employees receiving HRA as part of salary) and Section 80GG (rent deduction for those not receiving HRA, including self-employed persons or salaried employees not receiving HRA) generally interact as mutually exclusive alternatives — an individual cannot claim both for the same period; 80GG requires a declaration (Form 10BA) and is subject to conditions including not owning residential accommodation in the place of employment/residence. ",
+      "gold_answer": "Section 80GG rent deduction is mutually exclusive with Section 10(13A) HRA exemption.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "10(13A)",
+        "80GG"
+      ],
+      "gold_sections": [
+        "10",
+        "80GG"
+      ]
+    },
+    {
+      "question_id": "Q162",
+      "question": "How do Section 269SS and Section 271D interact regarding interplay between Section 269SS and Section 271D for cash loan penalty under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 269SS (restriction on accepting cash loans/deposits of Rs. 20,000+ otherwise than by specified banking channels) and Section 271D (penalty for violation of Section 269SS) generally interact such that a contravention of 269SS triggers a penalty equal to the amount of the loan/deposit so accepted, leviable by the tax authority (historically Joint Commissioner), subject to a reasonable cause exception under a general penalty-relief provision. Exact 2025 Act clause not confirmed.",
+      "gold_answer": "Failure to adhere to Section 269SS cash threshold results in 100% penalty under Section 271D.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "269SS",
+        "271D",
+        "269SS"
+      ],
+      "gold_sections": [
+        "269SS",
+        "271D"
+      ]
+    },
+    {
+      "question_id": "Q163",
+      "question": "How do Section 269T and Section 271E interact regarding interplay between Section 269T and Section 271E for cash repayment penalty under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 269T (restriction on repaying cash loans/deposits of Rs. 20,000+ otherwise than by specified banking channels) and Section 271E (penalty for violation of Section 269T) generally interact such that contravention triggers a penalty equal to the amount repaid in violation, subject to a reasonable cause exception. Exact 2025 Act clause not confirmed.",
+      "gold_answer": "Repaying deposits in cash over Rs. 20,000 triggers 100% penalty under Section 271E.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "269T",
+        "271E",
+        "269T"
+      ],
+      "gold_sections": [
+        "269T",
+        "271E"
+      ]
+    },
+    {
+      "question_id": "Q165",
+      "question": "How do Section 14A and Section 8D interact regarding interplay between Section 14A and Rule 8D for exempt income expense disallowance under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 14A (disallowance of expenditure incurred in relation to exempt income) and Rule 8D (prescribed method for computing such disallowance when the assessee's own computation is not accepted or no computation is made) generally interact such that Section 14A is the substantive charging/disallowance provision, and Rule 8D provides the mechanical formula for quantifying the disallowance (historically based on a specified percentage of average value of investments yielding exempt income, and di",
+      "gold_answer": "Section 14A disallows expenses relating to exempt income using the formula specified in Rule 8D.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "14A",
+        "14A",
+        "8D",
+        "8D"
+      ],
+      "gold_sections": [
+        "14A",
+        "8D"
+      ]
+    },
+    {
+      "question_id": "Q169",
+      "question": "How do Section 139 and Section 139 interact regarding interplay between Section 139(1) and Section 139(4) for original vs belated return under the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Section 139(1) (original return filed on or before the due date) and Section 139(4) (belated return filed after the due date but within a specified later deadline) generally interact such that a taxpayer who misses the Section 139(1) due date can still file a valid belated return under 139(4), subject to a final cutoff (historically 31 December of the relevant assessment year, or before assessment completion, whichever is earlier), generally accompanied by late filing fees under Section 234F and",
+      "gold_answer": "Section 139(1) specifies original statutory due date while Section 139(4) permits belated filing with penalty.",
+      "fabricated_sections": [
+        "234F"
+      ],
+      "cited_sections": [
+        "139(1)",
+        "139(4)",
+        "139(1)",
+        "234F"
+      ],
+      "gold_sections": [
+        "139",
+        "139"
+      ]
+    },
+    {
+      "question_id": "Q171",
+      "question": "How do Income-tax Act, 2025 (Section 194J) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194J TDS and Rule 31A quarterly return filing under Income-tax Act and Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 194J (TDS on professional/technical fees) is the substantive provision requiring deduction of tax at source, while Rule 31A (prescribing the format, periodicity, and manner of filing quarterly TDS statements, e.g., Form 26Q) governs the procedural compliance of reporting such deductions to the tax department. Exact 2025 Act/Rule cross-reference not confirmed.",
+      "gold_answer": "Section 194J requires professional TDS deduction, which must be quarterly reported in Form 26Q per Rule 31A.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194J",
+        "31A"
+      ],
+      "gold_sections": [
+        "194J",
+        "31A"
+      ]
+    },
+    {
+      "question_id": "Q174",
+      "question": "How do Income-tax Act, 2025 (Section 14A) and Income-tax Rules (Section/Rule 8D) jointly govern Section 14A disallowance and Rule 8D formula under Income-tax Act and Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 14A is the substantive disallowance provision (disallowing expenditure incurred to earn exempt income), and Rule 8D provides the prescribed mechanical formula the Assessing Officer uses to compute the disallowance when not satisfied with the assessee's own computation — the Rule operationalizes the Section, and cannot itself create a disallowance the Section doesn't authorize. Exact 2025 Act/Rule details not confirmed.",
+      "gold_answer": "Section 14A provides statutory disallowance while Rule 8D provides the mathematical computation formula.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "14A",
+        "8D"
+      ],
+      "gold_sections": [
+        "14A",
+        "8D"
+      ]
+    },
+    {
+      "question_id": "Q178",
+      "question": "How do Income-tax Act, 2025 (Section 80D) and Income-tax Rules (Section/Rule 11DD) jointly govern Section 80D medical insurance and Rule 11DD specified disease list?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Section 80D is the substantive deduction provision for medical insurance premiums (and related preventive health check-up/medical expenditure for very senior citizens without insurance), while Rule 11DD (more precisely associated with Section 80DDB for specified diseases, not 80D) prescribes the list of specified diseases/ailments for which deduction for medical treatment expenditure is allowed. I flag that Rule 11DD's association is generally with Section 80DDB rather than 80D — I'm not confide",
+      "gold_answer": "Section 80DDB grants medical deduction while Rule 11DD enumerates qualifying medical conditions.",
+      "fabricated_sections": [
+        "80DDB",
+        "80DDB"
+      ],
+      "cited_sections": [
+        "80D",
+        "80DDB",
+        "80DDB",
+        "11DD",
+        "11DD",
+        "11DD"
+      ],
+      "gold_sections": [
+        "80D",
+        "11DD"
+      ]
+    },
+    {
+      "question_id": "Q181",
+      "question": "How do Income-tax Act, 2025 (Section 194IA) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194IA property TDS and Rule 31A Form 26QB filing?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 194IA is the substantive TDS provision on transfer of immovable property (other than agricultural land) above a specified threshold, and Rule 31A (in conjunction with the prescribed Form 26QB) governs the procedural requirement of filing a challan-cum-statement for such deductions within a specified time. Exact 2025 Act/Rule cross-reference not confirmed.",
+      "gold_answer": "Section 194IA mandates property TDS, and Rule 31A prescribes Form 26QB filing.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194IA",
+        "31A"
+      ],
+      "gold_sections": [
+        "194IA",
+        "31A"
+      ]
+    },
+    {
+      "question_id": "Q185",
+      "question": "How do Income-tax Act, 2025 (Section 269SU) and Income-tax Rules (Section/Rule 11DD) jointly govern Section 269SU digital payment facility and Rule 11DD modes?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Section 269SU (requiring specified large businesses to provide prescribed electronic modes of payment to customers) governs mandatory digital payment facilities; I am not confident that Rule 11DD (associated with specified diseases under 80DDB, as noted in Q178) is the correct rule cross-reference for prescribed electronic payment modes — that is more likely associated with a different rule (historically Rule 119AA). I flag this as a likely mismatched pairing in the question rather than assert a",
+      "gold_answer": "Section 269SU mandates electronic payment facility, and Rule 11DD specifies UPI and RuPay modes.",
+      "fabricated_sections": [
+        "119AA"
+      ],
+      "cited_sections": [
+        "269SU",
+        "11DD",
+        "119AA"
+      ],
+      "gold_sections": [
+        "269SU",
+        "11DD"
+      ]
+    },
+    {
+      "question_id": "Q189",
+      "question": "How do Income-tax Act, 2025 (Section 285BA) and Income-tax Rules (Section/Rule 114E) jointly govern Section 285BA SFT reporting and Rule 114E financial transaction limits?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 285BA is the substantive provision requiring specified persons to furnish a Statement of Financial Transactions (SFT), and Rule 114E prescribes the specific categories of transactions and monetary thresholds requiring reporting (e.g., cash deposits, credit card payments, property transactions above specified limits). Exact 2025 Act/Rule cross-reference and current thresholds not confirmed.",
+      "gold_answer": "Section 285BA mandates Statement of Financial Transactions, and Rule 114E specifies reporting limits.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "285BA",
+        "114E"
+      ],
+      "gold_sections": [
+        "285BA",
+        "114E"
+      ]
+    },
+    {
+      "question_id": "Q191",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2022 amendment to Section 115BBH for virtual digital assets effective AY 2023-24 under Section 115BBH of the Finance Act 2022?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The taxation of virtual digital assets under (old) Section 115BBH was introduced by the Finance Act, 2022, and made effective from Assessment Year 2023-24 (i.e., for income earned from 1 April 2022 onwards).",
+      "gold_answer": "Finance Act 2022 enacted 30% tax on virtual digital assets starting Assessment Year 2023-24.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "115BBH"
+      ],
+      "gold_sections": [
+        "115BBH"
+      ]
+    },
+    {
+      "question_id": "Q195",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2025 amendment to Section 87A rebate for new regime under Section 87A of the Finance Act 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "I do not have a confident, verified recollection of a specific Section 87A rebate amendment via \"Finance Act 2025\" with precise figures/effective date — I would need to verify this rather than guess.",
+      "gold_answer": "Rebate under Section 87A remains available up to Rs. 7 lakh income under new tax regime in Finance Act 2025.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "87A"
+      ],
+      "gold_sections": [
+        "87A"
+      ]
+    },
+    {
+      "question_id": "Q197",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2023 amendment to Section 54/54F Rs. 10 crore cap under Section 54 of the Finance Act 2023?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The Finance Act, 2023 introduced a cap of Rs. 10 crore on the amount of capital gains eligible for exemption under Sections 54 and 54F (i.e., reinvestment amount exceeding Rs. 10 crore is not considered for exemption purposes), effective from Assessment Year 2024-25 (i.e., applicable to transfers on or after 1 April 2023).",
+      "gold_answer": "Section 54 and 54F capital gains exemptions were capped at Rs. 10 crore starting AY 2024-25 by Finance Act 2023.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "54"
+      ]
+    },
+    {
+      "question_id": "Q202",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2022 insertion of Section 194S VDA TDS under Section 194S of the Finance Act 2022?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The TDS on transfer of virtual digital assets under (old) Section 194S was inserted by the Finance Act, 2022, and took effect from 1 July 2022 (i.e., applicable from AY 2023-24).",
+      "gold_answer": "Section 194S VDA TDS was introduced by Finance Act 2022 effective 1st July 2022.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194S"
+      ],
+      "gold_sections": [
+        "194S"
+      ]
+    },
+    {
+      "question_id": "Q204",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) increase in STT rates on futures and options under Section First Schedule of the Finance Act 2024 (No. 2)?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "I recall that STT rates on futures and options (particularly options) were increased via the Finance Act (No. 2), 2024, generally effective from 1 October 2024, but I am not fully confident of the exact revised rate figures without verification, so I won't state specific percentages.",
+      "gold_answer": "STT rates on F&O trades were increased by Finance Act 2024 (No. 2) effective 1st October 2024.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q206",
+      "question": "What is the procedural compliance deadline or form requirement for tax audit report filing deadline under Section 44AB under Section/Rule 44AB of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The tax audit report under Section 44AB (Form 3CA/3CB along with Form 3CD) is generally required to be filed at least one month before the due date for filing the return of income under Section 139(1) — historically this has meant a tax audit due date of 30 September (or 31 October for assessees also subject to transfer pricing reporting) of the assessment year, ahead of the corresponding return filing due date. Exact 2025 Act date not confirmed (these dates have occasionally been extended by CB",
+      "gold_answer": "The tax audit report under Section 44AB must be filed by 30th September of the assessment year.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44AB",
+        "139(1)"
+      ],
+      "gold_sections": [
+        "44AB"
+      ]
+    },
+    {
+      "question_id": "Q207",
+      "question": "What is the procedural compliance deadline or form requirement for quarterly TDS statement filing Form 26Q due dates under Rule 31A under Section/Rule 31A of the Income-tax Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Quarterly TDS statements (Form 26Q, for TDS other than salary) are generally due within a specified period after each quarter — historically by 31 July, 31 October, 31 January, and 31 May for the four quarters of the financial year respectively. Exact current 2025/2026 dates not confirmed (occasionally extended by CBDT).",
+      "gold_answer": "TDS quarterly return due dates under Rule 31A are 31st July, 31st October, 31st January, and 31st May.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "31A"
+      ]
+    },
+    {
+      "question_id": "Q208",
+      "question": "What is the procedural compliance deadline or form requirement for TDS certificate Form 16 issuance deadline under Rule 31 under Section/Rule 31 of the Income-tax Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Form 16 (annual TDS certificate for salary) is generally required to be issued by the employer by 15 June following the end of the financial year in which the income was paid and tax deducted. Exact current date not confirmed.",
+      "gold_answer": "Form 16 salary TDS certificate must be issued by 15th June per Rule 31.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "31"
+      ]
+    },
+    {
+      "question_id": "Q212",
+      "question": "What is the procedural compliance deadline or form requirement for Form 10E filing requirement for Section 89 salary arrears relief under Rule 21AA under Section/Rule 21AA of the Income-tax Rules?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "Form 10E must generally be filed electronically before filing the income tax return, in order to validly claim relief under Section 89(1) for salary arrears/advance salary; without filing Form 10E, the relief claim is typically disallowed even if claimed in the return. Exact current procedural details not confirmed.",
+      "gold_answer": "Form 10E must be electronically submitted prior to tax return filing to claim Section 89 relief under Rule 21AA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "89(1)"
+      ],
+      "gold_sections": [
+        "21AA"
+      ]
+    },
+    {
+      "question_id": "Q216",
+      "question": "What is the procedural compliance deadline or form requirement for SFT Form 61A filing deadline under Rule 114E under Section/Rule 114E of the Income-tax Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Statement of Financial Transactions (SFT) in Form 61A is generally required to be filed annually by specified reporting entities, historically by 31 May of the financial year immediately following the financial year in which the transaction is registered/recorded. Exact current 2025/2026 deadline not confirmed.",
+      "gold_answer": "Form 61A SFT annual statement must be filed by 31st May per Rule 114E.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "114E"
+      ]
+    },
+    {
+      "question_id": "Q219",
+      "question": "What is the procedural compliance deadline or form requirement for Form 10B audit report requirement for charitable trusts under Rule 17B under Section/Rule 17B of the Income-tax Rules?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Form 10B (or Form 10BB, depending on income/receipt thresholds) is the audit report required for charitable/religious trusts or institutions claiming exemption, generally required to be filed at least a specified period before the due date for filing the return of income (historically the same one-month-before-return-due-date pattern as Section 44AB tax audits). Exact current 2025/2026 threshold distinguishing Form 10B vs 10BB, and exact deadline, not confirmed.",
+      "gold_answer": "Charitable trust audit report must be filed in Form 10B/10BB per Rule 17B.",
+      "fabricated_sections": [
+        "44AB"
+      ],
+      "cited_sections": [
+        "44AB"
+      ],
+      "gold_sections": [
+        "17B"
+      ]
+    },
+    {
+      "question_id": "Q221",
+      "question": "What is the statutory tax rate or legal rule applicable to GST rate on telecommunication services under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "This question falls outside the Income-tax Act corpus — GST (Goods and Services Tax) rates on telecommunication services are governed by GST law (CGST/SGST/IGST Acts and related notifications), not the Income-tax Act. I don't have a confident, current GST rate figure to offer here, and answering from the Income-tax Act framework wouldn't be accurate.",
+      "gold_answer": "The retrieved legal context does not contain sufficient information to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q227",
+      "question": "What is the statutory tax rate or legal rule applicable to securities transaction tax STT rate on US NASDAQ trades under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "This question falls outside the Income-tax Act corpus (as commonly understood) — Securities Transaction Tax (STT) under Indian law applies only to transactions on recognized Indian stock exchanges (and specified transactions), not to trades executed on US exchanges like NASDAQ, which fall outside Indian STT's scope entirely. There is no applicable STT rate on NASDAQ trades under Indian law.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    }
+  ],
+  "Gemini 2.5 Flash": [
+    {
+      "question_id": "Q004",
+      "question": "What is the statutory definition of company in which public are substantially interested under Section 2 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 2(18) defines a company in which the public are substantially interested to include a company owned by the Government or RBI, or a company listed on a recognized stock exchange in India, or meeting specific shareholding and public participation criteria.",
+      "gold_answer": "It refers to a public company satisfying public ownership and voting power thresholds under Section 2(18).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "2(18)"
+      ],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q008",
+      "question": "What is the statutory definition of standard deduction under Section 202 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 202 defines standard deduction as a flat, prescribed deduction allowed from salary income to salaried employees and pensioners without requiring any proof of actual expenditure, aimed at simplifying tax computation.",
+      "gold_answer": "Standard deduction from salary under Section 202(1) is fixed at Rs. 75,000.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "202"
+      ],
+      "gold_sections": [
+        "202"
+      ]
+    },
+    {
+      "question_id": "Q036",
+      "question": "What is the statutory definition of urban area under Section 2 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Urban area under Section 2 refers to municipal areas with specified population thresholds and areas falling within a designated aerial distance from the local limits of municipalities or cantonment boards, determining capital asset status for agricultural land.",
+      "gold_answer": "Defined under Section 2(14) based on municipal status and minimum population threshold.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "2"
+      ],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q043",
+      "question": "Who is eligible to claim standard deduction from salary under Section 202 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "All salaried individuals and pensioners earning income under the head 'Salaries' are eligible to claim standard deduction under Section 202 of the Income-tax Act, 2025.",
+      "gold_answer": "Individual taxpayers receiving salary income are eligible for standard deduction under Section 202.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "202"
+      ],
+      "gold_sections": [
+        "202"
+      ]
+    },
+    {
+      "question_id": "Q045",
+      "question": "Who is eligible to claim Swachh Bharat Kosh donation under Section 133 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "All assessees including individuals, corporates, and firms making donations to the Swachh Bharat Kosh set up by the Central Government are eligible to claim deductions under Section 133.",
+      "gold_answer": "Donations to Swachh Bharat Kosh qualify for 100% deduction provided they are non-CSR contributions under Section 133.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "133"
+      ],
+      "gold_sections": [
+        "133"
+      ]
+    },
+    {
+      "question_id": "Q047",
+      "question": "Who is eligible to claim employer pension contribution deduction under Section 124 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Employers contributing towards notified pension schemes on behalf of their employees are eligible to claim deductions under Section 124 of the Income-tax Act, 2025.",
+      "gold_answer": "Employees are eligible for deduction under Section 124(1) up to 14% (Central Govt) or 10% (others) of salary.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "124"
+      ],
+      "gold_sections": [
+        "124"
+      ]
+    },
+    {
+      "question_id": "Q050",
+      "question": "Who is eligible to claim retrenchment compensation exemption under Section 10B of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Industrial workmen and eligible employees who are retrenched from service under industrial dispute provisions are eligible to claim retrenchment compensation exemptions under Section 10B.",
+      "gold_answer": "Workmen are eligible for retrenchment exemption under Section 10(10B) up to Rs. 5 lakhs.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "10B"
+      ],
+      "gold_sections": [
+        "10B"
+      ]
+    },
+    {
+      "question_id": "Q051",
+      "question": "Who is eligible to claim voluntary retirement scheme (VRS) exemption under Section 10C of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Employees of public sector companies, authorities, and eligible private companies who opt for approved Voluntary Retirement Schemes (VRS) are eligible to claim exemptions under Section 10C.",
+      "gold_answer": "Employees taking VRS under approved guidelines qualify for exemption up to Rs. 5 lakhs under Section 10(10C).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "10C"
+      ],
+      "gold_sections": [
+        "10C"
+      ]
+    },
+    {
+      "question_id": "Q052",
+      "question": "Who is eligible to claim house rent allowance (HRA) exemption under Section 10D of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Salaried taxpayers who reside in rented accommodation and actually incur rent expenses are eligible to claim House Rent Allowance (HRA) exemptions under Section 10D.",
+      "gold_answer": "Salaried taxpayers occupying rented residential premises qualify for HRA exemption under Section 10(13A).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "10D"
+      ],
+      "gold_sections": [
+        "10D"
+      ]
+    },
+    {
+      "question_id": "Q053",
+      "question": "Who is eligible to claim medical insurance premium deduction under Section 80D of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Resident individuals and Hindu Undivided Families who pay medical insurance premiums for family members or dependent parents are eligible to claim deductions under Section 80D.",
+      "gold_answer": "Individual and HUF assessees paying health insurance premiums qualify under Section 80D.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80D"
+      ],
+      "gold_sections": [
+        "80D"
+      ]
+    },
+    {
+      "question_id": "Q054",
+      "question": "Who is eligible to claim interest on handicap medical treatment deduction under Section 80DD of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Resident individuals who incur medical treatment and maintenance expenses for dependent relatives with disabilities are eligible to claim deductions under Section 80DD.",
+      "gold_answer": "Resident individuals and HUFs maintaining disabled dependents qualify under Section 80DD.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80DD"
+      ],
+      "gold_sections": [
+        "80DD"
+      ]
+    },
+    {
+      "question_id": "Q059",
+      "question": "Who is eligible to claim new employment generation deduction under Section 80JJAA of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Business enterprises subject to tax audit that employ additional regular workmen meeting minimum employment criteria are eligible to claim new employment generation deductions under Section 80JJAA.",
+      "gold_answer": "Corporate and audited assessees creating new employment qualify for 30% deduction under Section 80JJAA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80JJAA"
+      ],
+      "gold_sections": [
+        "80JJAA"
+      ]
+    },
+    {
+      "question_id": "Q060",
+      "question": "Who is eligible to claim royalty on patents deduction under Section 80RRB of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Resident individual patent holders who earn royalty income from registered patents are eligible to claim deductions under Section 80RRB of the Income-tax Act, 2025.",
+      "gold_answer": "Resident individual patent inventors qualify for royalty deduction under Section 80RRB.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80RRB"
+      ],
+      "gold_sections": [
+        "80RRB"
+      ]
+    },
+    {
+      "question_id": "Q061",
+      "question": "Who is eligible to claim savings account interest deduction under Section 80TTA of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Resident individuals and Hindu Undivided Families (other than senior citizens) earning interest on savings bank accounts with banks or post offices are eligible to claim deductions under Section 80TTA.",
+      "gold_answer": "Individual and HUF non-senior citizen taxpayers qualify under Section 80TTA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80TTA"
+      ],
+      "gold_sections": [
+        "80TTA"
+      ]
+    },
+    {
+      "question_id": "Q063",
+      "question": "Who is eligible to claim presumptive business tax eligibility under Section 44AD of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Resident individuals, Hindu Undivided Families, and partnership firms (excluding LLPs) with total turnover or gross receipts below statutory thresholds are eligible for presumptive taxation under Section 44AD.",
+      "gold_answer": "Small resident businesses with turnover below threshold qualify under Section 44AD.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44AD"
+      ],
+      "gold_sections": [
+        "44AD"
+      ]
+    },
+    {
+      "question_id": "Q065",
+      "question": "Who is eligible to claim goods carriage presumptive tax eligibility under Section 44AE of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Assessees owning not more than a specified number of goods carriages at any time during the previous year are eligible for presumptive goods carriage taxation under Section 44AE.",
+      "gold_answer": "Transporters owning no more than 10 goods vehicles qualify under Section 44AE.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44AE"
+      ],
+      "gold_sections": [
+        "44AE"
+      ]
+    },
+    {
+      "question_id": "Q066",
+      "question": "Who is eligible to claim startup tax holiday eligibility under Section 80IAC of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Eligible startup companies incorporated as private limited companies or LLPs recognized by the Inter-Ministerial Board are eligible to claim startup tax holiday deductions under Section 80IAC.",
+      "gold_answer": "Recognized eligible startups satisfying turnover and incorporation criteria qualify under Section 80IAC.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80IAC"
+      ],
+      "gold_sections": [
+        "80IAC"
+      ]
+    },
+    {
+      "question_id": "Q067",
+      "question": "Who is eligible to claim tea development account deduction under Section 33AB of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Assessees carrying on the business of growing and manufacturing tea in India who deposit funds into special accounts are eligible to claim tea development account deductions under Section 33AB.",
+      "gold_answer": "Tea, coffee, and rubber growers depositing funds with NABARD qualify under Section 33AB.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "33AB"
+      ],
+      "gold_sections": [
+        "33AB"
+      ]
+    },
+    {
+      "question_id": "Q068",
+      "question": "Who is eligible to claim site restoration fund deduction under Section 33ABA of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Assessees engaged in prospecting for or extraction of petroleum, natural gas, or minerals who deposit funds into site restoration accounts are eligible for deductions under Section 33ABA.",
+      "gold_answer": "Petroleum and gas extraction entities depositing funds in SBI account qualify under Section 33ABA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "33ABA"
+      ],
+      "gold_sections": [
+        "33ABA"
+      ]
+    },
+    {
+      "question_id": "Q077",
+      "question": "Who is eligible to claim family planning expenditure deduction for companies under Section 36 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Corporate assessees incurring capital or revenue expenditure on family planning amongst their employees are eligible to claim deductions under Section 36.",
+      "gold_answer": "Corporate employers promoting family planning qualify for 5-year capital deduction under Section 36(1)(ix).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "36"
+      ],
+      "gold_sections": [
+        "36"
+      ]
+    },
+    {
+      "question_id": "Q084",
+      "question": "What is the statutory calculation limit or rate for TDS rate on interest other than securities under Section 194A under Section 194A of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The standard TDS rate on interest other than interest on securities under Section 194A is specified at 10% for residents when thresholds are crossed.",
+      "gold_answer": "TDS rate under Section 194A is 10% above Rs. 40,000 threshold (Rs. 50,000 for senior citizens).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194A"
+      ],
+      "gold_sections": [
+        "194A"
+      ]
+    },
+    {
+      "question_id": "Q093",
+      "question": "What is the statutory calculation limit or rate for basic exemption limit for senior citizens under Section First Schedule of the Finance Act 2026?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "The basic exemption limit for resident senior citizens (aged 60 to 80 years) under the old tax regime is specified at Rs. 3,00,000.",
+      "gold_answer": "Senior citizen basic tax exemption is Rs. 3,00,000 under Finance Act 2026.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q094",
+      "question": "What is the statutory calculation limit or rate for basic exemption limit for super senior citizens under Section First Schedule of the Finance Act 2026?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "The basic exemption limit for resident super senior citizens (aged above 80 years) under the old tax regime is specified at Rs. 5,00,000.",
+      "gold_answer": "Super senior citizen basic tax exemption threshold is Rs. 5,00,000 under Finance Act 2026.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q096",
+      "question": "What is the statutory calculation limit or rate for surcharge threshold on high income individuals under Section First Schedule of the Finance Act 2026?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The surcharge threshold on high-income individuals under the Finance Act schedule begins at taxable income levels exceeding Rs. 50 lakhs, with progressive slabs up to Rs. 5 crores.",
+      "gold_answer": "Individual income surcharge starts at 10% above Rs. 50 lakh income threshold.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q117",
+      "question": "What is the statutory calculation limit or rate for CBDT Circular 6/2026 monetary limit for filing departmental appeals under Section 6 of the CBDT Circular 6/2026?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "CBDT Circular 6/2026 specifies monetary limits for filing departmental appeals before the High Courts (Rs. 60 lakhs) and Supreme Court (Rs. 2 crores) to reduce litigation.",
+      "gold_answer": "Departmental appeal filing monetary thresholds under Circular 6/2026 are Rs. 50L (ITAT), Rs. 1Cr (HC), Rs. 2Cr (SC).",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "6"
+      ]
+    },
+    {
+      "question_id": "Q120",
+      "question": "What is the statutory calculation limit or rate for Finance Act 2023 revised new tax regime slab structure under Section First Schedule of the Finance Act 2023?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Finance Act 2023 revised the new tax regime slab structure, establishing progressive tax slabs starting from Rs. 3 lakhs up to above Rs. 15 lakhs with revised rebate limits.",
+      "gold_answer": "New tax regime basic exemption was raised to Rs. 3 lakh by Finance Act 2023.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q122",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on cash payments exceeding Rs. 10,000 under Section 40A(3) under Section 40A of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Section 40A(3) disallows cash payments exceeding Rs. 10,000 made in a single day to a person, with statutory exceptions provided under Rule 6DD for banking exigencies and verified business practices.",
+      "gold_answer": "Cash payments exceeding Rs. 10,000 in a day are 100% disallowed under Section 40A(3).",
+      "fabricated_sections": [
+        "6DD"
+      ],
+      "cited_sections": [
+        "40A(3)",
+        "6DD"
+      ],
+      "gold_sections": [
+        "40A"
+      ]
+    },
+    {
+      "question_id": "Q124",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on non-deduction of TDS to non-residents under Section 40(a)(i) under Section 40 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 40(a)(i) disallows payments of interest, royalty, or fees for technical services made to non-residents if tax is not deducted at source or after deduction is not remitted.",
+      "gold_answer": "100% of payment to non-resident is disallowed upon TDS default under Section 40(a)(i).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "40"
+      ],
+      "gold_sections": [
+        "40"
+      ]
+    },
+    {
+      "question_id": "Q125",
+      "question": "What is the statutory exception or non-applicability proviso for exception for MSME payments disallowance under Section 43B(h) under Section 43B of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 43B(h) disallows unpaid sums payable to micro and small enterprises (MSMEs) beyond the time limits specified under the Micro, Small and Medium Enterprises Development Act.",
+      "gold_answer": "MSME supplier payments paid beyond statutory credit period are disallowed under Section 43B(h) until actual payment.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "43B"
+      ],
+      "gold_sections": [
+        "43B"
+      ]
+    },
+    {
+      "question_id": "Q132",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on clubbing of minor income in case of disability under Section 64 of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Section 64 provides an exception where minor income clubbing provisions do not apply in cases of minor children suffering from any disability of specified nature under Section 80U.",
+      "gold_answer": "Minor child income is not clubbed with parent's income if minor has Section 80U disability under Section 64(1A).",
+      "fabricated_sections": [
+        "80U"
+      ],
+      "cited_sections": [
+        "64",
+        "80U"
+      ],
+      "gold_sections": [
+        "64"
+      ]
+    },
+    {
+      "question_id": "Q139",
+      "question": "What is the statutory exception or non-applicability proviso for exception to Section 269SS cash loan acceptance restriction under Section 269SS of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 269SS provides exceptions for accepting loans, deposits, or specified sums in cash where both the transferor and transferee hold agricultural income bank accounts and no taxable income.",
+      "gold_answer": "Government, banks, and post office savings banks are exempt from Section 269SS cash loan bar.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "269SS"
+      ],
+      "gold_sections": [
+        "269SS"
+      ]
+    },
+    {
+      "question_id": "Q140",
+      "question": "What is the statutory exception or non-applicability proviso for exception to Section 269T cash loan repayment restriction under Section 269T of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 269T provides exceptions for loan or deposit repayments where specified banking transactions or statutory thresholds are met without violating repayment modes.",
+      "gold_answer": "Cash repayment to Government or banks is exempt from Section 269T penalty.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "269T"
+      ],
+      "gold_sections": [
+        "269T"
+      ]
+    },
+    {
+      "question_id": "Q142",
+      "question": "What is the statutory exception or non-applicability proviso for exception to audit requirement under Section 44AB for presumptive tax under Section 44AB of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Section 44AB provides exceptions to tax audit requirements for eligible assessees who opt for presumptive taxation under Section 44AD or 44ADA and meet turnover or receipt parameters.",
+      "gold_answer": "Small taxpayers declaring profit at 8%/6% under Section 44AD are exempt from Section 44AB tax audit.",
+      "fabricated_sections": [
+        "44AD"
+      ],
+      "cited_sections": [
+        "44AB",
+        "44AD"
+      ],
+      "gold_sections": [
+        "44AB"
+      ]
+    },
+    {
+      "question_id": "Q151",
+      "question": "How do Section 194J and Section 194C interact regarding interplay between Section 194J and Section 194C for technical work under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 194J applies to fees for professional or technical services, whereas Section 194C applies to contract payments for carrying out any work; where technical work involves a contract, the more specific professional service provisions under 194J generally take precedence.",
+      "gold_answer": "Technical service payments are subject to 2% TDS under Section 194J, overriding general contract TDS under Section 194C.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194J",
+        "194C"
+      ],
+      "gold_sections": [
+        "194J",
+        "194C"
+      ]
+    },
+    {
+      "question_id": "Q152",
+      "question": "How do Section 206AA and Section 206AB interact regarding interplay between Section 206AA and Section 206AB for non-PAN non-filers under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Sections 206AA and 206AB operate concurrently, such that if a payee neither furnishes a PAN nor files income tax returns, the deductor must apply the highest applicable withholding rate under both provisions.",
+      "gold_answer": "TDS is deducted at the highest resulting rate between Section 206AA (20%) and Section 206AB.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "206AA",
+        "206AB"
+      ]
+    },
+    {
+      "question_id": "Q153",
+      "question": "How do Section 194Q and Section 206C interact regarding interplay between Section 194Q and Section 206C(1H) for buyer vs seller tax deduction under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 194Q requires a buyer meeting turnover criteria to deduct TDS on purchases of goods from a resident seller, whereas Section 206C(1H) requires the seller to collect TCS; to avoid duplication, if 194Q TDS applies, TCS under 206C(1H) is not collected.",
+      "gold_answer": "Section 194Q buyer TDS takes priority over Section 206C(1H) seller TCS on goods purchase.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194Q",
+        "206C(1H)"
+      ],
+      "gold_sections": [
+        "194Q",
+        "206C"
+      ]
+    },
+    {
+      "question_id": "Q154",
+      "question": "How do Section 44AD and Section 44AB interact regarding interplay between Section 44AD and Section 44AB for audit threshold under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 44AD provides presumptive business taxation for eligible businesses below turnover thresholds, and if conditions are met, exempts the taxpayer from compulsory tax audits under Section 44AB unless specified profit disaffirmations occur.",
+      "gold_answer": "Taxpayers declaring presumptive profit below 8%/6% with income above exemption must undergo Section 44AB audit.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44AD",
+        "44AB"
+      ],
+      "gold_sections": [
+        "44AD",
+        "44AB"
+      ]
+    },
+    {
+      "question_id": "Q155",
+      "question": "How do Section 50C and Section 43CA interact regarding interplay between Section 50C and Section 43CA for real estate stamp duty valuation under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Sections 50C and 43CA both mandate the adoption of stamp duty value for real estate valuation; 50C applies to capital assets (land or building), while 43CA applies when such real estate is held as stock-in-trade.",
+      "gold_answer": "Section 50C governs capital gains on land/building while Section 43CA governs business profits on real estate inventory.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "50C",
+        "43CA"
+      ]
+    },
+    {
+      "question_id": "Q158",
+      "question": "How do Section 10 and Section 80GG interact regarding interplay between Section 10(13A) and Section 80GG for HRA vs rent deduction under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 10(13A) provides an exemption for House Rent Allowance received by salaried employees, whereas Section 80GG provides a deduction for rent paid by self-employed individuals or salaried employees not receiving HRA.",
+      "gold_answer": "Section 80GG rent deduction is mutually exclusive with Section 10(13A) HRA exemption.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "10(13A)",
+        "80GG"
+      ],
+      "gold_sections": [
+        "10",
+        "80GG"
+      ]
+    },
+    {
+      "question_id": "Q163",
+      "question": "How do Section 269T and Section 271E interact regarding interplay between Section 269T and Section 271E for cash repayment penalty under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 269T prohibits repaying loans or deposits in cash exceeding statutory limits, and Section 271E imposes a penalty equal to the amount repaid in contravention.",
+      "gold_answer": "Repaying deposits in cash over Rs. 20,000 triggers 100% penalty under Section 271E.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "269T",
+        "271E"
+      ],
+      "gold_sections": [
+        "269T",
+        "271E"
+      ]
+    },
+    {
+      "question_id": "Q171",
+      "question": "How do Income-tax Act, 2025 (Section 194J) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194J TDS and Rule 31A quarterly return filing under Income-tax Act and Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 194J mandates tax deduction at source on professional fees, while Rule 31A of the Income-tax Rules governs the filing procedure for quarterly TDS statements reporting these deductions.",
+      "gold_answer": "Section 194J requires professional TDS deduction, which must be quarterly reported in Form 26Q per Rule 31A.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194J",
+        "31A"
+      ],
+      "gold_sections": [
+        "194J",
+        "31A"
+      ]
+    },
+    {
+      "question_id": "Q172",
+      "question": "How do Income-tax Act, 2025 (Section 112A) and Finance Act 2025 (Section/Rule 15) jointly govern Section 112A LTCG tax rate and Finance Act 2025 rate amendment?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 112A of the Income-tax Act governs the taxation of long-term capital gains on securities, read in conjunction with Finance Act rate amendments prescribing the applicable tax percentages.",
+      "gold_answer": "Section 112A LTCG rate of 12.5% is enacted via Finance Act 2025 amendment.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "112A"
+      ],
+      "gold_sections": [
+        "112A",
+        "15"
+      ]
+    },
+    {
+      "question_id": "Q174",
+      "question": "How do Income-tax Act, 2025 (Section 14A) and Income-tax Rules (Section/Rule 8D) jointly govern Section 14A disallowance and Rule 8D formula under Income-tax Act and Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 14A disallows expenses relating to exempt income, and Rule 8D prescribes the specific computational mechanism and formula for calculating the disallowed amount.",
+      "gold_answer": "Section 14A provides statutory disallowance while Rule 8D provides the mathematical computation formula.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "14A",
+        "8D"
+      ],
+      "gold_sections": [
+        "14A",
+        "8D"
+      ]
+    },
+    {
+      "question_id": "Q178",
+      "question": "How do Income-tax Act, 2025 (Section 80D) and Income-tax Rules (Section/Rule 11DD) jointly govern Section 80D medical insurance and Rule 11DD specified disease list?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Section 80D allows deductions for medical insurance, while Rule 11DD prescribes the notified list of specified severe diseases and ailments eligible for deductions under Section 80DD.",
+      "gold_answer": "Section 80DDB grants medical deduction while Rule 11DD enumerates qualifying medical conditions.",
+      "fabricated_sections": [
+        "80DD"
+      ],
+      "cited_sections": [
+        "80D",
+        "80DD",
+        "11DD"
+      ],
+      "gold_sections": [
+        "80D",
+        "11DD"
+      ]
+    },
+    {
+      "question_id": "Q180",
+      "question": "How do Income-tax Act, 2025 (Section 115BAC) and Finance Act 2026 (Section/Rule Schedule) jointly govern Section 115BAC new tax regime slabs and Finance Act 2026 slab rates?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 115BAC outlines the new concessional tax regime framework, and the Finance Act schedule prescribes the exact slab rates and income brackets applicable under this regime.",
+      "gold_answer": "Section 115BAC provides option framework while Finance Act 2026 enacts exact annual slab rates.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "115BAC"
+      ],
+      "gold_sections": [
+        "115BAC",
+        "Schedule"
+      ]
+    },
+    {
+      "question_id": "Q204",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) increase in STT rates on futures and options under Section First Schedule of the Finance Act 2024 (No. 2)?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The increase in Securities Transaction Tax (STT) rates on futures and options under the Finance Act schedule took effect from the notified date in 2024.",
+      "gold_answer": "STT rates on F&O trades were increased by Finance Act 2024 (No. 2) effective 1st October 2024.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q208",
+      "question": "What is the procedural compliance deadline or form requirement for TDS certificate Form 16 issuance deadline under Rule 31 under Section/Rule 31 of the Income-tax Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "TDS certificate Form 16 issuance deadline by employers to employees under Rule 31 is typically prescribed annually by June 15 following the financial year.",
+      "gold_answer": "Form 16 salary TDS certificate must be issued by 15th June per Rule 31.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "31"
+      ],
+      "gold_sections": [
+        "31"
+      ]
+    },
+    {
+      "question_id": "Q211",
+      "question": "What is the procedural compliance deadline or form requirement for Aadhaar PAN linking fee and consequences of non-linking under Rule 114AAA under Section/Rule 114AAA of the Income-tax Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Aadhaar PAN linking under Rule 114AAA entails paying a prescribed statutory fee and results in PAN becoming inoperative for non-compliance within deadlines.",
+      "gold_answer": "Unlinked PAN becomes inoperative leading to higher TDS and withheld refunds under Rule 114AAA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "114AAA"
+      ],
+      "gold_sections": [
+        "114AAA"
+      ]
+    },
+    {
+      "question_id": "Q216",
+      "question": "What is the procedural compliance deadline or form requirement for SFT Form 61A filing deadline under Rule 114E under Section/Rule 114E of the Income-tax Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Statement of Financial Transactions (SFT) Form 61A filing deadline under Rule 114E is May 31 immediately following the financial year.",
+      "gold_answer": "Form 61A SFT annual statement must be filed by 31st May per Rule 114E.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "114E"
+      ],
+      "gold_sections": [
+        "114E"
+      ]
+    },
+    {
+      "question_id": "Q221",
+      "question": "What is the statutory tax rate or legal rule applicable to GST rate on telecommunication services under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "GST rates on telecommunication services are governed under the Goods and Services Tax framework rather than the Indian Income-tax corpus.",
+      "gold_answer": "The retrieved legal context does not contain sufficient information to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q222",
+      "question": "What is the statutory tax rate or legal rule applicable to customs duty import tariff on crude palm oil under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Customs duty import tariffs on crude palm oil are governed by the Customs Act and Finance Act tariff schedules rather than the Income-tax corpus.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q223",
+      "question": "What is the statutory tax rate or legal rule applicable to stamp duty registration fee rates in Maharashtra state under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Stamp duty registration fee rates in Maharashtra state are governed by the Maharashtra Stamp Act rather than the Indian Income-tax corpus.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q224",
+      "question": "What is the statutory tax rate or legal rule applicable to municipal property tax calculation in New Delhi under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Municipal property tax calculations in New Delhi are governed by municipal corporation acts and local government bylaws rather than the Income-tax corpus.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q225",
+      "question": "What is the statutory tax rate or legal rule applicable to value added tax VAT rate on petrol in Karnataka under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Value Added Tax (VAT) rates on petrol in Karnataka are governed by state sales tax enactments rather than the Indian Income-tax corpus.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q226",
+      "question": "What is the statutory tax rate or legal rule applicable to professional tax slab rates for salaried employees in West Bengal under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Professional tax slab rates for salaried employees in West Bengal are governed by state professional tax legislation rather than the Income-tax corpus.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q227",
+      "question": "What is the statutory tax rate or legal rule applicable to securities transaction tax STT rate on US NASDAQ trades under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Securities Transaction Tax (STT) applies specifically to transactions executed on recognized stock exchanges in India, not to international exchanges like US NASDAQ under the Indian corpus.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q228",
+      "question": "What is the statutory tax rate or legal rule applicable to corporate gift tax limit under UK tax legislation under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Corporate gift tax limits under UK tax legislation are governed by UK tax statutes rather than the Indian Income-tax corpus.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q229",
+      "question": "What is the statutory tax rate or legal rule applicable to income tax rate for software companies in Singapore under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Income tax rates for software companies in Singapore are governed by the Inland Revenue Authority of Singapore under Singapore tax laws rather than the Indian Income-tax corpus.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q230",
+      "question": "What is the statutory tax rate or legal rule applicable to excise duty on alcoholic liquor for human consumption under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Excise duty on alcoholic liquor for human consumption is governed by state excise legislations and constitutional provisions rather than the Income-tax corpus.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    }
+  ],
+  "ChatGPT (GPT-4.1)": [
+    {
+      "question_id": "Q004",
+      "question": "What is the statutory definition of company in which public are substantially interested under Section 2 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "A company in which the public are substantially interested is generally a widely held company satisfying the conditions prescribed under the Act.",
+      "gold_answer": "It refers to a public company satisfying public ownership and voting power thresholds under Section 2(18).",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q006",
+      "question": "What is the statutory definition of property under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Under Section 2(38), property includes all kinds of property held by an assessee whether connected with business or not.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q007",
+      "question": "What is the statutory definition of securities under Section 3 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Securities are defined under Section 3(7) to include shares, stocks, debentures, and marketable securities.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "3"
+      ]
+    },
+    {
+      "question_id": "Q008",
+      "question": "What is the statutory definition of standard deduction under Section 202 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Standard deduction from salary under Section 202(1) is fixed at Rs. 75,000.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "202"
+      ]
+    },
+    {
+      "question_id": "Q009",
+      "question": "What is the statutory definition of rates in force under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Under Section 2(42), rates in force refer to the income tax rates specified in the relevant Finance Act.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q010",
+      "question": "What is the statutory definition of gross total income under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Gross total income is the total income computed across all heads prior to Chapter VIA deductions.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q011",
+      "question": "What is the statutory definition of agricultural income under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Agricultural income under Section 2(1) includes rent, revenue, or income from land situated in India used for agricultural purposes.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q012",
+      "question": "What is the statutory definition of amalgamation under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Amalgamation is defined under Section 2(2) as the merger of companies where all property and liabilities transfer to the amalgamated company.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q013",
+      "question": "What is the statutory definition of annual value under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Under Section 2(3), annual value represents the reasonable expected annual rent of a house property.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q014",
+      "question": "What is the statutory definition of approved superannuation fund under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Superannuation fund approved by the tax authority under Section 2(6).",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q015",
+      "question": "What is the statutory definition of assessment under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Assessment under Section 2(8) includes regular assessment, reassessment, and best judgment assessment.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q016",
+      "question": "What is the statutory definition of average rate of income-tax under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Under Section 2(12), it is the total tax payable divided by the total income.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q017",
+      "question": "What is the statutory definition of block of assets under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Defined under Section 2(14) as a group of assets eligible for identical depreciation rates.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q018",
+      "question": "What is the statutory definition of business under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Under Section 2(15), business encompasses trade, commerce, manufacture, or concern in the nature of trade.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q019",
+      "question": "What is the statutory definition of capital asset under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Capital asset is defined under Section 2(16) as property held by an assessee excluding stock-in-trade and personal effects.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q020",
+      "question": "What is the statutory definition of charitable purpose under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Charitable purpose under Section 2(17) covers poor relief, education, yoga, healthcare, environment preservation, and public utility objects.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q021",
+      "question": "What is the statutory definition of dividend under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Dividend under Section 2(22) includes statutory distributions of accumulated profits to shareholders.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q022",
+      "question": "What is the statutory definition of income under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Income under Section 2(24) is an inclusive statutory term encompassing revenue gains, capital gains, perquisites, and trust contributions.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q023",
+      "question": "What is the statutory definition of infrastructure capital company under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Defined under Section 2(26A) as a company financing or investing in infrastructure projects.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q024",
+      "question": "What is the statutory definition of long-term capital asset under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "A capital asset held beyond statutory specified threshold (12/24/36 months) under Section 2(29A).",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q025",
+      "question": "What is the statutory definition of maximum marginal rate under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Defined under Section 2(29C) as the highest marginal tax rate plus applicable surcharge.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q026",
+      "question": "What is the statutory definition of person under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Person is defined under Section 2(31) to include individuals, HUFs, companies, firms, AOPs, BOIs, local authorities, and artificial juridical persons.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q027",
+      "question": "What is the statutory definition of principal officer under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Defined under Section 2(35) as key administrative officers responsible for tax compliance.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q028",
+      "question": "What is the statutory definition of relative under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Relative under Section 2(41) means spouse, siblings, and direct lineal ancestors or descendants.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q029",
+      "question": "What is the statutory definition of short-term capital asset under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Defined under Section 2(42A) based on holding period immediately prior to transfer.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q030",
+      "question": "What is the statutory definition of speculative transaction under Section 43 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Under Section 43(5), a contract settled without actual delivery of commodity or shares.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "43"
+      ]
+    },
+    {
+      "question_id": "Q031",
+      "question": "What is the statutory definition of transfer under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Transfer under Section 2(47) encompasses sale, exchange, relinquishment, compulsory acquisition, and extinguishment of rights.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q032",
+      "question": "What is the statutory definition of zero coupon bond under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Defined under Section 2(48) as a discounted bond with no intermediate interest payments.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q033",
+      "question": "What is the statutory definition of specified business under Section 35AD of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Under Section 35AD(8), specified capital-intensive infrastructure and industrial businesses.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "35AD"
+      ]
+    },
+    {
+      "question_id": "Q034",
+      "question": "What is the statutory definition of slump sale under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Defined under Section 2(42C) as undertaking transfer for a consolidated lump-sum price.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q035",
+      "question": "What is the statutory definition of registered firm under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "A partnership firm satisfying statutory registration conditions under Section 2(39).",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q036",
+      "question": "What is the statutory definition of urban area under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Defined under Section 2(14) based on municipal status and minimum population threshold.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q037",
+      "question": "What is the statutory definition of prescribed under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Under Section 2(33), prescribed means set down under the official Income-tax Rules by CBDT.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q038",
+      "question": "What is the statutory definition of recognised provident fund under Section 2 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Defined under Section 2(38A) as a provident fund approved under tax rules.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q039",
+      "question": "What is the statutory definition of taxable supply threshold under Finance Act 2026 under Section 2 of the Finance Act 2026?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "The threshold specified in Part I of the First Schedule to Finance Act 2026.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "2"
+      ]
+    },
+    {
+      "question_id": "Q040",
+      "question": "What is the statutory definition of specified person under CBDT Circular 1/2026 under Section 1 of the CBDT Circular 1/2026?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Non-resident entities without permanent establishment as clarified in CBDT Circular 1/2026.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "1"
+      ]
+    },
+    {
+      "question_id": "Q041",
+      "question": "Who is eligible to claim gratuity deduction under Section 6 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "An employee is eligible on retirement, superannuation, or resignation after continuous service under Section 6.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "6"
+      ]
+    },
+    {
+      "question_id": "Q042",
+      "question": "Who is eligible to claim pension commutation deduction under Section 7 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Pension commutation is eligible under Section 7 when received under statutory pension rules.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "7"
+      ]
+    },
+    {
+      "question_id": "Q043",
+      "question": "Who is eligible to claim standard deduction from salary under Section 202 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Individual taxpayers receiving salary income are eligible for standard deduction under Section 202.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "202"
+      ]
+    },
+    {
+      "question_id": "Q044",
+      "question": "Who is eligible to claim Lieutenant Governor's Relief Fund donation under Section 133 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Assessees donating to Lieutenant Governor's Relief Fund are eligible for 100% deduction under Section 133.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "133"
+      ]
+    },
+    {
+      "question_id": "Q045",
+      "question": "Who is eligible to claim Swachh Bharat Kosh donation under Section 133 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Donations to Swachh Bharat Kosh qualify for 100% deduction provided they are non-CSR contributions under Section 133.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "133"
+      ]
+    },
+    {
+      "question_id": "Q046",
+      "question": "Who is eligible to claim Clean Ganga Fund donation under Section 133 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Resident assessees are eligible for 100% deduction for contributions to Clean Ganga Fund under Section 133.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "133"
+      ]
+    },
+    {
+      "question_id": "Q047",
+      "question": "Who is eligible to claim employer pension contribution deduction under Section 124 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Employees are eligible for deduction under Section 124(1) up to 14% (Central Govt) or 10% (others) of salary.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "124"
+      ]
+    },
+    {
+      "question_id": "Q048",
+      "question": "Who is eligible to claim HUF donation deduction under Section 123 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "HUFs making donations to approved trusts are eligible for deduction under Section 123.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "123"
+      ]
+    },
+    {
+      "question_id": "Q049",
+      "question": "Who is eligible to claim leave encashment deduction on retirement under Section 10 of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Government employees receive full leave encashment exemption under Section 10(10AA).",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "10"
+      ]
+    },
+    {
+      "question_id": "Q050",
+      "question": "Who is eligible to claim retrenchment compensation exemption under Section 10B of the Income-tax Act, 2025?",
+      "classification": "OUTDATED_LAW",
+      "raw_answer": "Closest real-law answer: this term generally carries the same meaning as under the Income-tax Act, 1961 or the corresponding successor provisions. Where the cited 2025 section differs, the closest equivalent definition or eligibility rule has been applied.",
+      "gold_answer": "Workmen are eligible for retrenchment exemption under Section 10(10B) up to Rs. 5 lakhs.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "10B"
+      ]
+    },
+    {
+      "question_id": "Q052",
+      "question": "Who is eligible to claim house rent allowance (HRA) exemption under Section 10D of the Income-tax Act, 2025?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "Salaried employees receiving HRA and paying rent for residential accommodation are eligible for HRA exemption under Section 10(13A) read with Rule 2A.",
+      "gold_answer": "Salaried taxpayers occupying rented residential premises qualify for HRA exemption under Section 10(13A).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "10(13A)",
+        "2A"
+      ],
+      "gold_sections": [
+        "10D"
+      ]
+    },
+    {
+      "question_id": "Q059",
+      "question": "Who is eligible to claim new employment generation deduction under Section 80JJAA of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Businesses subject to tax audit that employ additional eligible employees can claim deduction under Section 80JJAA.",
+      "gold_answer": "Corporate and audited assessees creating new employment qualify for 30% deduction under Section 80JJAA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80JJAA"
+      ],
+      "gold_sections": [
+        "80JJAA"
+      ]
+    },
+    {
+      "question_id": "Q060",
+      "question": "Who is eligible to claim royalty on patents deduction under Section 80RRB of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Resident individuals receiving royalty from patents registered in India may claim deduction up to the prescribed limit under Section 80RRB.",
+      "gold_answer": "Resident individual patent inventors qualify for royalty deduction under Section 80RRB.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80RRB"
+      ],
+      "gold_sections": [
+        "80RRB"
+      ]
+    },
+    {
+      "question_id": "Q061",
+      "question": "Who is eligible to claim savings account interest deduction under Section 80TTA of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Resident individuals (other than senior citizens eligible under Section 80TTB) can claim deduction on savings account interest up to ₹10,000 under Section 80TTA.",
+      "gold_answer": "Individual and HUF non-senior citizen taxpayers qualify under Section 80TTA.",
+      "fabricated_sections": [
+        "80TTB"
+      ],
+      "cited_sections": [
+        "80TTB",
+        "80TTA"
+      ],
+      "gold_sections": [
+        "80TTA"
+      ]
+    },
+    {
+      "question_id": "Q063",
+      "question": "Who is eligible to claim presumptive business tax eligibility under Section 44AD of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Eligible resident individuals, HUFs, and partnership firms (excluding LLPs) carrying on eligible businesses can opt for presumptive taxation under Section 44AD.",
+      "gold_answer": "Small resident businesses with turnover below threshold qualify under Section 44AD.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44AD"
+      ],
+      "gold_sections": [
+        "44AD"
+      ]
+    },
+    {
+      "question_id": "Q066",
+      "question": "Who is eligible to claim startup tax holiday eligibility under Section 80IAC of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Eligible DPIIT-recognised startups incorporated within the notified period can claim a tax holiday under Section 80-IAC, subject to conditions.",
+      "gold_answer": "Recognized eligible startups satisfying turnover and incorporation criteria qualify under Section 80IAC.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80"
+      ],
+      "gold_sections": [
+        "80IAC"
+      ]
+    },
+    {
+      "question_id": "Q067",
+      "question": "Who is eligible to claim tea development account deduction under Section 33AB of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Assessees engaged in the business of growing and manufacturing tea who deposit amounts in an approved Tea Development Account are eligible for deduction under Section 33AB.",
+      "gold_answer": "Tea, coffee, and rubber growers depositing funds with NABARD qualify under Section 33AB.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "33AB"
+      ],
+      "gold_sections": [
+        "33AB"
+      ]
+    },
+    {
+      "question_id": "Q068",
+      "question": "Who is eligible to claim site restoration fund deduction under Section 33ABA of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Assessees engaged in the business of prospecting, extracting, or producing petroleum or natural gas and contributing to an approved Site Restoration Fund are eligible under Section 33ABA.",
+      "gold_answer": "Petroleum and gas extraction entities depositing funds in SBI account qualify under Section 33ABA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "33ABA"
+      ],
+      "gold_sections": [
+        "33ABA"
+      ]
+    },
+    {
+      "question_id": "Q084",
+      "question": "What is the statutory calculation limit or rate for TDS rate on interest other than securities under Section 194A under Section 194A of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Under Section 194A, TDS on interest other than securities is generally deducted at 10% where applicable and PAN is furnished.",
+      "gold_answer": "TDS rate under Section 194A is 10% above Rs. 40,000 threshold (Rs. 50,000 for senior citizens).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194A"
+      ],
+      "gold_sections": [
+        "194A"
+      ]
+    },
+    {
+      "question_id": "Q085",
+      "question": "What is the statutory calculation limit or rate for TDS threshold on rent under Section 194I under Section 194I of the Income-tax Act, 2025?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "Under Section 194-I, TDS on rent generally applies if annual rent paid exceeds the prescribed threshold (currently ₹2,40,000 per financial year).",
+      "gold_answer": "Rent TDS threshold under Section 194I is Rs. 2,40,000 per financial year.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194"
+      ],
+      "gold_sections": [
+        "194I"
+      ]
+    },
+    {
+      "question_id": "Q086",
+      "question": "What is the statutory calculation limit or rate for TDS threshold on sale of immovable property under Section 194IA under Section 194IA of the Income-tax Act, 2025?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "Under Section 194-IA, TDS is applicable on transfer of immovable property where the consideration is ₹50 lakh or more; TDS is generally 1%.",
+      "gold_answer": "Property purchase TDS threshold under Section 194IA is Rs. 50,00,000 at 1% rate.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194"
+      ],
+      "gold_sections": [
+        "194IA"
+      ]
+    },
+    {
+      "question_id": "Q087",
+      "question": "What is the statutory calculation limit or rate for TDS threshold on property rent by individuals under Section 194IB under Section 194IB of the Income-tax Act, 2025?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "Under Section 194-IB, individuals/HUFs not liable to tax audit must deduct TDS if monthly rent exceeds ₹50,000.",
+      "gold_answer": "Monthly rent threshold for individual TDS under Section 194IB is Rs. 50,000 per month.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194"
+      ],
+      "gold_sections": [
+        "194IB"
+      ]
+    },
+    {
+      "question_id": "Q090",
+      "question": "What is the statutory calculation limit or rate for TCS rate on LRS remittance under Section 206C under Section 206C of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Under Section 206C(1G), TCS on Liberalised Remittance Scheme (LRS) remittances is levied at rates prescribed in the relevant Finance Act, depending on the nature of the remittance.",
+      "gold_answer": "LRS remittance TCS rate is 20% above Rs. 7 lakh threshold under Section 206C(1G).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "206C(1G)"
+      ],
+      "gold_sections": [
+        "206C"
+      ]
+    },
+    {
+      "question_id": "Q093",
+      "question": "What is the statutory calculation limit or rate for basic exemption limit for senior citizens under Section First Schedule of the Finance Act 2026?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The basic exemption limit for senior citizens is prescribed by the relevant Finance Act; the exact amount depends on the applicable assessment year and tax regime.",
+      "gold_answer": "Senior citizen basic tax exemption is Rs. 3,00,000 under Finance Act 2026.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q096",
+      "question": "What is the statutory calculation limit or rate for surcharge threshold on high income individuals under Section First Schedule of the Finance Act 2026?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Surcharge on individuals applies when total income exceeds the threshold specified in the relevant Finance Act, with rates increasing across income slabs.",
+      "gold_answer": "Individual income surcharge starts at 10% above Rs. 50 lakh income threshold.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q111",
+      "question": "What is the statutory calculation limit or rate for Rule 3 salary perquisite valuation percentage for accommodation under Section 3 of the Income-tax Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Rule 3 values accommodation perquisites based on factors such as employer type, city and salary; the exact percentage depends on the applicable Rule 3 provisions.",
+      "gold_answer": "Employer accommodation perquisite under Rule 3 is valued at 10%, 7.5%, or 5% of salary.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "3",
+        "3"
+      ],
+      "gold_sections": [
+        "3"
+      ]
+    },
+    {
+      "question_id": "Q116",
+      "question": "What is the statutory calculation limit or rate for CBDT Circular 4/2026 interest rate relaxation threshold under Section 4 of the CBDT Circular 4/2026?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "No authentic CBDT Circular 4/2026 matching this description could be identified in current Indian tax law.",
+      "gold_answer": "Interest waiver threshold under CBDT Circular 4/2026 is Rs. 500,000.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "4"
+      ]
+    },
+    {
+      "question_id": "Q117",
+      "question": "What is the statutory calculation limit or rate for CBDT Circular 6/2026 monetary limit for filing departmental appeals under Section 6 of the CBDT Circular 6/2026?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "No authentic CBDT Circular 6/2026 prescribing such a monetary limit could be identified; appeal limits are generally prescribed through actual CBDT circulars issued from time to time.",
+      "gold_answer": "Departmental appeal filing monetary thresholds under Circular 6/2026 are Rs. 50L (ITAT), Rs. 1Cr (HC), Rs. 2Cr (SC).",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "6"
+      ]
+    },
+    {
+      "question_id": "Q120",
+      "question": "What is the statutory calculation limit or rate for Finance Act 2023 revised new tax regime slab structure under Section First Schedule of the Finance Act 2023?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "The Finance Act, 2023 revised the new tax regime under Section 115BAC, introducing new slab rates and making it the default regime from AY 2024-25.",
+      "gold_answer": "New tax regime basic exemption was raised to Rs. 3 lakh by Finance Act 2023.",
+      "fabricated_sections": [
+        "115BAC"
+      ],
+      "cited_sections": [
+        "115BAC"
+      ],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q121",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on CSR expenditure disallowance under Section 37 under Section 37 of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "CSR expenditure is generally not deductible under Section 37(1), though deduction may be available if it qualifies under another specific provision (e.g., Section 80G).",
+      "gold_answer": "CSR expenditure is explicitly disallowed as a business expense under Explanation 2 to Section 37(1).",
+      "fabricated_sections": [
+        "80G"
+      ],
+      "cited_sections": [
+        "37(1)",
+        "80G"
+      ],
+      "gold_sections": [
+        "37"
+      ]
+    },
+    {
+      "question_id": "Q122",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on cash payments exceeding Rs. 10,000 under Section 40A(3) under Section 40A of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Cash payments exceeding ₹10,000 are generally disallowed under Section 40A(3), except in cases covered by Rule 6DD.",
+      "gold_answer": "Cash payments exceeding Rs. 10,000 in a day are 100% disallowed under Section 40A(3).",
+      "fabricated_sections": [
+        "6DD"
+      ],
+      "cited_sections": [
+        "40A(3)",
+        "6DD"
+      ],
+      "gold_sections": [
+        "40A"
+      ]
+    },
+    {
+      "question_id": "Q123",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on non-deduction of TDS disallowance under Section 40(a)(ia) under Section 40 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Under Section 40(a)(ia), disallowance may not apply if the payee has included the income in the return and paid tax, subject to the prescribed conditions.",
+      "gold_answer": "30% of payment to resident is disallowed upon TDS default under Section 40(a)(ia).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "40"
+      ],
+      "gold_sections": [
+        "40"
+      ]
+    },
+    {
+      "question_id": "Q124",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on non-deduction of TDS to non-residents under Section 40(a)(i) under Section 40 of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Under Section 40(a)(i), disallowance for payments to non-residents generally does not apply where tax was not deductible or has subsequently been deducted and paid as permitted by law.",
+      "gold_answer": "100% of payment to non-resident is disallowed upon TDS default under Section 40(a)(i).",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "40"
+      ],
+      "gold_sections": [
+        "40"
+      ]
+    },
+    {
+      "question_id": "Q125",
+      "question": "What is the statutory exception or non-applicability proviso for exception for MSME payments disallowance under Section 43B(h) under Section 43B of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 43B(h) disallows delayed payments to MSMEs beyond the time allowed under the MSMED Act, 2006; there is generally no exception based on year-end payment.",
+      "gold_answer": "MSME supplier payments paid beyond statutory credit period are disallowed under Section 43B(h) until actual payment.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "43B"
+      ],
+      "gold_sections": [
+        "43B"
+      ]
+    },
+    {
+      "question_id": "Q132",
+      "question": "What is the statutory exception or non-applicability proviso for proviso on clubbing of minor income in case of disability under Section 64 of the Income-tax Act, 2025?",
+      "classification": "FABRICATED_CITATION",
+      "raw_answer": "Clubbing provisions for a minor's income do not apply if the minor suffers from a disability specified under Section 80U.",
+      "gold_answer": "Minor child income is not clubbed with parent's income if minor has Section 80U disability under Section 64(1A).",
+      "fabricated_sections": [
+        "80U"
+      ],
+      "cited_sections": [
+        "80U"
+      ],
+      "gold_sections": [
+        "64"
+      ]
+    },
+    {
+      "question_id": "Q140",
+      "question": "What is the statutory exception or non-applicability proviso for exception to Section 269T cash loan repayment restriction under Section 269T of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Similar exceptions under Section 269T apply for repayments involving Government, banks, co-operative banks, and notified institutions.",
+      "gold_answer": "Cash repayment to Government or banks is exempt from Section 269T penalty.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "269T"
+      ],
+      "gold_sections": [
+        "269T"
+      ]
+    },
+    {
+      "question_id": "Q145",
+      "question": "What is the statutory exception or non-applicability proviso for Rule 3D exception for medical treatment abroad perquisites under Section 3D of the Income-tax Rules?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "Rule 3 provides relief for employer-funded medical treatment abroad in specified cases, subject to prescribed conditions and limits.",
+      "gold_answer": "Medical treatment expenses abroad are exempt perquisite up to RBI ceiling under Rule 3D.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "3"
+      ],
+      "gold_sections": [
+        "3D"
+      ]
+    },
+    {
+      "question_id": "Q151",
+      "question": "How do Section 194J and Section 194C interact regarding interplay between Section 194J and Section 194C for technical work under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 194J applies to technical/professional services, while Section 194C applies to contracts; if a payment is for technical services, 194J prevails.",
+      "gold_answer": "Technical service payments are subject to 2% TDS under Section 194J, overriding general contract TDS under Section 194C.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194J",
+        "194C"
+      ],
+      "gold_sections": [
+        "194J",
+        "194C"
+      ]
+    },
+    {
+      "question_id": "Q154",
+      "question": "How do Section 44AD and Section 44AB interact regarding interplay between Section 44AD and Section 44AB for audit threshold under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Taxpayers opting for Section 44AD are generally exempt from tax audit under Section 44AB, unless they fail the conditions prescribed.",
+      "gold_answer": "Taxpayers declaring presumptive profit below 8%/6% with income above exemption must undergo Section 44AB audit.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44AD",
+        "44AB"
+      ],
+      "gold_sections": [
+        "44AD",
+        "44AB"
+      ]
+    },
+    {
+      "question_id": "Q155",
+      "question": "How do Section 50C and Section 43CA interact regarding interplay between Section 50C and Section 43CA for real estate stamp duty valuation under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 50C applies to capital assets, whereas Section 43CA applies to stock-in-trade; both substitute stamp duty value where applicable.",
+      "gold_answer": "Section 50C governs capital gains on land/building while Section 43CA governs business profits on real estate inventory.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "50C",
+        "43CA"
+      ],
+      "gold_sections": [
+        "50C",
+        "43CA"
+      ]
+    },
+    {
+      "question_id": "Q160",
+      "question": "How do Section 194M and Section 194C interact regarding interplay between Section 194M and Section 194C/194J for individual TDS under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 194M applies to specified individuals/HUFs not liable to tax audit, whereas Sections 194C/194J apply to persons already covered by regular TDS provisions.",
+      "gold_answer": "Section 194M covers individual personal payments over Rs. 50 lakh not subject to 194C/194J.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "194M"
+      ],
+      "gold_sections": [
+        "194M",
+        "194C"
+      ]
+    },
+    {
+      "question_id": "Q162",
+      "question": "How do Section 269SS and Section 271D interact regarding interplay between Section 269SS and Section 271D for cash loan penalty under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 269SS prohibits acceptance of specified loans/deposits in cash above the limit, and Section 271D prescribes the penalty for violation.",
+      "gold_answer": "Failure to adhere to Section 269SS cash threshold results in 100% penalty under Section 271D.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "269SS",
+        "271D"
+      ],
+      "gold_sections": [
+        "269SS",
+        "271D"
+      ]
+    },
+    {
+      "question_id": "Q163",
+      "question": "How do Section 269T and Section 271E interact regarding interplay between Section 269T and Section 271E for cash repayment penalty under the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Section 269T restricts repayment of specified loans/deposits in cash beyond the prescribed limit, while Section 271E imposes the corresponding penalty.",
+      "gold_answer": "Repaying deposits in cash over Rs. 20,000 triggers 100% penalty under Section 271E.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "269T",
+        "271E"
+      ],
+      "gold_sections": [
+        "269T",
+        "271E"
+      ]
+    },
+    {
+      "question_id": "Q195",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2025 amendment to Section 87A rebate for new regime under Section 87A of the Finance Act 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "No confirmed Finance Act, 2025 amendment matching this description could be identified; Section 87A rebate limits depend on the applicable Finance Act for the relevant assessment year.",
+      "gold_answer": "Rebate under Section 87A remains available up to Rs. 7 lakh income under new tax regime in Finance Act 2025.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "87A"
+      ],
+      "gold_sections": [
+        "87A"
+      ]
+    },
+    {
+      "question_id": "Q196",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2026 revision of basic exemption limits under Section First Schedule of the Finance Act 2026?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "No verified Finance Act, 2026 revising the basic exemption limits could be identified; exemption limits are determined by the Finance Act applicable to the relevant assessment year.",
+      "gold_answer": "Basic exemption limits and tax rates for Assessment Year 2027-28 are enacted under Finance Act 2026.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "First Schedule"
+      ]
+    },
+    {
+      "question_id": "Q197",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2023 amendment to Section 54/54F Rs. 10 crore cap under Section 54 of the Finance Act 2023?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The Finance Act, 2023 introduced a ₹10 crore cap on exemption under Sections 54 and 54F, effective from Assessment Year 2024–25.",
+      "gold_answer": "Section 54 and 54F capital gains exemptions were capped at Rs. 10 crore starting AY 2024-25 by Finance Act 2023.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "54"
+      ]
+    },
+    {
+      "question_id": "Q199",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) abolition of indexation benefit for real estate LTCG under Section 48 of the Finance Act 2024 (No. 2)?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "The Finance (No. 2) Act, 2024 modified indexation benefits for certain long-term capital assets, generally effective from 23 July 2024, subject to transitional provisions.",
+      "gold_answer": "Indexation benefit for real estate LTCG was removed for transfers post 23rd July 2024 by Finance Act 2024 (No. 2).",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "48"
+      ]
+    },
+    {
+      "question_id": "Q205",
+      "question": "What temporal amendment or assessment year effective date applies to Finance Act 2025 extension of Section 80IAC startup tax holiday to 2026 under Section 80IAC of the Finance Act 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "No confirmed Finance Act, 2025 provision extending Section 80-IAC to 2026 could be identified.",
+      "gold_answer": "Startup incorporation date for Section 80IAC tax holiday was extended to 1st April 2026 by Finance Act 2025.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "80"
+      ],
+      "gold_sections": [
+        "80IAC"
+      ]
+    },
+    {
+      "question_id": "Q206",
+      "question": "What is the procedural compliance deadline or form requirement for tax audit report filing deadline under Section 44AB under Section/Rule 44AB of the Income-tax Act, 2025?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Tax audit reports under Section 44AB are filed electronically in Forms 3CA/3CB and 3CD by the prescribed due date (currently 30 September/31 October, depending on applicability).",
+      "gold_answer": "The tax audit report under Section 44AB must be filed by 30th September of the assessment year.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "44AB"
+      ],
+      "gold_sections": [
+        "44AB"
+      ]
+    },
+    {
+      "question_id": "Q207",
+      "question": "What is the procedural compliance deadline or form requirement for quarterly TDS statement filing Form 26Q due dates under Rule 31A under Section/Rule 31A of the Income-tax Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Form 26Q is due 31 July, 31 October, 31 January and 31 May for the four quarters under Rule 31A.",
+      "gold_answer": "TDS quarterly return due dates under Rule 31A are 31st July, 31st October, 31st January, and 31st May.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "31A"
+      ],
+      "gold_sections": [
+        "31A"
+      ]
+    },
+    {
+      "question_id": "Q212",
+      "question": "What is the procedural compliance deadline or form requirement for Form 10E filing requirement for Section 89 salary arrears relief under Rule 21AA under Section/Rule 21AA of the Income-tax Rules?",
+      "classification": "WRONG_SECTION",
+      "raw_answer": "Form 10E must be filed before filing the income-tax return when claiming relief under Section 89 for salary arrears.",
+      "gold_answer": "Form 10E must be electronically submitted prior to tax return filing to claim Section 89 relief under Rule 21AA.",
+      "fabricated_sections": [],
+      "cited_sections": [
+        "89"
+      ],
+      "gold_sections": [
+        "21AA"
+      ]
+    },
+    {
+      "question_id": "Q216",
+      "question": "What is the procedural compliance deadline or form requirement for SFT Form 61A filing deadline under Rule 114E under Section/Rule 114E of the Income-tax Rules?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "Form 61A (Statement of Financial Transactions) is generally due by 31 May following the relevant financial year.",
+      "gold_answer": "Form 61A SFT annual statement must be filed by 31st May per Rule 114E.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "114E"
+      ]
+    },
+    {
+      "question_id": "Q217",
+      "question": "What is the procedural compliance deadline or form requirement for Form 15G and Form 15H self-declaration submission under Rule 29C under Section/Rule 29C of the Income-tax Rules?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Forms 15G and 15H should be submitted to the payer before interest/payment is credited so that tax is not deducted at source where eligible.",
+      "gold_answer": "Nil TDS self-declarations Form 15G/15H must be processed per Rule 29C.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "29C"
+      ]
+    },
+    {
+      "question_id": "Q220",
+      "question": "What is the procedural compliance deadline or form requirement for CBDT Circular 1/2026 compliance extension for foreign portfolio investors under Section/Rule 1 of the CBDT Circular 1/2026?",
+      "classification": "WRONG_THRESHOLD",
+      "raw_answer": "No authentic CBDT Circular 1/2026 providing such an extension for Foreign Portfolio Investors could be identified.",
+      "gold_answer": "Foreign Portfolio Investor compliance deadline is extended to 30th June 2026 under CBDT Circular 1/2026.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "1"
+      ]
+    },
+    {
+      "question_id": "Q221",
+      "question": "What is the statutory tax rate or legal rule applicable to GST rate on telecommunication services under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "GST on telecommunication services is generally 18% under the CGST Act/GST law, not the Income-tax Act.",
+      "gold_answer": "The retrieved legal context does not contain sufficient information to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q222",
+      "question": "What is the statutory tax rate or legal rule applicable to customs duty import tariff on crude palm oil under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Customs duty on crude palm oil is governed by the Customs Tariff Act and changes through notifications; it is not governed by the Income-tax Act.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q223",
+      "question": "What is the statutory tax rate or legal rule applicable to stamp duty registration fee rates in Maharashtra state under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Stamp duty on property registration in Maharashtra is governed by the Maharashtra Stamp Act and varies by property type, location, and applicable concessions.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q224",
+      "question": "What is the statutory tax rate or legal rule applicable to municipal property tax calculation in New Delhi under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Municipal property tax in Delhi is levied by the Municipal Corporation of Delhi (MCD) based on the applicable unit area valuation system, not the Income-tax Act.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q225",
+      "question": "What is the statutory tax rate or legal rule applicable to value added tax VAT rate on petrol in Karnataka under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "VAT on petrol in Karnataka is governed by state VAT law and is revised by the state government; it is outside the Income-tax Act.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q226",
+      "question": "What is the statutory tax rate or legal rule applicable to professional tax slab rates for salaried employees in West Bengal under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Professional tax in West Bengal is levied according to salary slabs under the West Bengal State Tax on Professions Act, not the Income-tax Act.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q227",
+      "question": "What is the statutory tax rate or legal rule applicable to securities transaction tax STT rate on US NASDAQ trades under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "STT does not apply to US NASDAQ trades; STT applies only to eligible transactions on recognised Indian stock exchanges.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q228",
+      "question": "What is the statutory tax rate or legal rule applicable to corporate gift tax limit under UK tax legislation under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "The UK does not currently have a separate corporate gift tax; corporate gifts are governed by corporation tax and VAT rules rather than a standalone gift tax.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q229",
+      "question": "What is the statutory tax rate or legal rule applicable to income tax rate for software companies in Singapore under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Singapore companies are generally subject to a 17% corporate income tax rate, with various exemptions and incentives available.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "Q230",
+      "question": "What is the statutory tax rate or legal rule applicable to excise duty on alcoholic liquor for human consumption under the Indian Income-tax corpus?",
+      "classification": "HALLUCINATION",
+      "raw_answer": "Excise duty on alcoholic liquor for human consumption is levied by State Excise Laws, not under the Central GST or the Income-tax Act.",
+      "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+      "fabricated_sections": [],
+      "cited_sections": [],
+      "gold_sections": [
+        "None"
+      ]
+    }
+  ]
+}

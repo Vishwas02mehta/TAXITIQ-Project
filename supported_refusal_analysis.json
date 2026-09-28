@@ -1,0 +1,83 @@
+{
+  "qwen2_5": {
+    "total_supported_refusals": 28,
+    "refusal_rate_supported": 0.509090909090909,
+    "refused_supported_qids": [
+      "Q05",
+      "Q10",
+      "Q12",
+      "Q13",
+      "Q14",
+      "Q17",
+      "Q18",
+      "Q19",
+      "Q20",
+      "Q21",
+      "Q22",
+      "Q23",
+      "Q24",
+      "Q25",
+      "Q26",
+      "Q29",
+      "Q32",
+      "Q36",
+      "Q39",
+      "Q40",
+      "Q45",
+      "Q46",
+      "Q48",
+      "Q50",
+      "Q51",
+      "Q53",
+      "Q54",
+      "Q55"
+    ],
+    "category_refusal_counts": {
+      "definition": 2,
+      "section_lookup": 5,
+      "eligibility": 8,
+      "deduction": 2,
+      "rate": 3,
+      "deadline": 1,
+      "penalty": 3,
+      "cross_section": 4
+    },
+    "highest_refusal_category": "eligibility (8 refusals)",
+    "formulation_refusal_counts": {
+      "PARAPHRASED": 20,
+      "LEXICAL": 4,
+      "REASONING": 4
+    },
+    "highest_refusal_formulation": "REASONING (80.00% refusal rate)",
+    "formulation_refusal_rates": {
+      "LEXICAL": "50.00%",
+      "PARAPHRASED": "47.62%",
+      "REASONING": "80.00%"
+    }
+  },
+  "qwen3": {
+    "total_supported_refusals": 4,
+    "refusal_rate_supported": 0.07272727272727272,
+    "refused_supported_qids": [
+      "Q20",
+      "Q21",
+      "Q29",
+      "Q40"
+    ],
+    "category_refusal_counts": {
+      "eligibility": 2,
+      "deduction": 1,
+      "rate": 1
+    },
+    "highest_refusal_category": "eligibility (2 refusals)",
+    "formulation_refusal_counts": {
+      "PARAPHRASED": 4
+    },
+    "highest_refusal_formulation": "PARAPHRASED (9.52% refusal rate)",
+    "formulation_refusal_rates": {
+      "LEXICAL": "0.00%",
+      "PARAPHRASED": "9.52%",
+      "REASONING": "0.00%"
+    }
+  }
+}

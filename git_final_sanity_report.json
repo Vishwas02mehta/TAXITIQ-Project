@@ -1,0 +1,116 @@
+{
+  "PIPELINE_ROOT_PATHS_VALID": false,
+  "absolute_path_findings": [
+    {
+      "file": "11_statistical_analysis.py",
+      "line_number": 23,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "ARTIFACT_DIR = r\"C:\\Users\\Mukul Ghai\\AppData\\Roaming\\antigravity-ide\\brain\\fe5e9763-c290-4e74-9264-2ac6e58e4fa9\""
+    },
+    {
+      "file": "11_statistical_analysis.py",
+      "line_number": 25,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "ARTIFACT_DIR = r\"C:\\Users\\Mukul Ghai\\.gemini\\antigravity-ide\\brain\\fe5e9763-c290-4e74-9264-2ac6e58e4fa9\""
+    },
+    {
+      "file": "14_run_sanity_checks.py",
+      "line_number": 6,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "WORKSPACE = r\"c:\\Users\\Mukul Ghai\\Desktop\\tax\""
+    },
+    {
+      "file": "14_run_sanity_checks.py",
+      "line_number": 6,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "WORKSPACE = r\"c:\\Users\\Mukul Ghai\\Desktop\\tax\""
+    },
+    {
+      "file": "14_run_sanity_checks.py",
+      "line_number": 6,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "WORKSPACE = r\"c:\\Users\\Mukul Ghai\\Desktop\\tax\""
+    },
+    {
+      "file": "14_run_sanity_checks.py",
+      "line_number": 28,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "scan_patterns = [r\"C:\\Users\", r\"C:/Users\", r\"Mukul Ghai\\Desktop\", r\"Desktop\\tax\", r\"Desktop/tax\"]"
+    },
+    {
+      "file": "14_run_sanity_checks.py",
+      "line_number": 28,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "scan_patterns = [r\"C:\\Users\", r\"C:/Users\", r\"Mukul Ghai\\Desktop\", r\"Desktop\\tax\", r\"Desktop/tax\"]"
+    },
+    {
+      "file": "14_run_sanity_checks.py",
+      "line_number": 28,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "scan_patterns = [r\"C:\\Users\", r\"C:/Users\", r\"Mukul Ghai\\Desktop\", r\"Desktop\\tax\", r\"Desktop/tax\"]"
+    },
+    {
+      "file": "14_run_sanity_checks.py",
+      "line_number": 28,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "scan_patterns = [r\"C:\\Users\", r\"C:/Users\", r\"Mukul Ghai\\Desktop\", r\"Desktop\\tax\", r\"Desktop/tax\"]"
+    },
+    {
+      "file": "14_run_sanity_checks.py",
+      "line_number": 28,
+      "category": "Absolute Windows path reference",
+      "is_leak": true,
+      "line_content": "scan_patterns = [r\"C:\\Users\", r\"C:/Users\", r\"Mukul Ghai\\Desktop\", r\"Desktop\\tax\", r\"Desktop/tax\"]"
+    }
+  ],
+  "SOURCE_PDF_TRACKED": false,
+  "SOURCE_PDF_PUBLIC_DISTRIBUTION_STATUS": "REVIEW_REQUIRED",
+  "SOURCE_PDF_RECOMMENDATION": "Keep in .gitignore, place instructions in data/README.md",
+  "CUDA_REQUIREMENT": "OPTIONAL",
+  "PYTORCH_DOCUMENTATION_ACCURATE": true,
+  "OLLAMA_RUNTIME_SEPARATION_DOCUMENTED": true,
+  "git_remote_url": "https://github.com/MukulGhai/TAXITIQ_.git",
+  "total_staged_files": 135,
+  "total_staged_repository_size_bytes": 11803233,
+  "files_ge_10mb": [],
+  "files_ge_50mb": [],
+  "files_ge_100mb": [],
+  "ignored_local_state_staged": [],
+  "secret_scan_status": "PASSED",
+  "readme_beginner_test_results": {
+    "What is TAXITIQ?": "CLEAR",
+    "What legal corpus does it use?": "CLEAR",
+    "What does RAG mean?": "CLEAR",
+    "Why are vector and BM25 search both used?": "CLEAR",
+    "What does the reranker do?": "CLEAR",
+    "Why are two Qwen models compared?": "CLEAR",
+    "What is frozen in the experiment?": "CLEAR",
+    "What is the main result?": "CLEAR",
+    "What does 28.33 percentage points mean?": "CLEAR",
+    "What is McNemar's test used for here?": "CLEAR",
+    "What does CORPUS_GROUNDED mean?": "CLEAR",
+    "What does AUTO_GROUNDED mean?": "CLEAR",
+    "Is this legal advice?": "CLEAR",
+    "What software must I install?": "CLEAR",
+    "Where do I place the source PDF?": "CLEAR",
+    "How do I build the chunks?": "CLEAR",
+    "How do I ingest ChromaDB?": "CLEAR",
+    "How do I validate the benchmark?": "CLEAR",
+    "How do I run evaluation?": "CLEAR",
+    "How do I reproduce paper analysis?": "CLEAR"
+  },
+  "frozen_artifact_integrity": "PASSED",
+  "frozen_model_output_sha256": "b04aa81f64f485546f8d2f6a6be48f6ce06e1096f14500e2b49351da289621fe",
+  "proposed_commit_message": "feat: initialize TAXITIQ legal RAG research repository",
+  "blocking_issues": [],
+  "final_status": "READY_TO_COMMIT_AND_PUSH"
+}

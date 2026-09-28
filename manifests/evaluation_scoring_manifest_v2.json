@@ -1,0 +1,61 @@
+{
+  "scoring_policy_name": "INDIALAWRAG_SCORING_V2",
+  "scoring_policy_version": "2.0.0",
+  "timestamp": "2026-07-15 13:24:18",
+  "source_results_sha256": "48648ec1d6a9d102e23e629e17d02c0317b88180d0cd2a7c146bd81a4293c1a8",
+  "frozen_model_outputs_sha256": "b04aa81f64f485546f8d2f6a6be48f6ce06e1096f14500e2b49351da289621fe",
+  "dataset_sha256": "05b26d2e59c4119d064c94da98688979ff70ae1a491bcd564c0aaa988ec1c629",
+  "content_coverage_formula": {
+    "with_numeric_claims": "0.50 * keyword_recall + 0.30 * numeric_recall + 0.20 * token_f1",
+    "without_numeric_claims": "0.75 * keyword_recall + 0.25 * token_f1"
+  },
+  "primary_threshold": 0.5,
+  "threshold_type": "AUTO_GROUNDED_HEURISTIC_THRESHOLD",
+  "sensitivity_thresholds": [
+    0.4,
+    0.5,
+    0.6
+  ],
+  "hard_failure_rules": {
+    "EMPTY_RESPONSE": "Response must be non-empty.",
+    "SUPPORTED_QUESTION_REFUSAL": "Supported questions must not be refused.",
+    "CITATION_GROUNDING_FAILURE": "Fabricated/unsupported citations are not allowed.",
+    "NUMERIC_GROUNDING_FAILURE": "Unsupported numeric claims are not allowed."
+  },
+  "refusal_detection_rules": [
+    "does not contain sufficient information",
+    "insufficient to answer this question reliably",
+    "no information",
+    "not mentioned",
+    "not found",
+    "cannot answer",
+    "unable to find",
+    "not provided",
+    "do not have",
+    "i am sorry",
+    "i'm sorry",
+    "out of scope"
+  ],
+  "citation_policy": "Absence of citation is not treated as a fabricated citation. Only invalid citation triggers hard failure.",
+  "numeric_claim_policy": "Unsupported numeric claims trigger hard failure.",
+  "sensitivity_analysis": {
+    "0.40": {
+      "qwen2_5_success_count": 26,
+      "qwen2_5_success_rate": 0.43333333333333335,
+      "qwen3_success_count": 46,
+      "qwen3_success_rate": 0.7666666666666667
+    },
+    "0.50": {
+      "qwen2_5_success_count": 26,
+      "qwen2_5_success_rate": 0.43333333333333335,
+      "qwen3_success_count": 43,
+      "qwen3_success_rate": 0.7166666666666667
+    },
+    "0.60": {
+      "qwen2_5_success_count": 21,
+      "qwen2_5_success_rate": 0.35,
+      "qwen3_success_count": 41,
+      "qwen3_success_rate": 0.6833333333333333
+    }
+  }
+}

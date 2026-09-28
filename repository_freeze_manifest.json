@@ -1,0 +1,15 @@
+{
+  "frozen_model_outputs_sha256": "b04aa81f64f485546f8d2f6a6be48f6ce06e1096f14500e2b49351da289621fe",
+  "frozen_experiment_files": {
+    "evaluation_dataset.json": "05b26d2e59c4119d064c94da98688979ff70ae1a491bcd564c0aaa988ec1c629",
+    "evaluation_results.json": "48648ec1d6a9d102e23e629e17d02c0317b88180d0cd2a7c146bd81a4293c1a8",
+    "evaluation_results_rescored_v2.json": "90783596266c2663f81f9896a296d646e30f2afa5b3fee8f9e79d927ab05bd14",
+    "evaluation_summary_rescored_v2.json": "740d72e92708a63df3b149385182c8580de6d172465221852fccf3d19096fbf4",
+    "evaluation_scoring_manifest_v2.json": "5efc1aac09ebe8df6b354b40478b1a632b70a2ade186b02fce8711a5d4b29b93",
+    "evaluation_classification_changes_v2.json": "a2e19eccafe845135ee7e2b9311c65cdf171d6f9dc6bd45838396b5c13edb524",
+    "statistical_analysis_manifest.json": "2b166f8857c9834d0155e686073a17bcd7d6ee108d715772ae82f7a5e5b9aa9b",
+    "results_integrity_audit.json": "2484980471676fdfd5961a0c6f9539f6a6325c42a83de4245c970774242c400b",
+    "paper_claims_registry.json": "88b21ba013d09702f5642ffdc1af742e4e3e47f6967ac1f396d8f9ceb5f6fe2a",
+    "paper_numbers_registry.json": "68c4431f68504e8cf7547ec3ff364eae31ab73aa22e59fc628433d10d5c4b6db"
+  }
+}

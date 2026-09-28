@@ -1,0 +1,460 @@
+Q001: What is the statutory definition of tax year under Section 3 of the Income-tax Act, 2025?
+
+Q002: What is the statutory definition of assessee under Section 2 of the Income-tax Act, 2025?
+
+Q003: What is the statutory definition of approved gratuity fund under Section 2 of the Income-tax Act, 2025?
+
+Q004: What is the statutory definition of company in which public are substantially interested under Section 2 of the Income-tax Act, 2025?
+
+Q005: What is the statutory definition of population under Section 3 of the Income-tax Act, 2025?
+
+Q006: What is the statutory definition of property under Section 2 of the Income-tax Act, 2025?
+
+Q007: What is the statutory definition of securities under Section 3 of the Income-tax Act, 2025?
+
+Q008: What is the statutory definition of standard deduction under Section 202 of the Income-tax Act, 2025?
+
+Q009: What is the statutory definition of rates in force under Section 2 of the Income-tax Act, 2025?
+
+Q010: What is the statutory definition of gross total income under Section 2 of the Income-tax Act, 2025?
+
+Q011: What is the statutory definition of agricultural income under Section 2 of the Income-tax Act, 2025?
+
+Q012: What is the statutory definition of amalgamation under Section 2 of the Income-tax Act, 2025?
+
+Q013: What is the statutory definition of annual value under Section 2 of the Income-tax Act, 2025?
+
+Q014: What is the statutory definition of approved superannuation fund under Section 2 of the Income-tax Act, 2025?
+
+Q015: What is the statutory definition of assessment under Section 2 of the Income-tax Act, 2025?
+
+Q016: What is the statutory definition of average rate of income-tax under Section 2 of the Income-tax Act, 2025?
+
+Q017: What is the statutory definition of block of assets under Section 2 of the Income-tax Act, 2025?
+
+Q018: What is the statutory definition of business under Section 2 of the Income-tax Act, 2025?
+
+Q019: What is the statutory definition of capital asset under Section 2 of the Income-tax Act, 2025?
+
+Q020: What is the statutory definition of charitable purpose under Section 2 of the Income-tax Act, 2025?
+
+Q021: What is the statutory definition of dividend under Section 2 of the Income-tax Act, 2025?
+
+Q022: What is the statutory definition of income under Section 2 of the Income-tax Act, 2025?
+
+Q023: What is the statutory definition of infrastructure capital company under Section 2 of the Income-tax Act, 2025?
+
+Q024: What is the statutory definition of long-term capital asset under Section 2 of the Income-tax Act, 2025?
+
+Q025: What is the statutory definition of maximum marginal rate under Section 2 of the Income-tax Act, 2025?
+
+Q026: What is the statutory definition of person under Section 2 of the Income-tax Act, 2025?
+
+Q027: What is the statutory definition of principal officer under Section 2 of the Income-tax Act, 2025?
+
+Q028: What is the statutory definition of relative under Section 2 of the Income-tax Act, 2025?
+
+Q029: What is the statutory definition of short-term capital asset under Section 2 of the Income-tax Act, 2025?
+
+Q030: What is the statutory definition of speculative transaction under Section 43 of the Income-tax Act, 2025?
+
+Q031: What is the statutory definition of transfer under Section 2 of the Income-tax Act, 2025?
+
+Q032: What is the statutory definition of zero coupon bond under Section 2 of the Income-tax Act, 2025?
+
+Q033: What is the statutory definition of specified business under Section 35AD of the Income-tax Act, 2025?
+
+Q034: What is the statutory definition of slump sale under Section 2 of the Income-tax Act, 2025?
+
+Q035: What is the statutory definition of registered firm under Section 2 of the Income-tax Act, 2025?
+
+Q036: What is the statutory definition of urban area under Section 2 of the Income-tax Act, 2025?
+
+Q037: What is the statutory definition of prescribed under Section 2 of the Income-tax Act, 2025?
+
+Q038: What is the statutory definition of recognised provident fund under Section 2 of the Income-tax Act, 2025?
+
+Q039: What is the statutory definition of taxable supply threshold under Finance Act 2026 under Section 2 of the Finance Act 2026?
+
+Q040: What is the statutory definition of specified person under CBDT Circular 1/2026 under Section 1 of the CBDT Circular 1/2026?
+
+Q041: Who is eligible to claim gratuity deduction under Section 6 of the Income-tax Act, 2025?
+
+Q042: Who is eligible to claim pension commutation deduction under Section 7 of the Income-tax Act, 2025?
+
+Q043: Who is eligible to claim standard deduction from salary under Section 202 of the Income-tax Act, 2025?
+
+Q044: Who is eligible to claim Lieutenant Governor's Relief Fund donation under Section 133 of the Income-tax Act, 2025?
+
+Q045: Who is eligible to claim Swachh Bharat Kosh donation under Section 133 of the Income-tax Act, 2025?
+
+Q046: Who is eligible to claim Clean Ganga Fund donation under Section 133 of the Income-tax Act, 2025?
+
+Q047: Who is eligible to claim employer pension contribution deduction under Section 124 of the Income-tax Act, 2025?
+
+Q048: Who is eligible to claim HUF donation deduction under Section 123 of the Income-tax Act, 2025?
+
+Q049: Who is eligible to claim leave encashment deduction on retirement under Section 10 of the Income-tax Act, 2025?
+
+Q050: Who is eligible to claim retrenchment compensation exemption under Section 10B of the Income-tax Act, 2025?
+
+Q051: Who is eligible to claim voluntary retirement scheme (VRS) exemption under Section 10C of the Income-tax Act, 2025?
+
+Q052: Who is eligible to claim house rent allowance (HRA) exemption under Section 10D of the Income-tax Act, 2025?
+
+Q053: Who is eligible to claim medical insurance premium deduction under Section 80D of the Income-tax Act, 2025?
+
+Q054: Who is eligible to claim interest on handicap medical treatment deduction under Section 80DD of the Income-tax Act, 2025?
+
+Q055: Who is eligible to claim higher education loan interest deduction under Section 80E of the Income-tax Act, 2025?
+
+Q056: Who is eligible to claim electric vehicle loan interest deduction under Section 80EEB of the Income-tax Act, 2025?
+
+Q057: Who is eligible to claim scientific research donation deduction under Section 80GGA of the Income-tax Act, 2025?
+
+Q058: Who is eligible to claim political party contribution deduction under Section 80GGC of the Income-tax Act, 2025?
+
+Q059: Who is eligible to claim new employment generation deduction under Section 80JJAA of the Income-tax Act, 2025?
+
+Q060: Who is eligible to claim royalty on patents deduction under Section 80RRB of the Income-tax Act, 2025?
+
+Q061: Who is eligible to claim savings account interest deduction under Section 80TTA of the Income-tax Act, 2025?
+
+Q062: Who is eligible to claim senior citizen deposit interest deduction under Section 80TTB of the Income-tax Act, 2025?
+
+Q063: Who is eligible to claim presumptive business tax eligibility under Section 44AD of the Income-tax Act, 2025?
+
+Q064: Who is eligible to claim presumptive professional tax eligibility under Section 44ADA of the Income-tax Act, 2025?
+
+Q065: Who is eligible to claim goods carriage presumptive tax eligibility under Section 44AE of the Income-tax Act, 2025?
+
+Q066: Who is eligible to claim startup tax holiday eligibility under Section 80IAC of the Income-tax Act, 2025?
+
+Q067: Who is eligible to claim tea development account deduction under Section 33AB of the Income-tax Act, 2025?
+
+Q068: Who is eligible to claim site restoration fund deduction under Section 33ABA of the Income-tax Act, 2025?
+
+Q069: Who is eligible to claim telecommunication license fee amortization under Section 35ABB of the Income-tax Act, 2025?
+
+Q070: Who is eligible to claim agricultural extension project deduction under Section 35CCC of the Income-tax Act, 2025?
+
+Q071: Who is eligible to claim skill development project deduction under Section 35CCD of the Income-tax Act, 2025?
+
+Q072: Who is eligible to claim amortization of preliminary expenses under Section 35D of the Income-tax Act, 2025?
+
+Q073: Who is eligible to claim amortization of amalgamation expenses under Section 35DD of the Income-tax Act, 2025?
+
+Q074: Who is eligible to claim voluntary retirement expenditure amortization under Section 35DDA of the Income-tax Act, 2025?
+
+Q075: Who is eligible to claim bonus and commission deduction under Section 36 of the Income-tax Act, 2025?
+
+Q076: Who is eligible to claim bad debts deduction under Section 36 of the Income-tax Act, 2025?
+
+Q077: Who is eligible to claim family planning expenditure deduction for companies under Section 36 of the Income-tax Act, 2025?
+
+Q078: Who is eligible to claim STT deduction in business income under Section 36 of the Income-tax Act, 2025?
+
+Q079: Who is eligible to claim Rule 11CB valuation eligibility for indirect transfer under Section 11CB of the Income-tax Rules?
+
+Q080: Who is eligible to claim CBDT Circular 3/2026 TDS clarification eligibility under Section 3 of the CBDT Circular 3/2026?
+
+Q081: What is the statutory calculation limit or rate for standard deduction limit under Section 202 under Section 202 of the Income-tax Act, 2025?
+
+Q082: What is the statutory calculation limit or rate for TDS threshold on professional fees under Section 194J under Section 194J of the Income-tax Act, 2025?
+
+Q083: What is the statutory calculation limit or rate for TDS threshold on contractor payments under Section 194C under Section 194C of the Income-tax Act, 2025?
+
+Q084: What is the statutory calculation limit or rate for TDS rate on interest other than securities under Section 194A under Section 194A of the Income-tax Act, 2025?
+
+Q085: What is the statutory calculation limit or rate for TDS threshold on rent under Section 194I under Section 194I of the Income-tax Act, 2025?
+
+Q086: What is the statutory calculation limit or rate for TDS threshold on sale of immovable property under Section 194IA under Section 194IA of the Income-tax Act, 2025?
+
+Q087: What is the statutory calculation limit or rate for TDS threshold on property rent by individuals under Section 194IB under Section 194IB of the Income-tax Act, 2025?
+
+Q088: What is the statutory calculation limit or rate for TDS threshold on purchase of goods under Section 194Q under Section 194Q of the Income-tax Act, 2025?
+
+Q089: What is the statutory calculation limit or rate for TCS threshold on sale of goods under Section 206C under Section 206C of the Income-tax Act, 2025?
+
+Q090: What is the statutory calculation limit or rate for TCS rate on LRS remittance under Section 206C under Section 206C of the Income-tax Act, 2025?
+
+Q091: What is the statutory calculation limit or rate for TDS rate for non-furnishing of PAN under Section 206AA under Section 206AA of the Income-tax Act, 2025?
+
+Q092: What is the statutory calculation limit or rate for higher TDS rate for non-filers under Section 206AB under Section 206AB of the Income-tax Act, 2025?
+
+Q093: What is the statutory calculation limit or rate for basic exemption limit for senior citizens under Section First Schedule of the Finance Act 2026?
+
+Q094: What is the statutory calculation limit or rate for basic exemption limit for super senior citizens under Section First Schedule of the Finance Act 2026?
+
+Q095: What is the statutory calculation limit or rate for rebate limit under Section 87A for new tax regime under Section 87A of the Income-tax Act, 2025?
+
+Q096: What is the statutory calculation limit or rate for surcharge threshold on high income individuals under Section First Schedule of the Finance Act 2026?
+
+Q097: What is the statutory calculation limit or rate for maximum surcharge rate under new tax regime under Section First Schedule of the Finance Act 2026?
+
+Q098: What is the statutory calculation limit or rate for health and education cess percentage under Section First Schedule of the Finance Act 2026?
+
+Q099: What is the statutory calculation limit or rate for corporate tax rate for new domestic manufacturing companies under Section 115BAB of the Income-tax Act, 2025?
+
+Q100: What is the statutory calculation limit or rate for corporate tax rate under Section 115BAA under Section 115BAA of the Income-tax Act, 2025?
+
+Q101: What is the statutory calculation limit or rate for MAT tax rate under Section 115JB under Section 115JB of the Income-tax Act, 2025?
+
+Q102: What is the statutory calculation limit or rate for AMT tax rate for non-corporate assessees under Section 115JC of the Income-tax Act, 2025?
+
+Q103: What is the statutory calculation limit or rate for capital gains tax rate on STCG under Section 111A under Section 111A of the Income-tax Act, 2025?
+
+Q104: What is the statutory calculation limit or rate for capital gains tax rate on LTCG under Section 112A under Section 112A of the Income-tax Act, 2025?
+
+Q105: What is the statutory calculation limit or rate for tax rate on virtual digital assets under Section 115BBH under Section 115BBH of the Income-tax Act, 2025?
+
+Q106: What is the statutory calculation limit or rate for TDS rate on virtual digital asset transfer under Section 194S under Section 194S of the Income-tax Act, 2025?
+
+Q107: What is the statutory calculation limit or rate for cash withdrawal TDS threshold under Section 194N under Section 194N of the Income-tax Act, 2025?
+
+Q108: What is the statutory calculation limit or rate for benefit/perquisite business TDS threshold under Section 194R under Section 194R of the Income-tax Act, 2025?
+
+Q109: What is the statutory calculation limit or rate for online gaming winning tax rate under Section 115BBJ under Section 115BBJ of the Income-tax Act, 2025?
+
+Q110: What is the statutory calculation limit or rate for online gaming TDS threshold under Section 194BA under Section 194BA of the Income-tax Act, 2025?
+
+Q111: What is the statutory calculation limit or rate for Rule 3 salary perquisite valuation percentage for accommodation under Section 3 of the Income-tax Rules?
+
+Q112: What is the statutory calculation limit or rate for Rule 11UA unquoted equity share valuation formula asset rate under Section 11UA of the Income-tax Rules?
+
+Q113: What is the statutory calculation limit or rate for Rule 2BB transport allowance exemption limit for blind employees under Section 2BB of the Income-tax Rules?
+
+Q114: What is the statutory calculation limit or rate for Rule 2BB children education allowance exemption limit under Section 2BB of the Income-tax Rules?
+
+Q115: What is the statutory calculation limit or rate for Rule 2BB hostel expenditure allowance exemption limit under Section 2BB of the Income-tax Rules?
+
+Q116: What is the statutory calculation limit or rate for CBDT Circular 4/2026 interest rate relaxation threshold under Section 4 of the CBDT Circular 4/2026?
+
+Q117: What is the statutory calculation limit or rate for CBDT Circular 6/2026 monetary limit for filing departmental appeals under Section 6 of the CBDT Circular 6/2026?
+
+Q118: What is the statutory calculation limit or rate for Finance Act 2025 amended Section 112A LTCG tax rate under Section 112A of the Finance Act 2025?
+
+Q119: What is the statutory calculation limit or rate for Finance Act 2024 STCG tax rate amendment under Section 111A under Section 111A of the Finance Act 2024 (No. 2)?
+
+Q120: What is the statutory calculation limit or rate for Finance Act 2023 revised new tax regime slab structure under Section First Schedule of the Finance Act 2023?
+
+Q121: What is the statutory exception or non-applicability proviso for proviso on CSR expenditure disallowance under Section 37 under Section 37 of the Income-tax Act, 2025?
+
+Q122: What is the statutory exception or non-applicability proviso for proviso on cash payments exceeding Rs. 10,000 under Section 40A(3) under Section 40A of the Income-tax Act, 2025?
+
+Q123: What is the statutory exception or non-applicability proviso for proviso on non-deduction of TDS disallowance under Section 40(a)(ia) under Section 40 of the Income-tax Act, 2025?
+
+Q124: What is the statutory exception or non-applicability proviso for proviso on non-deduction of TDS to non-residents under Section 40(a)(i) under Section 40 of the Income-tax Act, 2025?
+
+Q125: What is the statutory exception or non-applicability proviso for exception for MSME payments disallowance under Section 43B(h) under Section 43B of the Income-tax Act, 2025?
+
+Q126: What is the statutory exception or non-applicability proviso for exception to capital asset definition for agricultural land under Section 2 of the Income-tax Act, 2025?
+
+Q127: What is the statutory exception or non-applicability proviso for exception to capital asset definition for personal effects under Section 2 of the Income-tax Act, 2025?
+
+Q128: What is the statutory exception or non-applicability proviso for exception to dividend taxability for inter-corporate dividends under Section 80M of the Income-tax Act, 2025?
+
+Q129: What is the statutory exception or non-applicability proviso for exception on transfer definition for gift and will transfers under Section 47 of the Income-tax Act, 2025?
+
+Q130: What is the statutory exception or non-applicability proviso for exception on transfer definition for company amalgamation under Section 47 of the Income-tax Act, 2025?
+
+Q131: What is the statutory exception or non-applicability proviso for exception on transfer definition for corporate demerger under Section 47 of the Income-tax Act, 2025?
+
+Q132: What is the statutory exception or non-applicability proviso for proviso on clubbing of minor income in case of disability under Section 64 of the Income-tax Act, 2025?
+
+Q133: What is the statutory exception or non-applicability proviso for proviso on clubbing of minor income from manual work under Section 64 of the Income-tax Act, 2025?
+
+Q134: What is the statutory exception or non-applicability proviso for exception to Section 56(2)(x) for gifts received on marriage under Section 56 of the Income-tax Act, 2025?
+
+Q135: What is the statutory exception or non-applicability proviso for exception to Section 56(2)(x) for gifts received under will or inheritance under Section 56 of the Income-tax Act, 2025?
+
+Q136: What is the statutory exception or non-applicability proviso for exception to Section 56(2)(x) for gifts received from relatives under Section 56 of the Income-tax Act, 2025?
+
+Q137: What is the statutory exception or non-applicability proviso for proviso on loss setoff disallowance under speculative business under Section 73 of the Income-tax Act, 2025?
+
+Q138: What is the statutory exception or non-applicability proviso for proviso on capital loss setoff restrictions under Section 70 of the Income-tax Act, 2025?
+
+Q139: What is the statutory exception or non-applicability proviso for exception to Section 269SS cash loan acceptance restriction under Section 269SS of the Income-tax Act, 2025?
+
+Q140: What is the statutory exception or non-applicability proviso for exception to Section 269T cash loan repayment restriction under Section 269T of the Income-tax Act, 2025?
+
+Q141: What is the statutory exception or non-applicability proviso for proviso on non-compete fee taxability under Section 28 under Section 28 of the Income-tax Act, 2025?
+
+Q142: What is the statutory exception or non-applicability proviso for exception to audit requirement under Section 44AB for presumptive tax under Section 44AB of the Income-tax Act, 2025?
+
+Q143: What is the statutory exception or non-applicability proviso for proviso on interest deduction under Section 24(b) for self-occupied house under Section 24 of the Income-tax Act, 2025?
+
+Q144: What is the statutory exception or non-applicability proviso for exception on capital gain taxability for compulsory acquisition of urban agricultural land under Section 10 of the Income-tax Act, 2025?
+
+Q145: What is the statutory exception or non-applicability proviso for Rule 3D exception for medical treatment abroad perquisites under Section 3D of the Income-tax Rules?
+
+Q146: What is the statutory exception or non-applicability proviso for Rule 11AAE exception for non-applicability of valuation to bonus shares under Section 11AAE of the Income-tax Rules?
+
+Q147: What is the statutory exception or non-applicability proviso for CBDT Circular 2/2026 exception on TDS for non-resident shipping under Section 2 of the CBDT Circular 2/2026?
+
+Q148: What is the statutory exception or non-applicability proviso for CBDT Circular 5/2026 exception on penalty for bona fide technical defaults under Section 5 of the CBDT Circular 5/2026?
+
+Q149: What is the statutory exception or non-applicability proviso for Finance Act 2026 proviso on STT non-deductibility for non-business assessees under Section First Schedule of the Finance Act 2026?
+
+Q150: What is the statutory exception or non-applicability proviso for Finance Act 2025 exception on angel tax applicability for registered startups under Section 56 of the Finance Act 2025?
+
+Q151: How do Section 194J and Section 194C interact regarding interplay between Section 194J and Section 194C for technical work under the Income-tax Act, 2025?
+
+Q152: How do Section 206AA and Section 206AB interact regarding interplay between Section 206AA and Section 206AB for non-PAN non-filers under the Income-tax Act, 2025?
+
+Q153: How do Section 194Q and Section 206C interact regarding interplay between Section 194Q and Section 206C(1H) for buyer vs seller tax deduction under the Income-tax Act, 2025?
+
+Q154: How do Section 44AD and Section 44AB interact regarding interplay between Section 44AD and Section 44AB for audit threshold under the Income-tax Act, 2025?
+
+Q155: How do Section 50C and Section 43CA interact regarding interplay between Section 50C and Section 43CA for real estate stamp duty valuation under the Income-tax Act, 2025?
+
+Q156: How do Section 70 and Section 71 interact regarding interplay between Section 70 and Section 71 for intra-head vs inter-head loss setoff under the Income-tax Act, 2025?
+
+Q157: How do Section 28 and Section 56 interact regarding interplay between Section 28 and Section 56 for business perquisite vs income from other sources under the Income-tax Act, 2025?
+
+Q158: How do Section 10 and Section 80GG interact regarding interplay between Section 10(13A) and Section 80GG for HRA vs rent deduction under the Income-tax Act, 2025?
+
+Q159: How do Section 115BAC and Section 120 interact regarding interplay between Section 115BAC and Chapter VIA deductions under the Income-tax Act, 2025?
+
+Q160: How do Section 194M and Section 194C interact regarding interplay between Section 194M and Section 194C/194J for individual TDS under the Income-tax Act, 2025?
+
+Q161: How do Section 92C and Section 40A interact regarding interplay between Section 92C and Section 40A(2) for arm's length vs related party expenses under the Income-tax Act, 2025?
+
+Q162: How do Section 269SS and Section 271D interact regarding interplay between Section 269SS and Section 271D for cash loan penalty under the Income-tax Act, 2025?
+
+Q163: How do Section 269T and Section 271E interact regarding interplay between Section 269T and Section 271E for cash repayment penalty under the Income-tax Act, 2025?
+
+Q164: How do Section 115JB and Section 115JAA interact regarding interplay between Section 115JB MAT and Section 115JAA MAT credit under the Income-tax Act, 2025?
+
+Q165: How do Section 14A and Section 8D interact regarding interplay between Section 14A and Rule 8D for exempt income expense disallowance under the Income-tax Act, 2025?
+
+Q166: How do Section 45 and Section 48 interact regarding interplay between Section 45 and Section 48 for capital gains computation under the Income-tax Act, 2025?
+
+Q167: How do Section 54 and Section 54F interact regarding interplay between Section 54 and Section 54F for residential house capital gain exemption under the Income-tax Act, 2025?
+
+Q168: How do Section 234A and Section 234B interact regarding interplay between Section 234A, 234B, and 234C for statutory interest defaults under the Income-tax Act, 2025?
+
+Q169: How do Section 139 and Section 139 interact regarding interplay between Section 139(1) and Section 139(4) for original vs belated return under the Income-tax Act, 2025?
+
+Q170: How do Section 139 and Section 139 interact regarding interplay between Section 139(5) and Section 139(4) for revised return of belated return under the Income-tax Act, 2025?
+
+Q171: How do Income-tax Act, 2025 (Section 194J) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194J TDS and Rule 31A quarterly return filing under Income-tax Act and Rules?
+
+Q172: How do Income-tax Act, 2025 (Section 112A) and Finance Act 2025 (Section/Rule 15) jointly govern Section 112A LTCG tax rate and Finance Act 2025 rate amendment?
+
+Q173: How do Income-tax Act, 2025 (Section 194C) and CBDT Circular 2/2026 (Section/Rule Para 3) jointly govern Section 194C TDS and CBDT Circular 2/2026 shipping freight relaxation?
+
+Q174: How do Income-tax Act, 2025 (Section 14A) and Income-tax Rules (Section/Rule 8D) jointly govern Section 14A disallowance and Rule 8D formula under Income-tax Act and Rules?
+
+Q175: How do Income-tax Act, 2025 (Section 44AB) and Income-tax Rules (Section/Rule 6G) jointly govern Section 44AB tax audit and Rule 6G audit report Forms 3CA/3CB/3CD?
+
+Q176: How do Income-tax Act, 2025 (Section 92C) and Income-tax Rules (Section/Rule 10B) jointly govern Section 92C transfer pricing and Rule 10B arm's length methods?
+
+Q177: How do Income-tax Act, 2025 (Section 10) and Income-tax Rules (Section/Rule 2A) jointly govern Section 10(13A) HRA exemption and Rule 2A computation limits?
+
+Q178: How do Income-tax Act, 2025 (Section 80D) and Income-tax Rules (Section/Rule 11DD) jointly govern Section 80D medical insurance and Rule 11DD specified disease list?
+
+Q179: How do Income-tax Act, 2025 (Section 206C) and CBDT Circular 1/2026 (Section/Rule Para 2) jointly govern Section 206C TCS and CBDT Circular 1/2026 non-resident LRS clarification?
+
+Q180: How do Income-tax Act, 2025 (Section 115BAC) and Finance Act 2026 (Section/Rule Schedule) jointly govern Section 115BAC new tax regime slabs and Finance Act 2026 slab rates?
+
+Q181: How do Income-tax Act, 2025 (Section 194IA) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194IA property TDS and Rule 31A Form 26QB filing?
+
+Q182: How do Income-tax Act, 2025 (Section 194IB) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194IB rent TDS and Rule 31A Form 26QC filing?
+
+Q183: How do Income-tax Act, 2025 (Section 194M) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194M personal TDS and Rule 31A Form 26QD filing?
+
+Q184: How do Income-tax Act, 2025 (Section 194S) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194S VDA TDS and Rule 31A Form 26QE filing?
+
+Q185: How do Income-tax Act, 2025 (Section 269SU) and Income-tax Rules (Section/Rule 11DD) jointly govern Section 269SU digital payment facility and Rule 11DD modes?
+
+Q186: How do Income-tax Act, 2025 (Section 115BBH) and CBDT Circular 4/2026 (Section/Rule Para 2) jointly govern Section 115BBH VDA tax and CBDT Circular 4/2026 loss setoff clarification?
+
+Q187: How do Income-tax Act, 2025 (Section 139A) and Income-tax Rules (Section/Rule 114) jointly govern Section 139A PAN allotment and Rule 114 Form 49A application?
+
+Q188: How do Income-tax Act, 2025 (Section 139AA) and Income-tax Rules (Section/Rule 114AAA) jointly govern Section 139AA Aadhaar PAN linking and Rule 114AAA fee?
+
+Q189: How do Income-tax Act, 2025 (Section 285BA) and Income-tax Rules (Section/Rule 114E) jointly govern Section 285BA SFT reporting and Rule 114E financial transaction limits?
+
+Q190: How do Income-tax Act, 2025 (Section 90) and Income-tax Rules (Section/Rule 128) jointly govern Section 90 DTAA relief and Rule 128 Foreign Tax Credit Form 67?
+
+Q191: What temporal amendment or assessment year effective date applies to Finance Act 2022 amendment to Section 115BBH for virtual digital assets effective AY 2023-24 under Section 115BBH of the Finance Act 2022?
+
+Q192: What temporal amendment or assessment year effective date applies to Finance Act 2023 amendment to Section 115BAC making new regime default under Section 115BAC of the Finance Act 2023?
+
+Q193: What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) amendment to Section 112A LTCG tax rate increase to 12.5% under Section 112A of the Finance Act 2024 (No. 2)?
+
+Q194: What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) amendment to Section 111A STCG tax rate increase to 20% under Section 111A of the Finance Act 2024 (No. 2)?
+
+Q195: What temporal amendment or assessment year effective date applies to Finance Act 2025 amendment to Section 87A rebate for new regime under Section 87A of the Finance Act 2025?
+
+Q196: What temporal amendment or assessment year effective date applies to Finance Act 2026 revision of basic exemption limits under Section First Schedule of the Finance Act 2026?
+
+Q197: What temporal amendment or assessment year effective date applies to Finance Act 2023 amendment to Section 54/54F Rs. 10 crore cap under Section 54 of the Finance Act 2023?
+
+Q198: What temporal amendment or assessment year effective date applies to Finance Act 2022 insertion of Section 139(8A) updated return under Section 139 of the Finance Act 2022?
+
+Q199: What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) abolition of indexation benefit for real estate LTCG under Section 48 of the Finance Act 2024 (No. 2)?
+
+Q200: What temporal amendment or assessment year effective date applies to Finance Act 2023 amendment to Section 56(2)(viib) angel tax on non-residents under Section 56 of the Finance Act 2023?
+
+Q201: What temporal amendment or assessment year effective date applies to Finance Act 2022 insertion of Section 194R business benefit TDS under Section 194R of the Finance Act 2022?
+
+Q202: What temporal amendment or assessment year effective date applies to Finance Act 2022 insertion of Section 194S VDA TDS under Section 194S of the Finance Act 2022?
+
+Q203: What temporal amendment or assessment year effective date applies to Finance Act 2023 insertion of Section 194BA online gaming TDS under Section 194BA of the Finance Act 2023?
+
+Q204: What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) increase in STT rates on futures and options under Section First Schedule of the Finance Act 2024 (No. 2)?
+
+Q205: What temporal amendment or assessment year effective date applies to Finance Act 2025 extension of Section 80IAC startup tax holiday to 2026 under Section 80IAC of the Finance Act 2025?
+
+Q206: What is the procedural compliance deadline or form requirement for tax audit report filing deadline under Section 44AB under Section/Rule 44AB of the Income-tax Act, 2025?
+
+Q207: What is the procedural compliance deadline or form requirement for quarterly TDS statement filing Form 26Q due dates under Rule 31A under Section/Rule 31A of the Income-tax Rules?
+
+Q208: What is the procedural compliance deadline or form requirement for TDS certificate Form 16 issuance deadline under Rule 31 under Section/Rule 31 of the Income-tax Rules?
+
+Q209: What is the procedural compliance deadline or form requirement for TDS certificate Form 16A quarterly issuance deadline under Rule 31 under Section/Rule 31 of the Income-tax Rules?
+
+Q210: What is the procedural compliance deadline or form requirement for PAN application Form 49A filing procedure under Rule 114 under Section/Rule 114 of the Income-tax Rules?
+
+Q211: What is the procedural compliance deadline or form requirement for Aadhaar PAN linking fee and consequences of non-linking under Rule 114AAA under Section/Rule 114AAA of the Income-tax Rules?
+
+Q212: What is the procedural compliance deadline or form requirement for Form 10E filing requirement for Section 89 salary arrears relief under Rule 21AA under Section/Rule 21AA of the Income-tax Rules?
+
+Q213: What is the procedural compliance deadline or form requirement for Form 67 filing requirement for Foreign Tax Credit under Rule 128 under Section/Rule 128 of the Income-tax Rules?
+
+Q214: What is the procedural compliance deadline or form requirement for advance tax quarterly installment payment deadlines under Section 211 under Section/Rule 211 of the Income-tax Act, 2025?
+
+Q215: What is the procedural compliance deadline or form requirement for updated return Section 139(8A) filing deadline and additional tax under Section 140B under Section/Rule 139 of the Income-tax Act, 2025?
+
+Q216: What is the procedural compliance deadline or form requirement for SFT Form 61A filing deadline under Rule 114E under Section/Rule 114E of the Income-tax Rules?
+
+Q217: What is the procedural compliance deadline or form requirement for Form 15G and Form 15H self-declaration submission under Rule 29C under Section/Rule 29C of the Income-tax Rules?
+
+Q218: What is the procedural compliance deadline or form requirement for Form 10A registration application for charitable trusts under Rule 17A under Section/Rule 17A of the Income-tax Rules?
+
+Q219: What is the procedural compliance deadline or form requirement for Form 10B audit report requirement for charitable trusts under Rule 17B under Section/Rule 17B of the Income-tax Rules?
+
+Q220: What is the procedural compliance deadline or form requirement for CBDT Circular 1/2026 compliance extension for foreign portfolio investors under Section/Rule 1 of the CBDT Circular 1/2026?
+
+Q221: What is the statutory tax rate or legal rule applicable to GST rate on telecommunication services under the Indian Income-tax corpus?
+
+Q222: What is the statutory tax rate or legal rule applicable to customs duty import tariff on crude palm oil under the Indian Income-tax corpus?
+
+Q223: What is the statutory tax rate or legal rule applicable to stamp duty registration fee rates in Maharashtra state under the Indian Income-tax corpus?
+
+Q224: What is the statutory tax rate or legal rule applicable to municipal property tax calculation in New Delhi under the Indian Income-tax corpus?
+
+Q225: What is the statutory tax rate or legal rule applicable to value added tax VAT rate on petrol in Karnataka under the Indian Income-tax corpus?
+
+Q226: What is the statutory tax rate or legal rule applicable to professional tax slab rates for salaried employees in West Bengal under the Indian Income-tax corpus?
+
+Q227: What is the statutory tax rate or legal rule applicable to securities transaction tax STT rate on US NASDAQ trades under the Indian Income-tax corpus?
+
+Q228: What is the statutory tax rate or legal rule applicable to corporate gift tax limit under UK tax legislation under the Indian Income-tax corpus?
+
+Q229: What is the statutory tax rate or legal rule applicable to income tax rate for software companies in Singapore under the Indian Income-tax corpus?
+
+Q230: What is the statutory tax rate or legal rule applicable to excise duty on alcoholic liquor for human consumption under the Indian Income-tax corpus?
+

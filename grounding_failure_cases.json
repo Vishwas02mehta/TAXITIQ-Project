@@ -1,0 +1,32 @@
+[
+  {
+    "question_id": "Q18",
+    "model": "qwen3",
+    "question": "What are the rules regarding daily penalty under Section 459(1) of the Act?",
+    "question_type": "section_lookup",
+    "formulation_type": "PARAPHRASED",
+    "exact_model_response": "The rules regarding the daily penalty under Section 459(1) of the Income-tax Act 2025 are as follows:  \n- If a reporting entity fails to furnish the required report under section 511, the prescribed authority may impose a penalty of **₹5,000 for every day** during which the failure continues, **if the period of failure does not exceed one month**.  \n- If the failure continues **beyond the period of one month**, the penalty increases to **₹15,000 for every day**.  \n\nThese provisions are specified in [Act: Income-tax Act 2025, Section: 459, Subsection: 1].  \n\nAdditionally, Subsection (3) of Section 459 imposes a penalty of **₹50,",
+    "valid_citations_count": 1.0,
+    "unsupported_citation_count": 0,
+    "unsupported_numeric_claim_count": 1,
+    "content_coverage_score": 0.6311188811188811,
+    "failure_reasons": [
+      "NUMERIC_GROUNDING_FAILURE"
+    ]
+  },
+  {
+    "question_id": "Q52",
+    "model": "qwen3",
+    "question": "How does Section 124(2) modify the contribution limit of 10% mentioned in Section 124(1) for assessees taxed under Section 202(1)?",
+    "question_type": "cross_section",
+    "formulation_type": "REASONING",
+    "exact_model_response": "Section 124(2) modifies the 10% contribution limit in Section 124(1) by substituting \"10%\" with \"14%\" for assessees whose total income is chargeable to tax under Section 202(1). This adjustment applies specifically to clause (b) of Section 124(1), which originally capped deductions at 10% for contributions by employers other than Central/State Governments. \n\n**Supporting legal references:**  \n[Act: Income-tax Act 2025, Section: 124, Subsection: 2]",
+    "valid_citations_count": 0.5,
+    "unsupported_citation_count": 1,
+    "unsupported_numeric_claim_count": 0,
+    "content_coverage_score": 0.7477272727272728,
+    "failure_reasons": [
+      "CITATION_GROUNDING_FAILURE"
+    ]
+  }
+]

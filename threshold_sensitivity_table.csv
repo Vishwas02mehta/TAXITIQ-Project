@@ -1,0 +1,4 @@
+Threshold,Qwen2.5 Success Count,Qwen2.5 Success Rate,Qwen3 Success Count,Qwen3 Success Rate,Absolute Difference
+0.40,26,43.33%,46,76.67%,33.33%
+0.50,26,43.33%,43,71.67%,28.33%
+0.60,21,35.00%,41,68.33%,33.33%

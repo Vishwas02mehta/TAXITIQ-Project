@@ -1,0 +1,58 @@
+{
+  "audit_timestamp": "2026-07-15 13:24:18",
+  "final_status": "PAPER_RESULTS_VERIFIED",
+  "self_tests": {
+    "Frozen dataset exists": "PASS",
+    "Frozen V2 results exist": "PASS",
+    "Exactly 60 dataset questions": "PASS",
+    "Exactly 60 unique question IDs": "PASS",
+    "Q01-Q60 set complete": "PASS",
+    "Both models represented for every question": "PASS",
+    "Canonical categories read from dataset question_type": "PASS",
+    "Canonical formulations read from dataset": "PASS",
+    "Category counts sum to 60": "PASS",
+    "Category distribution matches actual frozen dataset": "PASS",
+    "Formulation counts sum to 60": "PASS",
+    "Statistical category lineage checked for all 60": "PASS",
+    "Statistical formulation lineage checked for all 60": "PASS",
+    "Q52 authoritative outcome resolved": "PASS",
+    "Q55 authoritative outcome resolved": "PASS",
+    "Every question assigned exactly one paired group": "PASS",
+    "Paired groups are mutually exclusive": "PASS",
+    "Paired group union contains 60 questions": "PASS",
+    "Paired group counts sum to 60": "PASS",
+    "McNemar b derived from frozen success booleans": "PASS",
+    "McNemar c derived from frozen success booleans": "PASS",
+    "Exact McNemar p-value independently verified": "PASS",
+    "Corrected McNemar statistic independently verified": "PASS",
+    "Paper category table audited": "PASS",
+    "Paper formulation table audited": "PASS",
+    "Paper generator comparison table audited": "PASS",
+    "Paper failure table audited": "PASS",
+    "Paper statistical table audited": "PASS",
+    "Paper retrieval table audited": "PASS",
+    "Figure data lineage audited": "PASS",
+    "No Ollama calls": "PASS",
+    "No retrieval calls": "PASS",
+    "No reranker calls": "PASS",
+    "No context builder calls": "PASS",
+    "Frozen model response hash remains unchanged": "PASS"
+  },
+  "statistics": {
+    "a_both_success": 24,
+    "b_only_qwen2_5": 2,
+    "c_only_qwen3": 19,
+    "d_both_failure": 15,
+    "mcnemar": {
+      "b": 2,
+      "c": 19,
+      "exact_p": 0.000221,
+      "chi2": 12.1905,
+      "corrected_p": 0.00048
+    }
+  },
+  "root_cause_analysis": {
+    "issue_1_category_mismatch": "The category mismatch originates from a stale artifact (historical version of files or previous benchmark iteration). The current generated paper_table_category_analysis.csv in the workspace contains the correct category counts matching the dataset (Definition: 10, Section Lookup: 8, Eligibility: 8, Deduction: 8, Rate: 6, Deadline: 5, Penalty: 5, Cross Section: 5, Out Of Corpus: 5).",
+    "issue_2_paired_outcome_conflict": "Manual list indexing typo in walkthrough.md"
+  }
+}

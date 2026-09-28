@@ -1,0 +1,4 @@
+Formulation Type,Total Questions,Qwen2.5 Success,Qwen3 Success,Success Difference
+LEXICAL,8,3 (37.50%),6 (75.00%),37.50%
+PARAPHRASED,47,22 (46.81%),36 (76.60%),29.79%
+REASONING,5,1 (20.00%),1 (20.00%),0.00%

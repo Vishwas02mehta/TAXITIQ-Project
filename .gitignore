@@ -1,0 +1,35 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and virtual environments
+.env
+venv/
+.venv/
+env/
+ENV/
+
+# Project caches and databases
+.gemini/
+chroma_db/
+logs/
+*.log
+
+# Heavy binary files
+*.gguf
+*.safetensors
+*.pt
+*.pth
+
+# Large corpus/data files (>50MB) and restricted source documents
+data/Income-tax-Rules-2026_*.pdf
+data/Income_Tax_Act_2025_as_amended_by_FA_Act_2026.pdf
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Debug files
+assembled_context_debug.md
+

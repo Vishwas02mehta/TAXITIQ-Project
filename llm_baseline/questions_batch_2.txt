@@ -1,0 +1,100 @@
+Q051: Who is eligible to claim voluntary retirement scheme (VRS) exemption under Section 10C of the Income-tax Act, 2025?
+
+Q052: Who is eligible to claim house rent allowance (HRA) exemption under Section 10D of the Income-tax Act, 2025?
+
+Q053: Who is eligible to claim medical insurance premium deduction under Section 80D of the Income-tax Act, 2025?
+
+Q054: Who is eligible to claim interest on handicap medical treatment deduction under Section 80DD of the Income-tax Act, 2025?
+
+Q055: Who is eligible to claim higher education loan interest deduction under Section 80E of the Income-tax Act, 2025?
+
+Q056: Who is eligible to claim electric vehicle loan interest deduction under Section 80EEB of the Income-tax Act, 2025?
+
+Q057: Who is eligible to claim scientific research donation deduction under Section 80GGA of the Income-tax Act, 2025?
+
+Q058: Who is eligible to claim political party contribution deduction under Section 80GGC of the Income-tax Act, 2025?
+
+Q059: Who is eligible to claim new employment generation deduction under Section 80JJAA of the Income-tax Act, 2025?
+
+Q060: Who is eligible to claim royalty on patents deduction under Section 80RRB of the Income-tax Act, 2025?
+
+Q061: Who is eligible to claim savings account interest deduction under Section 80TTA of the Income-tax Act, 2025?
+
+Q062: Who is eligible to claim senior citizen deposit interest deduction under Section 80TTB of the Income-tax Act, 2025?
+
+Q063: Who is eligible to claim presumptive business tax eligibility under Section 44AD of the Income-tax Act, 2025?
+
+Q064: Who is eligible to claim presumptive professional tax eligibility under Section 44ADA of the Income-tax Act, 2025?
+
+Q065: Who is eligible to claim goods carriage presumptive tax eligibility under Section 44AE of the Income-tax Act, 2025?
+
+Q066: Who is eligible to claim startup tax holiday eligibility under Section 80IAC of the Income-tax Act, 2025?
+
+Q067: Who is eligible to claim tea development account deduction under Section 33AB of the Income-tax Act, 2025?
+
+Q068: Who is eligible to claim site restoration fund deduction under Section 33ABA of the Income-tax Act, 2025?
+
+Q069: Who is eligible to claim telecommunication license fee amortization under Section 35ABB of the Income-tax Act, 2025?
+
+Q070: Who is eligible to claim agricultural extension project deduction under Section 35CCC of the Income-tax Act, 2025?
+
+Q071: Who is eligible to claim skill development project deduction under Section 35CCD of the Income-tax Act, 2025?
+
+Q072: Who is eligible to claim amortization of preliminary expenses under Section 35D of the Income-tax Act, 2025?
+
+Q073: Who is eligible to claim amortization of amalgamation expenses under Section 35DD of the Income-tax Act, 2025?
+
+Q074: Who is eligible to claim voluntary retirement expenditure amortization under Section 35DDA of the Income-tax Act, 2025?
+
+Q075: Who is eligible to claim bonus and commission deduction under Section 36 of the Income-tax Act, 2025?
+
+Q076: Who is eligible to claim bad debts deduction under Section 36 of the Income-tax Act, 2025?
+
+Q077: Who is eligible to claim family planning expenditure deduction for companies under Section 36 of the Income-tax Act, 2025?
+
+Q078: Who is eligible to claim STT deduction in business income under Section 36 of the Income-tax Act, 2025?
+
+Q079: Who is eligible to claim Rule 11CB valuation eligibility for indirect transfer under Section 11CB of the Income-tax Rules?
+
+Q080: Who is eligible to claim CBDT Circular 3/2026 TDS clarification eligibility under Section 3 of the CBDT Circular 3/2026?
+
+Q081: What is the statutory calculation limit or rate for standard deduction limit under Section 202 under Section 202 of the Income-tax Act, 2025?
+
+Q082: What is the statutory calculation limit or rate for TDS threshold on professional fees under Section 194J under Section 194J of the Income-tax Act, 2025?
+
+Q083: What is the statutory calculation limit or rate for TDS threshold on contractor payments under Section 194C under Section 194C of the Income-tax Act, 2025?
+
+Q084: What is the statutory calculation limit or rate for TDS rate on interest other than securities under Section 194A under Section 194A of the Income-tax Act, 2025?
+
+Q085: What is the statutory calculation limit or rate for TDS threshold on rent under Section 194I under Section 194I of the Income-tax Act, 2025?
+
+Q086: What is the statutory calculation limit or rate for TDS threshold on sale of immovable property under Section 194IA under Section 194IA of the Income-tax Act, 2025?
+
+Q087: What is the statutory calculation limit or rate for TDS threshold on property rent by individuals under Section 194IB under Section 194IB of the Income-tax Act, 2025?
+
+Q088: What is the statutory calculation limit or rate for TDS threshold on purchase of goods under Section 194Q under Section 194Q of the Income-tax Act, 2025?
+
+Q089: What is the statutory calculation limit or rate for TCS threshold on sale of goods under Section 206C under Section 206C of the Income-tax Act, 2025?
+
+Q090: What is the statutory calculation limit or rate for TCS rate on LRS remittance under Section 206C under Section 206C of the Income-tax Act, 2025?
+
+Q091: What is the statutory calculation limit or rate for TDS rate for non-furnishing of PAN under Section 206AA under Section 206AA of the Income-tax Act, 2025?
+
+Q092: What is the statutory calculation limit or rate for higher TDS rate for non-filers under Section 206AB under Section 206AB of the Income-tax Act, 2025?
+
+Q093: What is the statutory calculation limit or rate for basic exemption limit for senior citizens under Section First Schedule of the Finance Act 2026?
+
+Q094: What is the statutory calculation limit or rate for basic exemption limit for super senior citizens under Section First Schedule of the Finance Act 2026?
+
+Q095: What is the statutory calculation limit or rate for rebate limit under Section 87A for new tax regime under Section 87A of the Income-tax Act, 2025?
+
+Q096: What is the statutory calculation limit or rate for surcharge threshold on high income individuals under Section First Schedule of the Finance Act 2026?
+
+Q097: What is the statutory calculation limit or rate for maximum surcharge rate under new tax regime under Section First Schedule of the Finance Act 2026?
+
+Q098: What is the statutory calculation limit or rate for health and education cess percentage under Section First Schedule of the Finance Act 2026?
+
+Q099: What is the statutory calculation limit or rate for corporate tax rate for new domestic manufacturing companies under Section 115BAB of the Income-tax Act, 2025?
+
+Q100: What is the statutory calculation limit or rate for corporate tax rate under Section 115BAA under Section 115BAA of the Income-tax Act, 2025?
+

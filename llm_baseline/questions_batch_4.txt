@@ -1,0 +1,100 @@
+Q151: How do Section 194J and Section 194C interact regarding interplay between Section 194J and Section 194C for technical work under the Income-tax Act, 2025?
+
+Q152: How do Section 206AA and Section 206AB interact regarding interplay between Section 206AA and Section 206AB for non-PAN non-filers under the Income-tax Act, 2025?
+
+Q153: How do Section 194Q and Section 206C interact regarding interplay between Section 194Q and Section 206C(1H) for buyer vs seller tax deduction under the Income-tax Act, 2025?
+
+Q154: How do Section 44AD and Section 44AB interact regarding interplay between Section 44AD and Section 44AB for audit threshold under the Income-tax Act, 2025?
+
+Q155: How do Section 50C and Section 43CA interact regarding interplay between Section 50C and Section 43CA for real estate stamp duty valuation under the Income-tax Act, 2025?
+
+Q156: How do Section 70 and Section 71 interact regarding interplay between Section 70 and Section 71 for intra-head vs inter-head loss setoff under the Income-tax Act, 2025?
+
+Q157: How do Section 28 and Section 56 interact regarding interplay between Section 28 and Section 56 for business perquisite vs income from other sources under the Income-tax Act, 2025?
+
+Q158: How do Section 10 and Section 80GG interact regarding interplay between Section 10(13A) and Section 80GG for HRA vs rent deduction under the Income-tax Act, 2025?
+
+Q159: How do Section 115BAC and Section 120 interact regarding interplay between Section 115BAC and Chapter VIA deductions under the Income-tax Act, 2025?
+
+Q160: How do Section 194M and Section 194C interact regarding interplay between Section 194M and Section 194C/194J for individual TDS under the Income-tax Act, 2025?
+
+Q161: How do Section 92C and Section 40A interact regarding interplay between Section 92C and Section 40A(2) for arm's length vs related party expenses under the Income-tax Act, 2025?
+
+Q162: How do Section 269SS and Section 271D interact regarding interplay between Section 269SS and Section 271D for cash loan penalty under the Income-tax Act, 2025?
+
+Q163: How do Section 269T and Section 271E interact regarding interplay between Section 269T and Section 271E for cash repayment penalty under the Income-tax Act, 2025?
+
+Q164: How do Section 115JB and Section 115JAA interact regarding interplay between Section 115JB MAT and Section 115JAA MAT credit under the Income-tax Act, 2025?
+
+Q165: How do Section 14A and Section 8D interact regarding interplay between Section 14A and Rule 8D for exempt income expense disallowance under the Income-tax Act, 2025?
+
+Q166: How do Section 45 and Section 48 interact regarding interplay between Section 45 and Section 48 for capital gains computation under the Income-tax Act, 2025?
+
+Q167: How do Section 54 and Section 54F interact regarding interplay between Section 54 and Section 54F for residential house capital gain exemption under the Income-tax Act, 2025?
+
+Q168: How do Section 234A and Section 234B interact regarding interplay between Section 234A, 234B, and 234C for statutory interest defaults under the Income-tax Act, 2025?
+
+Q169: How do Section 139 and Section 139 interact regarding interplay between Section 139(1) and Section 139(4) for original vs belated return under the Income-tax Act, 2025?
+
+Q170: How do Section 139 and Section 139 interact regarding interplay between Section 139(5) and Section 139(4) for revised return of belated return under the Income-tax Act, 2025?
+
+Q171: How do Income-tax Act, 2025 (Section 194J) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194J TDS and Rule 31A quarterly return filing under Income-tax Act and Rules?
+
+Q172: How do Income-tax Act, 2025 (Section 112A) and Finance Act 2025 (Section/Rule 15) jointly govern Section 112A LTCG tax rate and Finance Act 2025 rate amendment?
+
+Q173: How do Income-tax Act, 2025 (Section 194C) and CBDT Circular 2/2026 (Section/Rule Para 3) jointly govern Section 194C TDS and CBDT Circular 2/2026 shipping freight relaxation?
+
+Q174: How do Income-tax Act, 2025 (Section 14A) and Income-tax Rules (Section/Rule 8D) jointly govern Section 14A disallowance and Rule 8D formula under Income-tax Act and Rules?
+
+Q175: How do Income-tax Act, 2025 (Section 44AB) and Income-tax Rules (Section/Rule 6G) jointly govern Section 44AB tax audit and Rule 6G audit report Forms 3CA/3CB/3CD?
+
+Q176: How do Income-tax Act, 2025 (Section 92C) and Income-tax Rules (Section/Rule 10B) jointly govern Section 92C transfer pricing and Rule 10B arm's length methods?
+
+Q177: How do Income-tax Act, 2025 (Section 10) and Income-tax Rules (Section/Rule 2A) jointly govern Section 10(13A) HRA exemption and Rule 2A computation limits?
+
+Q178: How do Income-tax Act, 2025 (Section 80D) and Income-tax Rules (Section/Rule 11DD) jointly govern Section 80D medical insurance and Rule 11DD specified disease list?
+
+Q179: How do Income-tax Act, 2025 (Section 206C) and CBDT Circular 1/2026 (Section/Rule Para 2) jointly govern Section 206C TCS and CBDT Circular 1/2026 non-resident LRS clarification?
+
+Q180: How do Income-tax Act, 2025 (Section 115BAC) and Finance Act 2026 (Section/Rule Schedule) jointly govern Section 115BAC new tax regime slabs and Finance Act 2026 slab rates?
+
+Q181: How do Income-tax Act, 2025 (Section 194IA) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194IA property TDS and Rule 31A Form 26QB filing?
+
+Q182: How do Income-tax Act, 2025 (Section 194IB) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194IB rent TDS and Rule 31A Form 26QC filing?
+
+Q183: How do Income-tax Act, 2025 (Section 194M) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194M personal TDS and Rule 31A Form 26QD filing?
+
+Q184: How do Income-tax Act, 2025 (Section 194S) and Income-tax Rules (Section/Rule 31A) jointly govern Section 194S VDA TDS and Rule 31A Form 26QE filing?
+
+Q185: How do Income-tax Act, 2025 (Section 269SU) and Income-tax Rules (Section/Rule 11DD) jointly govern Section 269SU digital payment facility and Rule 11DD modes?
+
+Q186: How do Income-tax Act, 2025 (Section 115BBH) and CBDT Circular 4/2026 (Section/Rule Para 2) jointly govern Section 115BBH VDA tax and CBDT Circular 4/2026 loss setoff clarification?
+
+Q187: How do Income-tax Act, 2025 (Section 139A) and Income-tax Rules (Section/Rule 114) jointly govern Section 139A PAN allotment and Rule 114 Form 49A application?
+
+Q188: How do Income-tax Act, 2025 (Section 139AA) and Income-tax Rules (Section/Rule 114AAA) jointly govern Section 139AA Aadhaar PAN linking and Rule 114AAA fee?
+
+Q189: How do Income-tax Act, 2025 (Section 285BA) and Income-tax Rules (Section/Rule 114E) jointly govern Section 285BA SFT reporting and Rule 114E financial transaction limits?
+
+Q190: How do Income-tax Act, 2025 (Section 90) and Income-tax Rules (Section/Rule 128) jointly govern Section 90 DTAA relief and Rule 128 Foreign Tax Credit Form 67?
+
+Q191: What temporal amendment or assessment year effective date applies to Finance Act 2022 amendment to Section 115BBH for virtual digital assets effective AY 2023-24 under Section 115BBH of the Finance Act 2022?
+
+Q192: What temporal amendment or assessment year effective date applies to Finance Act 2023 amendment to Section 115BAC making new regime default under Section 115BAC of the Finance Act 2023?
+
+Q193: What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) amendment to Section 112A LTCG tax rate increase to 12.5% under Section 112A of the Finance Act 2024 (No. 2)?
+
+Q194: What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) amendment to Section 111A STCG tax rate increase to 20% under Section 111A of the Finance Act 2024 (No. 2)?
+
+Q195: What temporal amendment or assessment year effective date applies to Finance Act 2025 amendment to Section 87A rebate for new regime under Section 87A of the Finance Act 2025?
+
+Q196: What temporal amendment or assessment year effective date applies to Finance Act 2026 revision of basic exemption limits under Section First Schedule of the Finance Act 2026?
+
+Q197: What temporal amendment or assessment year effective date applies to Finance Act 2023 amendment to Section 54/54F Rs. 10 crore cap under Section 54 of the Finance Act 2023?
+
+Q198: What temporal amendment or assessment year effective date applies to Finance Act 2022 insertion of Section 139(8A) updated return under Section 139 of the Finance Act 2022?
+
+Q199: What temporal amendment or assessment year effective date applies to Finance Act 2024 (No. 2) abolition of indexation benefit for real estate LTCG under Section 48 of the Finance Act 2024 (No. 2)?
+
+Q200: What temporal amendment or assessment year effective date applies to Finance Act 2023 amendment to Section 56(2)(viib) angel tax on non-residents under Section 56 of the Finance Act 2023?
+

@@ -1,0 +1,6 @@
+Generator Failure Reason,Qwen2.5 Count,Qwen2.5 Rate (of 60),Qwen3 Count,Qwen3 Rate (of 60)
+Empty Response,0,0.00%,4,6.67%
+Supported Question Refusal,28,46.67%,4,6.67%
+Fabricated Citation,0,0.00%,1,1.67%
+Unsupported Numeric Claim,0,0.00%,1,1.67%
+Content Coverage Below Threshold,2,3.33%,3,5.00%

@@ -1,0 +1,76 @@
+{
+  "claims": [
+    {
+      "claim_id": "CLAIM_001",
+      "claim_text": "Qwen3 8B achieved a 71.67% success rate compared with 43.33% for Qwen2.5 7B under the frozen IndiaLawRAG v2 configuration.",
+      "claim_type": "DIRECT_EXPERIMENTAL_RESULT",
+      "source_artifact": "evaluation_results_rescored_v2.json",
+      "source_field_or_section": "success rates",
+      "allowed_wording": "Qwen3 8B success rate of 71.67% and Qwen2.5 7B success rate of 43.33% under the evaluated configuration",
+      "prohibited_wording": "universally superior, always better, guarantees success"
+    },
+    {
+      "claim_id": "CLAIM_002",
+      "claim_text": "The success rate difference of +28.33 percentage points is statistically significant.",
+      "claim_type": "DERIVED_STATISTICAL_RESULT",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field_or_section": "mcnemar_exact.p_value",
+      "allowed_wording": "was associated with a statistically significant difference (p = 0.000221)",
+      "prohibited_wording": "proves that Qwen3 is universally superior, universally better"
+    },
+    {
+      "claim_id": "CLAIM_003",
+      "claim_text": "The paired bootstrap 95% confidence interval for the success-rate difference is 15.00 to 41.67 percentage points.",
+      "claim_type": "DERIVED_STATISTICAL_RESULT",
+      "source_artifact": "statistical_analysis_manifest.json",
+      "source_field_or_section": "bootstrap_results.difference_success_rate",
+      "allowed_wording": "difference point estimate was 28.33 percentage points with a 95% CI of 15.00 to 41.67 percentage points",
+      "prohibited_wording": "guarantees a difference of at least 15%"
+    },
+    {
+      "claim_id": "CLAIM_004",
+      "claim_text": "Qwen2.5 7B had a supported-question refusal rate of 50.91% compared to 7.27% for Qwen3 8B.",
+      "claim_type": "DIRECT_EXPERIMENTAL_RESULT",
+      "source_artifact": "evaluation_summary_rescored_v2.json",
+      "source_field_or_section": "refusal_rate_supported",
+      "allowed_wording": "Qwen2.5 7B refused 50.91% of supported questions, while Qwen3 8B refused 7.27%",
+      "prohibited_wording": "conservative model alignment parameters, RLHF, preference tuning, safety parameters, safety-versus-utility trade-off, caused by inferior architecture"
+    },
+    {
+      "claim_id": "CLAIM_005",
+      "claim_text": "The primary retrieval method is Reciprocal Rank Fusion hybrid search combining BM25 and dense vector retrievals.",
+      "claim_type": "SYSTEM_DESIGN_FACT",
+      "source_artifact": "evaluation_scoring_manifest_v2.json",
+      "source_field_or_section": "RAG pipeline configuration",
+      "allowed_wording": "RRF hybrid retrieval combining BM25 and vector search",
+      "prohibited_wording": "always outperforms single search, guarantees optimal retrieval"
+    },
+    {
+      "claim_id": "CLAIM_006",
+      "claim_text": "Generator evidence utilization behavior is associated with the observed performance difference under the evaluated configuration.",
+      "claim_type": "INTERPRETIVE_OBSERVATION",
+      "source_artifact": "paper_discussion.md",
+      "source_field_or_section": "discussion section",
+      "allowed_wording": "suggests that Qwen2.5's conservative refusal behavior and Qwen3's evidence utilization behavior are associated with the observed difference",
+      "prohibited_wording": "proves that Qwen3 has better reasoning, caused by alignment parameters, caused by better knowledge representation"
+    },
+    {
+      "claim_id": "CLAIM_007",
+      "claim_text": "The evaluation benchmark consists of 60 questions evaluated on a single legal corpus (Income-tax Act 2025).",
+      "claim_type": "LIMITATION",
+      "source_artifact": "paper_limitations.md",
+      "source_field_or_section": "limitations section",
+      "allowed_wording": "the study is limited to a 60-question corpus-grounded benchmark on the Income-tax Act 2025",
+      "prohibited_wording": "proves generalizability to all legal texts"
+    },
+    {
+      "claim_id": "CLAIM_008",
+      "claim_text": "The benchmark status is CORPUS_GROUNDED and review status is AUTO_GROUNDED rather than legal-expert validated.",
+      "claim_type": "LIMITATION",
+      "source_artifact": "paper_limitations.md",
+      "source_field_or_section": "limitations section",
+      "allowed_wording": "benchmark is corpus-grounded and auto-grounded, and does not represent expert human legal validation",
+      "prohibited_wording": "human validated, professionally validated, expert validated, safety-versus-utility trade-off"
+    }
+  ]
+}

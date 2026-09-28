@@ -1,0 +1,99 @@
+Q001: I am not confident of the exact wording, but "tax year" under the 2025 Act is generally understood to mean the 12-month period beginning 1 April, replacing the old "previous year" concept (broadly in the early definitions/Section 3 area). I cannot confirm exact sub-clause wording.
+
+Q002: "Assessee" is generally defined (similar to old S.2(7)) as a person by whom income-tax or any other sum of money is payable under the Act, and includes a person in respect of whom proceedings have been taken for assessment of their income or of another person's income for which they are assessable, or of loss/refund due to them, and a person deemed to be an assessee or an assessee in default. Exact clause number under the 2025 Act not confirmed.
+
+Q003: "Approved gratuity fund" is generally defined as a gratuity fund approved by the Principal Chief Commissioner/Chief Commissioner or Principal Commissioner/Commissioner in accordance with rules, maintained for the exclusive benefit of employees under a gratuity scheme. Exact clause number not confirmed.
+
+Q004: I do not have confident recall of the specific definition of "company in which the public are substantially interested" as restructured in the 2025 Act. Under the 1961 Act this covered government companies, listed companies, and companies with specified public shareholding thresholds (S.2(18)). I cannot confirm the 2025 Act's exact clause/conditions.
+
+Q005: I am not confident of a standalone "population" definition under Section 3; under the old Act, population-based classification (e.g., for HRA/urban area purposes) referenced the last preceding census. I cannot confirm this is codified in Section 3 of the 2025 Act specifically.
+
+Q006: I do not have confident recall of a standalone statutory definition of "property" under Section 2 of the 2025 Act. This may not be a specifically defined term at all (it wasn't separately defined in the 1961 Act either, generally taking its ordinary meaning except in specific contexts like Section 56).
+
+Q007: I do not have confident recall of a "securities" definition under Section 3 specifically. Under the old Act, "securities" generally took the meaning under the Securities Contracts (Regulation) Act, 1956, referenced in specific provisions (e.g., capital gains, TDS on interest on securities). Cannot confirm 2025 Act section/clause.
+
+Q008: I am not aware of a distinct "definition" of standard deduction as such — Section 202 area (as referenced) likely deals with the standard deduction allowed from salary income (a flat deduction, currently Rs. 75,000 under the new tax regime as per recent Finance Acts), but I cannot confirm the exact amount/section as codified in the 2025 Act.
+
+Q009: "Rates in force" generally means the rate(s) of income-tax specified in the Finance Act for the relevant year, or the rates specified in the Act itself, whichever is applicable, including surcharge. Exact 2025 Act clause not confirmed.
+
+Q010: "Gross total income" generally means the aggregate of income under all heads of income, before allowing Chapter VI-A type deductions (or their 2025 Act equivalent). Exact section/clause not confirmed.
+
+Q011: "Agricultural income" generally includes rent/revenue derived from land used for agricultural purposes, income from agricultural operations (including processing to make produce marketable), and income from a farm house subject to conditions, situated in India. Exact clause number not confirmed.
+
+Q012: "Amalgamation" generally means the merger of one or more companies with another, or the merger of two or more companies to form a new company, such that all assets/liabilities of the amalgamating company(ies) become assets/liabilities of the amalgamated company, and shareholders holding a specified threshold (generally 3/4th in value) become shareholders of the amalgamated company. Exact clause not confirmed.
+
+Q013: "Annual value" generally refers to the deemed rental value of house property for computing income from house property (based on higher of actual rent or reasonable/notional letting value, subject to municipal valuation, standard rent, etc.). Exact 2025 Act clause not confirmed.
+
+Q014: "Approved superannuation fund" generally means a superannuation fund approved by the tax authorities in accordance with prescribed rules, established under an irrevocable trust for the benefit of employees. Exact clause not confirmed.
+
+Q015: "Assessment" generally includes reassessment, and refers to the process of determining tax liability. Exact 2025 Act clause not confirmed.
+
+Q016: "Average rate of income-tax" generally means the rate arrived at by dividing the total amount of income-tax calculated on total income by the total income itself. Exact clause not confirmed.
+
+Q017: "Block of assets" generally means a group of assets falling within a class of assets (buildings, machinery, plant, furniture, intangible assets) in respect of which the same depreciation rate is prescribed. Exact clause not confirmed.
+
+Q018: "Business" generally includes any trade, commerce, or manufacture, or any adventure or concern in the nature of trade, commerce, or manufacture. Exact clause not confirmed.
+
+Q019: "Capital asset" generally means property of any kind held by an assessee, whether connected with business/profession or not, but excludes specified exclusions such as stock-in-trade, certain personal effects, agricultural land in rural areas (subject to conditions), and specified gold bonds/deposit certificates. Exact clause not confirmed.
+
+Q020: "Charitable purpose" generally includes relief of the poor, education, medical relief, preservation of environment, preservation of monuments/places of artistic or historic interest, and advancement of any other object of general public utility (subject to commercial activity restrictions/thresholds). Exact clause not confirmed.
+
+Q021: "Dividend" generally includes deemed dividend categories such as distribution of accumulated profits entailing release of company assets, distribution of debentures/bonds, distribution on liquidation, and certain loans/advances by closely-held companies to shareholders, subject to specified exclusions. Exact clause not confirmed.
+
+Q022: "Income" generally is defined in an inclusive (not exhaustive) manner, covering profits and gains, dividends, voluntary contributions to trusts, perquisites/value of benefits, capital gains, winnings from lotteries/games, and other specified receipts. Exact clause not confirmed.
+
+Q023: I do not have confident recall of an "infrastructure capital company" definition being carried into the 2025 Act; under the 1961 Act this related to companies making long-term finance to infrastructure facilities. Cannot confirm current status/section.
+
+Q024: "Long-term capital asset" generally means a capital asset held for more than the specified holding period (generally 36 months, or 12/24 months for specified assets like listed securities/unlisted shares/immovable property, per applicable rules). Exact thresholds/clause under 2025 Act not confirmed.
+
+Q025: "Maximum marginal rate" generally means the rate of income-tax (including surcharge) applicable to the highest slab of income for an individual, as specified in the Finance Act. Exact clause not confirmed.
+
+Q026: "Person" generally includes an individual, HUF, company, firm, association of persons or body of individuals, local authority, and every artificial juridical person. Exact clause not confirmed.
+
+Q027: "Principal officer" generally includes a company secretary, or any officer connected with management/administration upon whom the tax officer has served notice of intention to treat them as principal officer. Exact clause not confirmed.
+
+Q028: "Relative" generally means, in relation to an individual, the spouse, brother, sister, or any lineal ascendant/descendant of that individual (used e.g. for gift exemption purposes). Exact clause not confirmed.
+
+Q029: "Short-term capital asset" generally means a capital asset held for not more than the specified holding period (generally 36 months, or shorter for specified assets like listed securities). Exact clause not confirmed.
+
+Q030: "Speculative transaction" generally means a transaction for purchase/sale of a commodity (including stocks/shares) settled otherwise than by actual delivery, subject to specified exclusions (hedging, jobbing, derivatives trading on recognized exchanges, etc.). Exact 2025 Act section not confirmed (referenced as analogous to old Section 43(5)).
+
+Q031: "Transfer" in relation to a capital asset generally includes sale, exchange, relinquishment, extinguishment of rights, compulsory acquisition, and certain deemed transfers (e.g., under specified agreements for immovable property, part performance). Exact clause not confirmed.
+
+Q032: "Zero coupon bond" generally means a bond issued by specified entities (infrastructure capital company/fund, specified companies) with no periodic interest payment, where only the redemption/maturity amount is specified, notified by the Central Government. Exact clause not confirmed.
+
+Q033: "Specified business" (analogous to old S.35AD) generally refers to a defined list of businesses (e.g., cold chain facility, warehousing, hospitals, hotels, developing infrastructure facilities, etc.) eligible for deduction of capital expenditure. I cannot confirm the current list or exact section under the 2025 Act.
+
+Q034: "Slump sale" generally means the transfer of one or more undertakings for a lump sum consideration without values being assigned to individual assets/liabilities. Exact clause not confirmed.
+
+Q035: I do not have confident recall of "registered firm" being a retained/relevant defined term in the 2025 Act (it was more relevant to older assessment procedure pre-1990s reforms for firms). Cannot confirm this exists as a current statutory definition.
+
+Q036: "Urban area" is generally used for classification purposes (e.g., agricultural land, HRA) based on population and distance from municipal limits, as notified/prescribed. Exact clause and thresholds not confirmed under the 2025 Act.
+
+Q037: "Prescribed" generally means prescribed by rules made under the Act (i.e., by the Central Board of Direct Taxes/Income-tax Rules). Exact clause not confirmed.
+
+Q038: "Recognised provident fund" generally means a provident fund recognised by the Principal Chief Commissioner/Chief Commissioner or Principal Commissioner/Commissioner under the rules in the relevant Schedule, generally maintained by employers for employees' retirement benefits. Exact clause/schedule reference not confirmed.
+
+Q039: I cannot answer this. "Section 2 of the Finance Act 2026" defining a "taxable supply threshold" does not match anything I can verify — the Finance Act is India's annual budget-implementing act (mainly amending direct/indirect tax rates and provisions), and "taxable supply" terminology is a GST/indirect-tax concept, not typically defined in the Finance Act's Section 2 in this manner. I do not want to invent a definition or threshold figure.
+
+Q040: I cannot answer this. I have no reliable record of a "CBDT Circular 1/2026" defining "specified person," and I should not fabricate the content of a specific circular I cannot verify.
+
+Q041: I do not have confident recall of a "Section 6" gratuity deduction eligibility provision under the 2025 Act specifically. Generally (as under old S.10(10)), gratuity received by government employees is fully exempt, while employees covered under the Payment of Gratuity Act, 1972 and other employees get exemption up to specified monetary limits/formulas. Exact 2025 Act section/eligibility conditions not confirmed.
+
+Q042: I do not have confident recall of a "Section 7" pension commutation deduction provision under the 2025 Act. Generally (as under old S.10(10A)), government employees get full exemption on commuted pension, while other employees get exemption up to 1/3rd or 1/2 of commuted pension depending on whether gratuity is also received. Exact 2025 Act section/eligibility not confirmed.
+
+Q043: Standard deduction from salary is generally available to all individual taxpayers with salary income, as a flat deduction (recent Finance Acts have set this at Rs. 50,000/Rs. 75,000 depending on regime). I cannot confirm the exact amount or eligibility conditions as codified in Section 202 of the 2025 Act.
+
+Q044: I am not aware of a specific "Lieutenant Governor's Relief Fund" donation category under Indian income tax donation provisions (analogous to old Section 80G, generally covering funds like PM's National Relief Fund, National Defence Fund, CM's Relief Fund of a State, etc.). I cannot confirm this specific fund or its 100%/50% deduction eligibility under Section 133 of the 2025 Act; this may be a state-specific or lesser-known notified fund I cannot verify.
+
+Q045: Donations to the Swachh Bharat Kosh are generally eligible for 100% deduction (analogous to old Section 80G), available to donors other than those claiming CSR expenditure for the same contribution (companies cannot claim both CSR credit and 80G-type deduction for the same donation). Exact Section 133 eligibility conditions under the 2025 Act not fully confirmed.
+
+Q046: Donations to the Clean Ganga Fund are generally eligible for 100% deduction (analogous to old Section 80G), similarly restricted so that CSR-mandated corporate donations don't also claim the tax deduction. Exact Section 133 eligibility conditions under the 2025 Act not fully confirmed.
+
+Q047: Employer's contribution to an employee's pension scheme/fund (analogous to old Section 80CCD(2)) is generally deductible for the employer as a business expense, and separately eligible for the employee as a deduction up to a specified percentage of salary. I cannot confirm the precise eligibility/limit under Section 124 of the 2025 Act as framed here.
+
+Q048: I do not have confident recall of a specific "HUF donation deduction" provision under Section 123 of the 2025 Act. Generally, HUFs (like individuals) are eligible for donation-based deductions (analogous to old Section 80G) subject to the same qualifying fund/institution and percentage-of-income conditions as other non-corporate assessees. Exact Section 123 conditions not confirmed.
+
+Q049: Leave encashment on retirement is generally exempt for government employees, while other employees get exemption up to specified limits (based on average salary, leave standing, and a monetary ceiling notified by the government), analogous to old Section 10(10AA). Exact 2025 Act section and current monetary ceiling not confirmed (Section 10 reference given in the question may not match the 2025 Act's renumbering).
+
+Q050: Retrenchment compensation is generally exempt up to the amount specified under the Industrial Disputes Act, 1947, or a specified monetary limit, whichever is less, analogous to old Section 10(10B). Exact 2025 Act section number and current limit not confirmed (the "Section 10B" reference in the question may not correspond to the 2025 Act's actual numbering).

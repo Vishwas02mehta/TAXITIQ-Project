@@ -1,0 +1,3531 @@
+[
+  {
+    "question_id": "Q001",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "3"
+    ],
+    "gold_answer": "Under Section 3(1) of the Income-tax Act 2025, tax year means the twelve months period of the financial year commencing on the 1st April.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 3"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q002",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "An assessee is defined under Section 2(11) as a person by whom any tax or any other sum of money is payable under this Act.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q003",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Under Section 2(5), an approved gratuity fund is a gratuity fund approved and maintained under the Income-tax Act.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q004",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "It refers to a public company satisfying public ownership and voting power thresholds under Section 2(18).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q005",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "3"
+    ],
+    "gold_answer": "Population is defined under Section 3(4) as ascertained at the last preceding published census.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 3"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q006",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Under Section 2(38), property includes all kinds of property held by an assessee whether connected with business or not.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q007",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "3"
+    ],
+    "gold_answer": "Securities are defined under Section 3(7) to include shares, stocks, debentures, and marketable securities.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 3"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q008",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "202"
+    ],
+    "gold_answer": "Standard deduction from salary under Section 202(1) is fixed at Rs. 75,000.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 202"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q009",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Under Section 2(42), rates in force refer to the income tax rates specified in the relevant Finance Act.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q010",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Gross total income is the total income computed across all heads prior to Chapter VIA deductions.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q011",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Agricultural income under Section 2(1) includes rent, revenue, or income from land situated in India used for agricultural purposes.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q012",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Amalgamation is defined under Section 2(2) as the merger of companies where all property and liabilities transfer to the amalgamated company.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q013",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Under Section 2(3), annual value represents the reasonable expected annual rent of a house property.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q014",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Superannuation fund approved by the tax authority under Section 2(6).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q015",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Assessment under Section 2(8) includes regular assessment, reassessment, and best judgment assessment.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q016",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Under Section 2(12), it is the total tax payable divided by the total income.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q017",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Defined under Section 2(14) as a group of assets eligible for identical depreciation rates.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q018",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Under Section 2(15), business encompasses trade, commerce, manufacture, or concern in the nature of trade.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q019",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Capital asset is defined under Section 2(16) as property held by an assessee excluding stock-in-trade and personal effects.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q020",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Charitable purpose under Section 2(17) covers poor relief, education, yoga, healthcare, environment preservation, and public utility objects.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q021",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Dividend under Section 2(22) includes statutory distributions of accumulated profits to shareholders.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q022",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Income under Section 2(24) is an inclusive statutory term encompassing revenue gains, capital gains, perquisites, and trust contributions.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q023",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Defined under Section 2(26A) as a company financing or investing in infrastructure projects.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q024",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "A capital asset held beyond statutory specified threshold (12/24/36 months) under Section 2(29A).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q025",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Defined under Section 2(29C) as the highest marginal tax rate plus applicable surcharge.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q026",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Person is defined under Section 2(31) to include individuals, HUFs, companies, firms, AOPs, BOIs, local authorities, and artificial juridical persons.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q027",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Defined under Section 2(35) as key administrative officers responsible for tax compliance.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q028",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Relative under Section 2(41) means spouse, siblings, and direct lineal ancestors or descendants.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q029",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Defined under Section 2(42A) based on holding period immediately prior to transfer.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q030",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "43"
+    ],
+    "gold_answer": "Under Section 43(5), a contract settled without actual delivery of commodity or shares.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 43"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q031",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Transfer under Section 2(47) encompasses sale, exchange, relinquishment, compulsory acquisition, and extinguishment of rights.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q032",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Defined under Section 2(48) as a discounted bond with no intermediate interest payments.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q033",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "35AD"
+    ],
+    "gold_answer": "Under Section 35AD(8), specified capital-intensive infrastructure and industrial businesses.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 35AD"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q034",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Defined under Section 2(42C) as undertaking transfer for a consolidated lump-sum price.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q035",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "A partnership firm satisfying statutory registration conditions under Section 2(39).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q036",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Defined under Section 2(14) based on municipal status and minimum population threshold.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q037",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Under Section 2(33), prescribed means set down under the official Income-tax Rules by CBDT.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q038",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Defined under Section 2(38A) as a provident fund approved under tax rules.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q039",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "Finance Act 2026"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "The threshold specified in Part I of the First Schedule to Finance Act 2026.",
+    "expected_citations": [
+      "Finance Act 2026 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q040",
+    "category": "DEFINITION",
+    "gold_documents": [
+      "CBDT Circular 1/2026"
+    ],
+    "gold_sections": [
+      "1"
+    ],
+    "gold_answer": "Non-resident entities without permanent establishment as clarified in CBDT Circular 1/2026.",
+    "expected_citations": [
+      "CBDT Circular 1/2026 Para 3"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q041",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "6"
+    ],
+    "gold_answer": "An employee is eligible on retirement, superannuation, or resignation after continuous service under Section 6.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 6"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q042",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "7"
+    ],
+    "gold_answer": "Pension commutation is eligible under Section 7 when received under statutory pension rules.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 7"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q043",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "202"
+    ],
+    "gold_answer": "Individual taxpayers receiving salary income are eligible for standard deduction under Section 202.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 202"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q044",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "133"
+    ],
+    "gold_answer": "Assessees donating to Lieutenant Governor's Relief Fund are eligible for 100% deduction under Section 133.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 133"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q045",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "133"
+    ],
+    "gold_answer": "Donations to Swachh Bharat Kosh qualify for 100% deduction provided they are non-CSR contributions under Section 133.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 133"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q046",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "133"
+    ],
+    "gold_answer": "Resident assessees are eligible for 100% deduction for contributions to Clean Ganga Fund under Section 133.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 133"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q047",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "124"
+    ],
+    "gold_answer": "Employees are eligible for deduction under Section 124(1) up to 14% (Central Govt) or 10% (others) of salary.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 124"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q048",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "123"
+    ],
+    "gold_answer": "HUFs making donations to approved trusts are eligible for deduction under Section 123.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 123"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q049",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "10"
+    ],
+    "gold_answer": "Government employees receive full leave encashment exemption under Section 10(10AA).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 10"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q050",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "10B"
+    ],
+    "gold_answer": "Workmen are eligible for retrenchment exemption under Section 10(10B) up to Rs. 5 lakhs.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 10B"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q051",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "10C"
+    ],
+    "gold_answer": "Employees taking VRS under approved guidelines qualify for exemption up to Rs. 5 lakhs under Section 10(10C).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 10C"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q052",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "10D"
+    ],
+    "gold_answer": "Salaried taxpayers occupying rented residential premises qualify for HRA exemption under Section 10(13A).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 10D"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q053",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80D"
+    ],
+    "gold_answer": "Individual and HUF assessees paying health insurance premiums qualify under Section 80D.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80D"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q054",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80DD"
+    ],
+    "gold_answer": "Resident individuals and HUFs maintaining disabled dependents qualify under Section 80DD.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80DD"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q055",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80E"
+    ],
+    "gold_answer": "Individual taxpayers paying higher education loan interest qualify for 8-year deduction under Section 80E.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80E"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q056",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80EEB"
+    ],
+    "gold_answer": "Individuals purchasing electric vehicles on institutional loans qualify under Section 80EEB.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80EEB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q057",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80GGA"
+    ],
+    "gold_answer": "Non-business assessees making donations to approved research institutions qualify under Section 80GGA.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80GGA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q058",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80GGC"
+    ],
+    "gold_answer": "Persons making non-cash donations to registered political parties qualify under Section 80GGC.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80GGC"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q059",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80JJAA"
+    ],
+    "gold_answer": "Corporate and audited assessees creating new employment qualify for 30% deduction under Section 80JJAA.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80JJAA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q060",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80RRB"
+    ],
+    "gold_answer": "Resident individual patent inventors qualify for royalty deduction under Section 80RRB.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80RRB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q061",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80TTA"
+    ],
+    "gold_answer": "Individual and HUF non-senior citizen taxpayers qualify under Section 80TTA.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80TTA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q062",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80TTB"
+    ],
+    "gold_answer": "Resident senior citizens earning interest on bank or post office deposits qualify under Section 80TTB.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80TTB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q063",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "44AD"
+    ],
+    "gold_answer": "Small resident businesses with turnover below threshold qualify under Section 44AD.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 44AD"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q064",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "44ADA"
+    ],
+    "gold_answer": "Specified resident professionals with receipts below threshold qualify under Section 44ADA.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 44ADA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q065",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "44AE"
+    ],
+    "gold_answer": "Transporters owning no more than 10 goods vehicles qualify under Section 44AE.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 44AE"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q066",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80IAC"
+    ],
+    "gold_answer": "Recognized eligible startups satisfying turnover and incorporation criteria qualify under Section 80IAC.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80IAC"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q067",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "33AB"
+    ],
+    "gold_answer": "Tea, coffee, and rubber growers depositing funds with NABARD qualify under Section 33AB.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 33AB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q068",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "33ABA"
+    ],
+    "gold_answer": "Petroleum and gas extraction entities depositing funds in SBI account qualify under Section 33ABA.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 33ABA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q069",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "35ABB"
+    ],
+    "gold_answer": "Telecom license holders paying capital fees qualify for amortization under Section 35ABB.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 35ABB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q070",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "35CCC"
+    ],
+    "gold_answer": "Assessees funding notified agricultural training and extension projects qualify under Section 35CCC.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 35CCC"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q071",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "35CCD"
+    ],
+    "gold_answer": "Manufacturing companies spending on notified skill training qualify under Section 35CCD.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 35CCD"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q072",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "35D"
+    ],
+    "gold_answer": "Indian companies and resident assessees incurring setup expenses qualify under Section 35D.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 35D"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q073",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "35DD"
+    ],
+    "gold_answer": "Indian companies undergoing corporate restructuring qualify under Section 35DD.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 35DD"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q074",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "35DDA"
+    ],
+    "gold_answer": "Employers paying VRS compensation qualify for 5-year amortization under Section 35DDA.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 35DDA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q075",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "36"
+    ],
+    "gold_answer": "Employers paying employee bonus or commission qualify under Section 36(1)(ii).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 36"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q076",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "36"
+    ],
+    "gold_answer": "Business assessees writing off irrecoverable trade debts qualify under Section 36(1)(vii).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 36"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q077",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "36"
+    ],
+    "gold_answer": "Corporate employers promoting family planning qualify for 5-year capital deduction under Section 36(1)(ix).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 36"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q078",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "36"
+    ],
+    "gold_answer": "Share traders declaring business income qualify for STT deduction under Section 36(1)(xv).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 36"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q079",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "11CB"
+    ],
+    "gold_answer": "Taxpayers calculating fair market value of indirect Indian asset transfers qualify under Rule 11CB.",
+    "expected_citations": [
+      "Income-tax Rules Rule 11CB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q080",
+    "category": "ELIGIBILITY",
+    "gold_documents": [
+      "CBDT Circular 3/2026"
+    ],
+    "gold_sections": [
+      "3"
+    ],
+    "gold_answer": "Software distributors satisfying Circular 3/2026 conditions qualify for non-withholding.",
+    "expected_citations": [
+      "CBDT Circular 3/2026 Para 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q081",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "202"
+    ],
+    "gold_answer": "The maximum standard deduction allowed from salary is Rs. 75,000 under Section 202.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 202"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q082",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194J"
+    ],
+    "gold_answer": "The TDS threshold for professional fees under Section 194J is Rs. 30,000 per financial year.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194J"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q083",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194C"
+    ],
+    "gold_answer": "TDS threshold under Section 194C is Rs. 30,000 for single credit or Rs. 1,00,000 aggregate.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194C"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q084",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194A"
+    ],
+    "gold_answer": "TDS rate under Section 194A is 10% above Rs. 40,000 threshold (Rs. 50,000 for senior citizens).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q085",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194I"
+    ],
+    "gold_answer": "Rent TDS threshold under Section 194I is Rs. 2,40,000 per financial year.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194I"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q086",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194IA"
+    ],
+    "gold_answer": "Property purchase TDS threshold under Section 194IA is Rs. 50,00,000 at 1% rate.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194IA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q087",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194IB"
+    ],
+    "gold_answer": "Monthly rent threshold for individual TDS under Section 194IB is Rs. 50,000 per month.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194IB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q088",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194Q"
+    ],
+    "gold_answer": "Goods purchase TDS threshold under Section 194Q is Rs. 50 lakhs at 0.1% rate.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194Q"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q089",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "206C"
+    ],
+    "gold_answer": "TCS threshold on goods sale under Section 206C(1H) is Rs. 50 lakhs at 0.1%.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 206C"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q090",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "206C"
+    ],
+    "gold_answer": "LRS remittance TCS rate is 20% above Rs. 7 lakh threshold under Section 206C(1G).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 206C"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q091",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "206AA"
+    ],
+    "gold_answer": "Higher penal TDS rate for non-PAN deductees is 20% under Section 206AA.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 206AA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q092",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "206AB"
+    ],
+    "gold_answer": "TDS for non-filers under Section 206AB is twice the applicable rate or 5%.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 206AB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q093",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Finance Act 2026"
+    ],
+    "gold_sections": [
+      "First Schedule"
+    ],
+    "gold_answer": "Senior citizen basic tax exemption is Rs. 3,00,000 under Finance Act 2026.",
+    "expected_citations": [
+      "Finance Act 2026 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q094",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Finance Act 2026"
+    ],
+    "gold_sections": [
+      "First Schedule"
+    ],
+    "gold_answer": "Super senior citizen basic tax exemption threshold is Rs. 5,00,000 under Finance Act 2026.",
+    "expected_citations": [
+      "Finance Act 2026 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q095",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "87A"
+    ],
+    "gold_answer": "Section 87A rebate for new tax regime applies up to Rs. 7 lakh income (Rs. 25,000 rebate).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 87A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q096",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Finance Act 2026"
+    ],
+    "gold_sections": [
+      "First Schedule"
+    ],
+    "gold_answer": "Individual income surcharge starts at 10% above Rs. 50 lakh income threshold.",
+    "expected_citations": [
+      "Finance Act 2026 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q097",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Finance Act 2026"
+    ],
+    "gold_sections": [
+      "First Schedule"
+    ],
+    "gold_answer": "Surcharge under new tax regime is capped at 25% under Finance Act 2026.",
+    "expected_citations": [
+      "Finance Act 2026 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q098",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Finance Act 2026"
+    ],
+    "gold_sections": [
+      "First Schedule"
+    ],
+    "gold_answer": "Health and Education Cess rate is fixed at 4% across all income slabs.",
+    "expected_citations": [
+      "Finance Act 2026 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q099",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "115BAB"
+    ],
+    "gold_answer": "Tax rate for new manufacturing companies under Section 115BAB is 15% plus surcharge and cess.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115BAB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q100",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "115BAA"
+    ],
+    "gold_answer": "Domestic company concessional tax rate under Section 115BAA is 22% (effective ~25.17%).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115BAA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q101",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "115JB"
+    ],
+    "gold_answer": "MAT rate on corporate book profit under Section 115JB is 15%.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115JB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q102",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "115JC"
+    ],
+    "gold_answer": "AMT rate under Section 115JC is 18.5% of adjusted total income.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115JC"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q103",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "111A"
+    ],
+    "gold_answer": "Short-term capital gains tax rate under Section 111A is 20%.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 111A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q104",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "112A"
+    ],
+    "gold_answer": "LTCG tax rate under Section 112A is 12.5% above Rs. 1.25 lakh annual exemption.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 112A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q105",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "115BBH"
+    ],
+    "gold_answer": "Virtual Digital Assets tax rate under Section 115BBH is 30% without expense deduction.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115BBH"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q106",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194S"
+    ],
+    "gold_answer": "VDA TDS rate under Section 194S is 1% above Rs. 50,000 annual threshold.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194S"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q107",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194N"
+    ],
+    "gold_answer": "Cash withdrawal TDS threshold under Section 194N is Rs. 1 crore (Rs. 20 lakh for non-filers).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194N"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q108",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194R"
+    ],
+    "gold_answer": "Business benefit TDS threshold under Section 194R is Rs. 20,000 at 10% rate.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194R"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q109",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "115BBJ"
+    ],
+    "gold_answer": "Online gaming winnings tax rate under Section 115BBJ is 30%.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115BBJ"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q110",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194BA"
+    ],
+    "gold_answer": "TDS on online gaming under Section 194BA is 30% on net winnings without minimum threshold.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194BA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q111",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "3"
+    ],
+    "gold_answer": "Employer accommodation perquisite under Rule 3 is valued at 10%, 7.5%, or 5% of salary.",
+    "expected_citations": [
+      "Income-tax Rules Rule 3"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q112",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "11UA"
+    ],
+    "gold_answer": "Fair market value of unquoted shares under Rule 11UA is calculated using book value formula.",
+    "expected_citations": [
+      "Income-tax Rules Rule 11UA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q113",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "2BB"
+    ],
+    "gold_answer": "Transport allowance exemption for disabled employees under Rule 2BB is Rs. 3,200 per month.",
+    "expected_citations": [
+      "Income-tax Rules Rule 2BB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q114",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "2BB"
+    ],
+    "gold_answer": "Education allowance exemption under Rule 2BB is Rs. 100 per month per child (max 2 children).",
+    "expected_citations": [
+      "Income-tax Rules Rule 2BB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q115",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "2BB"
+    ],
+    "gold_answer": "Hostel allowance exemption under Rule 2BB is Rs. 300 per month per child (max 2 children).",
+    "expected_citations": [
+      "Income-tax Rules Rule 2BB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q116",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "CBDT Circular 4/2026"
+    ],
+    "gold_sections": [
+      "4"
+    ],
+    "gold_answer": "Interest waiver threshold under CBDT Circular 4/2026 is Rs. 500,000.",
+    "expected_citations": [
+      "CBDT Circular 4/2026 Para 4"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q117",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "CBDT Circular 6/2026"
+    ],
+    "gold_sections": [
+      "6"
+    ],
+    "gold_answer": "Departmental appeal filing monetary thresholds under Circular 6/2026 are Rs. 50L (ITAT), Rs. 1Cr (HC), Rs. 2Cr (SC).",
+    "expected_citations": [
+      "CBDT Circular 6/2026 Para 3"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q118",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Finance Act 2025"
+    ],
+    "gold_sections": [
+      "112A"
+    ],
+    "gold_answer": "LTCG tax rate under Section 112A was amended to 12.5% by Finance Act 2025.",
+    "expected_citations": [
+      "Finance Act 2025 Sec 15"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q119",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Finance Act 2024 (No. 2)"
+    ],
+    "gold_sections": [
+      "111A"
+    ],
+    "gold_answer": "STCG tax rate under Section 111A was increased to 20% by Finance Act 2024 (No. 2).",
+    "expected_citations": [
+      "Finance Act 2024 (No. 2) Sec 22"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q120",
+    "category": "CALCULATION_THRESHOLD",
+    "gold_documents": [
+      "Finance Act 2023"
+    ],
+    "gold_sections": [
+      "First Schedule"
+    ],
+    "gold_answer": "New tax regime basic exemption was raised to Rs. 3 lakh by Finance Act 2023.",
+    "expected_citations": [
+      "Finance Act 2023 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q121",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "37"
+    ],
+    "gold_answer": "CSR expenditure is explicitly disallowed as a business expense under Explanation 2 to Section 37(1).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 37"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q122",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "40A"
+    ],
+    "gold_answer": "Cash payments exceeding Rs. 10,000 in a day are 100% disallowed under Section 40A(3).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 40A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q123",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "40"
+    ],
+    "gold_answer": "30% of payment to resident is disallowed upon TDS default under Section 40(a)(ia).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 40"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q124",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "40"
+    ],
+    "gold_answer": "100% of payment to non-resident is disallowed upon TDS default under Section 40(a)(i).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 40"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q125",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "43B"
+    ],
+    "gold_answer": "MSME supplier payments paid beyond statutory credit period are disallowed under Section 43B(h) until actual payment.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 43B"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q126",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Rural agricultural land in India is excluded from capital asset definition under Section 2(14).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q127",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Personal effects (excluding jewellery and artwork) are excluded from capital assets under Section 2(14).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q128",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "80M"
+    ],
+    "gold_answer": "Inter-corporate dividends distributed before tax filing due date are exempt from double tax under Section 80M.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80M"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q129",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "47"
+    ],
+    "gold_answer": "Transfers via gift, will, or irrevocable trust are excluded from capital gains under Section 47(iii).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 47"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q130",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "47"
+    ],
+    "gold_answer": "Asset transfer in amalgamation to an Indian company is exempt from capital gains under Section 47(vi).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 47"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q131",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "47"
+    ],
+    "gold_answer": "Asset transfer in demerger to a resulting Indian company is exempt under Section 47(vib).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 47"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q132",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "64"
+    ],
+    "gold_answer": "Minor child income is not clubbed with parent's income if minor has Section 80U disability under Section 64(1A).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 64"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q133",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "64"
+    ],
+    "gold_answer": "Income earned by minor through personal talent, skill, or manual work is excluded from clubbing under Section 64(1A).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 64"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q134",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "56"
+    ],
+    "gold_answer": "Gifts received by an individual on the occasion of marriage are exempt from gift tax under Section 56(2)(x).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 56"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q135",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "56"
+    ],
+    "gold_answer": "Property received under a will or inheritance is completely exempt from tax under Section 56(2)(x).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 56"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q136",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "56"
+    ],
+    "gold_answer": "Money or property received from defined relatives is 100% tax-free under Section 56(2)(x).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 56"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q137",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "73"
+    ],
+    "gold_answer": "Speculative business loss can only be set off against speculative business profits under Section 73.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 73"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q138",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "70"
+    ],
+    "gold_answer": "Long-term capital loss cannot be set off against short-term capital gains under Section 70(3).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 70"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q139",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "269SS"
+    ],
+    "gold_answer": "Government, banks, and post office savings banks are exempt from Section 269SS cash loan bar.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 269SS"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q140",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "269T"
+    ],
+    "gold_answer": "Cash repayment to Government or banks is exempt from Section 269T penalty.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 269T"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q141",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "28"
+    ],
+    "gold_answer": "Non-compete fees received for refraining from business are taxable under Section 28(va).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 28"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q142",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "44AB"
+    ],
+    "gold_answer": "Small taxpayers declaring profit at 8%/6% under Section 44AD are exempt from Section 44AB tax audit.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 44AB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q143",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "24"
+    ],
+    "gold_answer": "Self-occupied house property loan interest deduction is capped at Rs. 2 lakhs under Section 24(b).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 24"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q144",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "10"
+    ],
+    "gold_answer": "Compulsory government acquisition of urban agricultural land is 100% exempt under Section 10(37).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 10"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q145",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "3D"
+    ],
+    "gold_answer": "Medical treatment expenses abroad are exempt perquisite up to RBI ceiling under Rule 3D.",
+    "expected_citations": [
+      "Income-tax Rules Rule 3D"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q146",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "11AAE"
+    ],
+    "gold_answer": "Pro-rata bonus share allotment is exempt from fair market valuation under Rule 11AAE.",
+    "expected_citations": [
+      "Income-tax Rules Rule 11AAE"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q147",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "CBDT Circular 2/2026"
+    ],
+    "gold_sections": [
+      "2"
+    ],
+    "gold_answer": "Non-resident shipping freights covered under Section 172 are exempt from TDS as per Circular 2/2026.",
+    "expected_citations": [
+      "CBDT Circular 2/2026 Para 3"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q148",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "CBDT Circular 5/2026"
+    ],
+    "gold_sections": [
+      "5"
+    ],
+    "gold_answer": "Technical software TDS short-deduction defaults are exempt from penalty per Circular 5/2026.",
+    "expected_citations": [
+      "CBDT Circular 5/2026 Para 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q149",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Finance Act 2026"
+    ],
+    "gold_sections": [
+      "First Schedule"
+    ],
+    "gold_answer": "STT is strictly non-deductible against capital gains under Finance Act 2026.",
+    "expected_citations": [
+      "Finance Act 2026 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q150",
+    "category": "EXCEPTION",
+    "gold_documents": [
+      "Finance Act 2025"
+    ],
+    "gold_sections": [
+      "56"
+    ],
+    "gold_answer": "Investments in DPIIT recognized startups are exempt from angel tax under Finance Act 2025.",
+    "expected_citations": [
+      "Finance Act 2025 Sec 18"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q151",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194J",
+      "194C"
+    ],
+    "gold_answer": "Technical service payments are subject to 2% TDS under Section 194J, overriding general contract TDS under Section 194C.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194J",
+      "Income-tax Act, 2025 Sec 194C"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q152",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "206AA",
+      "206AB"
+    ],
+    "gold_answer": "TDS is deducted at the highest resulting rate between Section 206AA (20%) and Section 206AB.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 206AA",
+      "Income-tax Act, 2025 Sec 206AB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q153",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194Q",
+      "206C"
+    ],
+    "gold_answer": "Section 194Q buyer TDS takes priority over Section 206C(1H) seller TCS on goods purchase.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194Q",
+      "Income-tax Act, 2025 Sec 206C"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q154",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "44AD",
+      "44AB"
+    ],
+    "gold_answer": "Taxpayers declaring presumptive profit below 8%/6% with income above exemption must undergo Section 44AB audit.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 44AD",
+      "Income-tax Act, 2025 Sec 44AB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q155",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "50C",
+      "43CA"
+    ],
+    "gold_answer": "Section 50C governs capital gains on land/building while Section 43CA governs business profits on real estate inventory.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 50C",
+      "Income-tax Act, 2025 Sec 43CA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q156",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "70",
+      "71"
+    ],
+    "gold_answer": "Intra-head setoff under Section 70 is mandatory prior to seeking inter-head setoff under Section 71.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 70",
+      "Income-tax Act, 2025 Sec 71"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q157",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "28",
+      "56"
+    ],
+    "gold_answer": "Business perquisites are taxed under Section 28(iv) whereas personal unrequited gifts are taxed under Section 56(2)(x).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 28",
+      "Income-tax Act, 2025 Sec 56"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q158",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "10",
+      "80GG"
+    ],
+    "gold_answer": "Section 80GG rent deduction is mutually exclusive with Section 10(13A) HRA exemption.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 10",
+      "Income-tax Act, 2025 Sec 80GG"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q159",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "115BAC",
+      "120"
+    ],
+    "gold_answer": "Section 115BAC restricts Chapter VIA deductions to employer pension and new employment cost.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115BAC",
+      "Income-tax Act, 2025 Sec 120"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q160",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "194M",
+      "194C"
+    ],
+    "gold_answer": "Section 194M covers individual personal payments over Rs. 50 lakh not subject to 194C/194J.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194M",
+      "Income-tax Act, 2025 Sec 194C"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q161",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "92C",
+      "40A"
+    ],
+    "gold_answer": "International arm's length pricing is governed by Section 92C while domestic excessive related payments are controlled by Section 40A(2).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 92C",
+      "Income-tax Act, 2025 Sec 40A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q162",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "269SS",
+      "271D"
+    ],
+    "gold_answer": "Failure to adhere to Section 269SS cash threshold results in 100% penalty under Section 271D.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 269SS",
+      "Income-tax Act, 2025 Sec 271D"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q163",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "269T",
+      "271E"
+    ],
+    "gold_answer": "Repaying deposits in cash over Rs. 20,000 triggers 100% penalty under Section 271E.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 269T",
+      "Income-tax Act, 2025 Sec 271E"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q164",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "115JB",
+      "115JAA"
+    ],
+    "gold_answer": "Excess MAT paid under Section 115JB creates a 15-year carry-forward MAT credit under Section 115JAA.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115JB",
+      "Income-tax Act, 2025 Sec 115JAA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q165",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "14A",
+      "8D"
+    ],
+    "gold_answer": "Section 14A disallows expenses relating to exempt income using the formula specified in Rule 8D.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 14A",
+      "Income-tax Rules Rule 8D"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q166",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "45",
+      "48"
+    ],
+    "gold_answer": "Section 45 creates capital gains liability while Section 48 prescribes full value of consideration less acquisition costs.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 45",
+      "Income-tax Act, 2025 Sec 48"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q167",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "54",
+      "54F"
+    ],
+    "gold_answer": "Section 54 requires transfer of residential house; Section 54F requires transfer of non-residential asset reinvested in a house.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 54",
+      "Income-tax Act, 2025 Sec 54F"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q168",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "234A",
+      "234B"
+    ],
+    "gold_answer": "Sections 234A, 234B, and 234C penalize delay in filing, shortfall in advance tax, and deferment of quarterly advance tax respectively.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 234A",
+      "Income-tax Act, 2025 Sec 234B"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q169",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "139",
+      "139"
+    ],
+    "gold_answer": "Section 139(1) specifies original statutory due date while Section 139(4) permits belated filing with penalty.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 139"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q170",
+    "category": "CROSS_SECTION_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "139",
+      "139"
+    ],
+    "gold_answer": "Both original (139(1)) and belated (139(4)) returns can be revised under Section 139(5).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 139"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q171",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "194J",
+      "31A"
+    ],
+    "gold_answer": "Section 194J requires professional TDS deduction, which must be quarterly reported in Form 26Q per Rule 31A.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194J",
+      "Income-tax Rules Rule 31A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q172",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Finance Act 2025"
+    ],
+    "gold_sections": [
+      "112A",
+      "15"
+    ],
+    "gold_answer": "Section 112A LTCG rate of 12.5% is enacted via Finance Act 2025 amendment.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 112A",
+      "Finance Act 2025 Sec 15"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q173",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "CBDT Circular 2/2026"
+    ],
+    "gold_sections": [
+      "194C",
+      "Para 3"
+    ],
+    "gold_answer": "Circular 2/2026 provides administrative relaxation exempting non-resident shipping freight from Section 194C TDS.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194C",
+      "CBDT Circular 2/2026 Para 3"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q174",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "14A",
+      "8D"
+    ],
+    "gold_answer": "Section 14A provides statutory disallowance while Rule 8D provides the mathematical computation formula.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 14A",
+      "Income-tax Rules Rule 8D"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q175",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "44AB",
+      "6G"
+    ],
+    "gold_answer": "Section 44AB mandates tax audit, and Rule 6G prescribes filing audit reports in Forms 3CA/3CB and 3CD.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 44AB",
+      "Income-tax Rules Rule 6G"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q176",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "92C",
+      "10B"
+    ],
+    "gold_answer": "Section 92C sets statutory arm's length mandate, and Rule 10B details specific calculation methods.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 92C",
+      "Income-tax Rules Rule 10B"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q177",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "10",
+      "2A"
+    ],
+    "gold_answer": "Section 10(13A) creates statutory HRA exemption, and Rule 2A defines exact limits.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 10",
+      "Income-tax Rules Rule 2A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q178",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "80D",
+      "11DD"
+    ],
+    "gold_answer": "Section 80DDB grants medical deduction while Rule 11DD enumerates qualifying medical conditions.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 80D",
+      "Income-tax Rules Rule 11DD"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q179",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "CBDT Circular 1/2026"
+    ],
+    "gold_sections": [
+      "206C",
+      "Para 2"
+    ],
+    "gold_answer": "Section 206C imposes LRS TCS, and Circular 1/2026 provides procedural administrative guidelines.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 206C",
+      "CBDT Circular 1/2026 Para 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q180",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Finance Act 2026"
+    ],
+    "gold_sections": [
+      "115BAC",
+      "Schedule"
+    ],
+    "gold_answer": "Section 115BAC provides option framework while Finance Act 2026 enacts exact annual slab rates.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115BAC",
+      "Finance Act 2026 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q181",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "194IA",
+      "31A"
+    ],
+    "gold_answer": "Section 194IA mandates property TDS, and Rule 31A prescribes Form 26QB filing.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194IA",
+      "Income-tax Rules Rule 31A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q182",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "194IB",
+      "31A"
+    ],
+    "gold_answer": "Section 194IB creates individual rent TDS liability, and Rule 31A prescribes Form 26QC.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194IB",
+      "Income-tax Rules Rule 31A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q183",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "194M",
+      "31A"
+    ],
+    "gold_answer": "Section 194M mandates personal payment TDS, and Rule 31A prescribes Form 26QD.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194M",
+      "Income-tax Rules Rule 31A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q184",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "194S",
+      "31A"
+    ],
+    "gold_answer": "Section 194S creates crypto TDS obligation, and Rule 31A prescribes Form 26QE reporting.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 194S",
+      "Income-tax Rules Rule 31A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q185",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "269SU",
+      "11DD"
+    ],
+    "gold_answer": "Section 269SU mandates electronic payment facility, and Rule 11DD specifies UPI and RuPay modes.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 269SU",
+      "Income-tax Rules Rule 11DD"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q186",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "CBDT Circular 4/2026"
+    ],
+    "gold_sections": [
+      "115BBH",
+      "Para 2"
+    ],
+    "gold_answer": "Section 115BBH imposes 30% VDA tax, and Circular 4/2026 clarifies strict loss setoff prohibition.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 115BBH",
+      "CBDT Circular 4/2026 Para 2"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q187",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "139A",
+      "114"
+    ],
+    "gold_answer": "Section 139A mandates PAN requirement, and Rule 114 sets down Form 49A application procedures.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 139A",
+      "Income-tax Rules Rule 114"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q188",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "139AA",
+      "114AAA"
+    ],
+    "gold_answer": "Section 139AA requires Aadhaar linking, and Rule 114AAA prescribes Rs. 1,000 delay fee.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 139AA",
+      "Income-tax Rules Rule 114AAA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q189",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "285BA",
+      "114E"
+    ],
+    "gold_answer": "Section 285BA mandates Statement of Financial Transactions, and Rule 114E specifies reporting limits.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 285BA",
+      "Income-tax Rules Rule 114E"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q190",
+    "category": "MULTI_DOCUMENT_REASONING",
+    "gold_documents": [
+      "Income-tax Act, 2025",
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "90",
+      "128"
+    ],
+    "gold_answer": "Section 90 grants statutory DTAA relief, and Rule 128 mandates Form 67 filing for Foreign Tax Credit.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 90",
+      "Income-tax Rules Rule 128"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q191",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2022"
+    ],
+    "gold_sections": [
+      "115BBH"
+    ],
+    "gold_answer": "Finance Act 2022 enacted 30% tax on virtual digital assets starting Assessment Year 2023-24.",
+    "expected_citations": [
+      "Finance Act 2022 Sec 28"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q192",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2023"
+    ],
+    "gold_sections": [
+      "115BAC"
+    ],
+    "gold_answer": "New tax regime under Section 115BAC became default from Assessment Year 2024-25 via Finance Act 2023.",
+    "expected_citations": [
+      "Finance Act 2023 Sec 24"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q193",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2024 (No. 2)"
+    ],
+    "gold_sections": [
+      "112A"
+    ],
+    "gold_answer": "LTCG tax rate under Section 112A was increased to 12.5% effective 23rd July 2024 by Finance Act 2024 (No. 2).",
+    "expected_citations": [
+      "Finance Act 2024 (No. 2) Sec 19"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q194",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2024 (No. 2)"
+    ],
+    "gold_sections": [
+      "111A"
+    ],
+    "gold_answer": "STCG tax rate under Section 111A was increased to 20% effective 23rd July 2024 by Finance Act 2024 (No. 2).",
+    "expected_citations": [
+      "Finance Act 2024 (No. 2) Sec 18"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q195",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2025"
+    ],
+    "gold_sections": [
+      "87A"
+    ],
+    "gold_answer": "Rebate under Section 87A remains available up to Rs. 7 lakh income under new tax regime in Finance Act 2025.",
+    "expected_citations": [
+      "Finance Act 2025 Sec 12"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q196",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2026"
+    ],
+    "gold_sections": [
+      "First Schedule"
+    ],
+    "gold_answer": "Basic exemption limits and tax rates for Assessment Year 2027-28 are enacted under Finance Act 2026.",
+    "expected_citations": [
+      "Finance Act 2026 Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q197",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2023"
+    ],
+    "gold_sections": [
+      "54"
+    ],
+    "gold_answer": "Section 54 and 54F capital gains exemptions were capped at Rs. 10 crore starting AY 2024-25 by Finance Act 2023.",
+    "expected_citations": [
+      "Finance Act 2023 Sec 27"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q198",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2022"
+    ],
+    "gold_sections": [
+      "139"
+    ],
+    "gold_answer": "Updated return provision under Section 139(8A) was introduced by Finance Act 2022 allowing 2-year filing window.",
+    "expected_citations": [
+      "Finance Act 2022 Sec 35"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q199",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2024 (No. 2)"
+    ],
+    "gold_sections": [
+      "48"
+    ],
+    "gold_answer": "Indexation benefit for real estate LTCG was removed for transfers post 23rd July 2024 by Finance Act 2024 (No. 2).",
+    "expected_citations": [
+      "Finance Act 2024 (No. 2) Sec 14"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q200",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2023"
+    ],
+    "gold_sections": [
+      "56"
+    ],
+    "gold_answer": "Angel tax under Section 56(2)(viib) was extended to non-resident investors by Finance Act 2023.",
+    "expected_citations": [
+      "Finance Act 2023 Sec 19"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q201",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2022"
+    ],
+    "gold_sections": [
+      "194R"
+    ],
+    "gold_answer": "Section 194R business benefit TDS was introduced by Finance Act 2022 effective 1st July 2022.",
+    "expected_citations": [
+      "Finance Act 2022 Sec 42"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q202",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2022"
+    ],
+    "gold_sections": [
+      "194S"
+    ],
+    "gold_answer": "Section 194S VDA TDS was introduced by Finance Act 2022 effective 1st July 2022.",
+    "expected_citations": [
+      "Finance Act 2022 Sec 43"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q203",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2023"
+    ],
+    "gold_sections": [
+      "194BA"
+    ],
+    "gold_answer": "Online gaming TDS under Section 194BA was enacted by Finance Act 2023 effective 1st April 2023.",
+    "expected_citations": [
+      "Finance Act 2023 Sec 48"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q204",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2024 (No. 2)"
+    ],
+    "gold_sections": [
+      "First Schedule"
+    ],
+    "gold_answer": "STT rates on F&O trades were increased by Finance Act 2024 (No. 2) effective 1st October 2024.",
+    "expected_citations": [
+      "Finance Act 2024 (No. 2) Schedule"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q205",
+    "category": "TEMPORAL_AMENDMENT",
+    "gold_documents": [
+      "Finance Act 2025"
+    ],
+    "gold_sections": [
+      "80IAC"
+    ],
+    "gold_answer": "Startup incorporation date for Section 80IAC tax holiday was extended to 1st April 2026 by Finance Act 2025.",
+    "expected_citations": [
+      "Finance Act 2025 Sec 21"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q206",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "44AB"
+    ],
+    "gold_answer": "The tax audit report under Section 44AB must be filed by 30th September of the assessment year.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 44AB"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q207",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "31A"
+    ],
+    "gold_answer": "TDS quarterly return due dates under Rule 31A are 31st July, 31st October, 31st January, and 31st May.",
+    "expected_citations": [
+      "Income-tax Rules Rule 31A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q208",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "31"
+    ],
+    "gold_answer": "Form 16 salary TDS certificate must be issued by 15th June per Rule 31.",
+    "expected_citations": [
+      "Income-tax Rules Rule 31"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q209",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "31"
+    ],
+    "gold_answer": "Form 16A must be issued within 15 days of quarterly TDS return filing deadline under Rule 31.",
+    "expected_citations": [
+      "Income-tax Rules Rule 31"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q210",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "114"
+    ],
+    "gold_answer": "PAN application is filed in Form 49A per procedure under Rule 114.",
+    "expected_citations": [
+      "Income-tax Rules Rule 114"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q211",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "114AAA"
+    ],
+    "gold_answer": "Unlinked PAN becomes inoperative leading to higher TDS and withheld refunds under Rule 114AAA.",
+    "expected_citations": [
+      "Income-tax Rules Rule 114AAA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q212",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "21AA"
+    ],
+    "gold_answer": "Form 10E must be electronically submitted prior to tax return filing to claim Section 89 relief under Rule 21AA.",
+    "expected_citations": [
+      "Income-tax Rules Rule 21AA"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q213",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "128"
+    ],
+    "gold_answer": "Form 67 must be filed on or before tax return due date to claim Foreign Tax Credit under Rule 128.",
+    "expected_citations": [
+      "Income-tax Rules Rule 128"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q214",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "211"
+    ],
+    "gold_answer": "Advance tax payment due dates under Section 211 are 15th June (15%), 15th Sep (45%), 15th Dec (75%), 15th Mar (100%).",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 211"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q215",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "139"
+    ],
+    "gold_answer": "Section 139(8A) allows 24-month filing with 25%/50% additional tax under Section 140B.",
+    "expected_citations": [
+      "Income-tax Act, 2025 Sec 139",
+      "Income-tax Act, 2025 Sec 140B"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q216",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "114E"
+    ],
+    "gold_answer": "Form 61A SFT annual statement must be filed by 31st May per Rule 114E.",
+    "expected_citations": [
+      "Income-tax Rules Rule 114E"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q217",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "29C"
+    ],
+    "gold_answer": "Nil TDS self-declarations Form 15G/15H must be processed per Rule 29C.",
+    "expected_citations": [
+      "Income-tax Rules Rule 29C"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q218",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "17A"
+    ],
+    "gold_answer": "Charitable trust registration application is submitted in Form 10A per Rule 17A.",
+    "expected_citations": [
+      "Income-tax Rules Rule 17A"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q219",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "Income-tax Rules"
+    ],
+    "gold_sections": [
+      "17B"
+    ],
+    "gold_answer": "Charitable trust audit report must be filed in Form 10B/10BB per Rule 17B.",
+    "expected_citations": [
+      "Income-tax Rules Rule 17B"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q220",
+    "category": "PROCEDURAL_COMPLIANCE",
+    "gold_documents": [
+      "CBDT Circular 1/2026"
+    ],
+    "gold_sections": [
+      "1"
+    ],
+    "gold_answer": "Foreign Portfolio Investor compliance deadline is extended to 30th June 2026 under CBDT Circular 1/2026.",
+    "expected_citations": [
+      "CBDT Circular 1/2026 Para 4"
+    ],
+    "expected_corpus_status": "SUPPORTED"
+  },
+  {
+    "question_id": "Q221",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The retrieved legal context does not contain sufficient information to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  },
+  {
+    "question_id": "Q222",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  },
+  {
+    "question_id": "Q223",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  },
+  {
+    "question_id": "Q224",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  },
+  {
+    "question_id": "Q225",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  },
+  {
+    "question_id": "Q226",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  },
+  {
+    "question_id": "Q227",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  },
+  {
+    "question_id": "Q228",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  },
+  {
+    "question_id": "Q229",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  },
+  {
+    "question_id": "Q230",
+    "category": "AMENDMENT_COMPARISON",
+    "gold_documents": [
+      "Income-tax Act, 2025"
+    ],
+    "gold_sections": [
+      "None"
+    ],
+    "gold_answer": "The provided legal context is insufficient to answer this question reliably.",
+    "expected_citations": [],
+    "expected_corpus_status": "UNSUPPORTED"
+  }
+]

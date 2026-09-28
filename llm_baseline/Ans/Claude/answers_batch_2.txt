@@ -1,0 +1,99 @@
+Q051: VRS exemption is generally available to employees of specified undertakings (public sector companies, other companies, authorities, cooperative societies, universities, IITs, local authorities, etc.) who retire under a voluntary retirement/separation scheme meeting prescribed guidelines, exempt up to a specified monetary ceiling (historically Rs. 5 lakh under old S.10(10C)). Exact 2025 Act eligibility conditions/ceiling not confirmed.
+
+Q052: HRA exemption is generally available to salaried employees who receive HRA as part of salary and actually pay rent for residential accommodation, exempt to the extent of the least of: actual HRA received, rent paid minus 10% of salary, or 50%/40% of salary depending on city (metro/non-metro). Exact 2025 Act section and current percentages not confirmed.
+
+Q053: Medical insurance premium deduction is generally available to individuals and HUFs paying premium for health insurance of self, spouse, dependent children, or parents, with additional limits for senior citizens (analogous to old Section 80D). Exact 2025 Act limits not confirmed.
+
+Q054: Deduction for maintenance/medical treatment of a dependent with disability is generally available to individuals/HUFs, with a higher deduction for severe disability, regardless of actual expenditure amount (analogous to old Section 80DD). This is a flat deduction, not "interest on" medical treatment — I flag that the question's framing ("interest on handicap medical treatment") appears inaccurate; the provision covers a fixed deduction, not interest. Exact 2025 Act limits not confirmed.
+
+Q055: Deduction for interest on loan taken for higher education is generally available to individuals (for self, spouse, children, or a student for whom they are legal guardian), for a specified number of years starting from repayment commencement, with no upper monetary cap on interest (analogous to old Section 80E). Exact 2025 Act conditions not confirmed.
+
+Q056: Deduction for interest on loan for purchase of electric vehicle is generally available to individuals, subject to loan sanction within a specified period from a financial institution/NBFC, up to a specified monetary ceiling (historically Rs. 1.5 lakh under old Section 80EEB). Exact 2025 Act eligibility window/limit not confirmed (this incentive may also have lapsed depending on sanction-date cutoffs).
+
+Q057: Deduction for donations for scientific research or rural development is generally available to any assessee, for sums paid to approved research associations, universities, colleges, or specified institutions/rural development programs (analogous to old Section 80GGA), generally with 100% deduction, subject to conditions and typically not available if the assessee has business income eligible for other similar deductions. Exact 2025 Act conditions not confirmed.
+
+Q058: Deduction for contributions to political parties/electoral trusts is generally available to any assessee other than local authorities and certain government-funded entities, but not by way of cash payment (analogous to old Section 80GGC), with 100% deduction of the sum contributed. Exact 2025 Act conditions not confirmed.
+
+Q059: Deduction for additional employee cost (new employment generation) is generally available to businesses subject to tax audit, employing new employees meeting specified conditions (minimum employment period, salary threshold, mode of payment), allowing an additional deduction (historically 30% of additional employee cost for 3 years under old Section 80JJAA). Exact 2025 Act conditions/percentage not confirmed.
+
+Q060: Deduction for royalty income on patents is generally available to resident individuals who are patentees (or co-patentees) registered under the Patents Act, 1970, deriving royalty income, up to a specified monetary ceiling (historically Rs. 3 lakh under old Section 80RRB). Exact 2025 Act limit not confirmed.
+
+Q061: Deduction for interest on savings bank account is generally available to individuals and HUFs (not to those already claiming Section 80TTB), up to a specified ceiling (historically Rs. 10,000 under old Section 80TTA). Exact 2025 Act limit not confirmed.
+
+Q062: Deduction for interest on deposits (savings/fixed) is generally available to senior citizen resident individuals, up to a specified ceiling (historically Rs. 50,000 under old Section 80TTB), in lieu of the lower Section 80TTA-type deduction. Exact 2025 Act limit not confirmed.
+
+Q063: Presumptive taxation for business income is generally available to resident individuals, HUFs, and partnership firms (excluding LLPs) engaged in eligible businesses with turnover below a specified threshold (historically Rs. 2 crore, with an enhanced threshold for cash-light businesses under recent amendments), presuming income at a specified percentage of turnover (analogous to old Section 44AD). Exact 2025 Act thresholds/percentages not confirmed.
+
+Q064: Presumptive taxation for specified professions is generally available to resident individuals (and certain firms, excluding LLPs) in specified professions (legal, medical, engineering, architectural, accountancy, technical consultancy, interior decoration, etc.) with gross receipts below a specified threshold, presuming income at a specified percentage (historically 50% under old Section 44ADA). Exact 2025 Act thresholds/percentage not confirmed.
+
+Q065: Presumptive taxation for goods carriage business is generally available to assessees owning not more than a specified number of goods carriages during the year, presuming income per vehicle per month (analogous to old Section 44AE). Exact 2025 Act vehicle limit/per-vehicle amount not confirmed.
+
+Q066: Tax holiday for eligible startups is generally available to companies/LLPs recognized as "eligible startups" (incorporated within a specified window, meeting turnover and innovation/scalability conditions as notified by DPIIT), allowing 100% profit deduction for 3 consecutive years out of a specified initial block of years (analogous to old Section 80-IAC). Exact 2025 Act incorporation-window cutoff and conditions not confirmed (this is an area that gets extended/amended frequently via Finance Acts).
+
+Q067: Deduction for deposits in a Tea Development Account is generally available to assessees carrying on business of growing and manufacturing tea in India, for amounts deposited with NABARD/a specified account under an approved scheme (analogous to old Section 33AB). Exact 2025 Act conditions/percentage limit not confirmed.
+
+Q068: Deduction for deposits in a Site Restoration Fund is generally available to assessees carrying on business of prospecting for, or extraction/production of, petroleum or natural gas in India under an agreement with the Central Government, for amounts deposited with SBI/a specified account (analogous to old Section 33ABA). Exact 2025 Act conditions/percentage limit not confirmed.
+
+Q069: Amortization of expenditure on obtaining a telecommunication license is generally available to assessees who have incurred capital expenditure for acquiring a license to operate telecommunication services, allowing deduction spread over the license period (analogous to old Section 35ABB). Exact 2025 Act conditions not confirmed.
+
+Q070: Deduction for expenditure on notified agricultural extension projects is generally available to assessees carrying on business, for expenditure incurred on notified agricultural extension projects, historically at 100%/150% of expenditure (analogous to old Section 35CCC). Exact 2025 Act percentage not confirmed.
+
+Q071: Deduction for expenditure on notified skill development projects is generally available to companies (and possibly other assessees) for expenditure on notified skill development projects (analogous to old Section 35CCD), historically with a weighted deduction (100%/150%) for companies specifically. Exact 2025 Act eligibility/percentage not confirmed.
+
+Q072: Amortization of preliminary expenses (e.g., project report, feasibility study, incorporation expenses) is generally available to Indian companies and resident non-corporate assessees, for specified expenditure incurred before commencement of business or in connection with extension/new unit, spread over a specified number of years (historically 5 years, subject to a cap based on cost of project/capital employed, under old Section 35D). Exact 2025 Act limits not confirmed.
+
+Q073: Amortization of expenditure incurred wholly for the purpose of amalgamation or demerger is generally available to Indian companies, spread over a specified number of years (historically 5 years under old Section 35DD). Exact 2025 Act conditions not confirmed.
+
+Q074: Amortization of expenditure incurred on voluntary retirement scheme payments is generally available to employers (any assessee), spread over a specified number of years (historically 5 equal annual installments under old Section 35DDA), separate from the employee-side exemption under (old) Section 10(10C). Exact 2025 Act conditions not confirmed.
+
+Q075: Deduction for bonus or commission paid to employees is generally available to any assessee carrying on business/profession, provided the sum would not have been payable as profit/dividend if not paid as bonus/commission (i.e., not a disguised distribution of profits), and subject to actual payment before the return filing due date (analogous to old Section 36(1)(ii) read with Section 43B). Exact 2025 Act clause not confirmed.
+
+Q076: Deduction for bad debts is generally available to any assessee carrying on business/profession, for debts (or part thereof) written off as irrecoverable in the accounts, provided the debt/its income was taken into account in computing income of the current or an earlier year (or represents money lent in the ordinary course of banking/money-lending business) (analogous to old Section 36(1)(vii)). Exact 2025 Act clause not confirmed.
+
+Q077: Deduction for expenditure on family planning promotion among employees is generally available only to companies, for bona fide capital/revenue expenditure incurred for promoting family planning among employees (capital expenditure amortized over 5 years) (analogous to old Section 36(1)(ix)). Exact 2025 Act clause not confirmed.
+
+Q078: Deduction for Securities Transaction Tax (STT) paid is generally available to assessees who treat income from securities transactions as business income (trading in securities), allowing STT paid to be deducted as a business expense (analogous to old Section 36(1)(xv)). Exact 2025 Act clause not confirmed.
+
+Q079: I do not have confident, verifiable recall of a "Rule 11CB" under Income-tax Rules governing indirect transfer valuation with this exact numbering — under the old Rules, Rule 11UA/11UB dealt with valuation for indirect transfer/FMV purposes. I don't want to fabricate the specific eligibility conditions for a rule I can't verify as "11CB."
+
+Q080: I cannot answer this. I have no reliable record of "CBDT Circular 3/2026" or its claimed TDS clarification content, and I should not fabricate the content of a specific circular I cannot verify.
+
+Q081: I am not confident of the exact current standard deduction amount under Section 202 of the 2025 Act. Recent Finance Acts have set the salary standard deduction at Rs. 50,000 (old regime) and Rs. 75,000 (new regime) in recent years, but I cannot confirm which figure (if either) is codified as the 2025 Act's Section 202 amount, since this changes via Finance Acts frequently.
+
+Q082: TDS on professional/technical fees is generally deducted at 10% (2% for certain technical services/call centre payments in recent years) where payment exceeds a threshold (historically Rs. 30,000 per payee per year under old Section 194J). Exact 2025 Act threshold/rate not confirmed.
+
+Q083: TDS on payments to contractors is generally deducted at 1% (individual/HUF payee) or 2% (other payees), where a single payment exceeds a threshold (historically Rs. 30,000) or aggregate payments in the year exceed a threshold (historically Rs. 1,00,000) under old Section 194C. Exact 2025 Act thresholds/rates not confirmed.
+
+Q084: TDS on interest other than interest on securities is generally deducted at 10%, where interest paid/credited by a payer exceeds a threshold (historically Rs. 40,000, Rs. 50,000 for senior citizens, for bank/post office deposits) under old Section 194A. Exact 2025 Act threshold/rate not confirmed.
+
+Q085: TDS on rent is generally deducted at 10% (land/building/furniture) or 2% (plant/machinery/equipment), where rent paid/payable in a year exceeds a threshold (historically Rs. 2,40,000 under old Section 194-I, raised in recent years). Exact 2025 Act threshold/rates not confirmed.
+
+Q086: TDS on payment for transfer of immovable property (other than agricultural land) is generally deducted at 1%, where the consideration (or stamp duty value) exceeds a threshold (historically Rs. 50 lakh under old Section 194-IA). Exact 2025 Act threshold/rate not confirmed.
+
+Q087: TDS on rent paid by individuals/HUFs not otherwise subject to tax audit is generally deducted at 5% (reduced to 2% in recent Finance Acts), where monthly rent exceeds a threshold (historically Rs. 50,000 per month under old Section 194-IB). Exact 2025 Act threshold/rate not confirmed.
+
+Q088: TDS on purchase of goods is generally deducted at 0.1% of purchase value exceeding a threshold (historically Rs. 50 lakh in aggregate from a seller in the year) by buyers with turnover above a specified limit in the preceding year (historically Rs. 10 crore under old Section 194Q). Exact 2025 Act thresholds/rate not confirmed.
+
+Q089: TCS on sale of goods is generally collected at 0.1% of sale consideration exceeding a threshold (historically Rs. 50 lakh in aggregate from a buyer in the year) by sellers with turnover above a specified limit in the preceding year (historically Rs. 10 crore under old Section 206C(1H)). Exact 2025 Act thresholds/rate not confirmed.
+
+Q090: TCS on remittances under the Liberalised Remittance Scheme (LRS) is generally collected at a specified rate (historically 20% for most purposes above a threshold, with a lower rate/exemption for education loan-funded remittances and a threshold of Rs. 7 lakh in aggregate per year, under old Section 206C(1G)). Exact 2025 Act thresholds/rates not confirmed (these have changed multiple times via recent Finance Acts).
+
+Q091: TDS at a higher rate for non-furnishing of PAN is generally deducted at the higher of: the rate specified in the relevant provision, 20%, or the rate in force, under old Section 206AA. Exact 2025 Act clause not confirmed.
+
+Q092: A higher TDS/TCS rate for "specified persons" who have not filed income tax returns for a specified period (subject to a minimum TDS/TCS threshold in each of those years) is generally prescribed (analogous to old Section 206AB, generally requiring deduction at higher of twice the specified rate or 5%). Note: Section 206AB was omitted/simplified in recent Finance Acts (merged into a unified non-filer higher-rate framework), so I am not confident this provision survives in its old form under the 2025 Act; exact current status not confirmed.
+
+Q093: I am not confident of the current basic exemption limit for senior citizens (60-80 years) under the applicable Finance Act's First Schedule; under the old tax regime this was historically Rs. 3,00,000, but under the new regime a common slab structure (without special senior citizen exemption) has generally applied in recent years. Cannot confirm the 2026 figure.
+
+Q094: I am not confident of the current basic exemption limit for super senior citizens (80+ years); under the old tax regime this was historically Rs. 5,00,000. Cannot confirm the 2026 figure or whether this old-regime-style differentiation persists.
+
+Q095: The Section 87A rebate for the new tax regime has increased in recent Finance Acts (making total income up to a specified threshold effectively tax-free, historically total income up to Rs. 7 lakh with rebate up to Rs. 25,000, later reportedly enhanced further). I do not have a confident, verified figure for the exact current threshold/rebate amount under the 2025/2026 framework, so I won't state a specific number.
+
+Q096: I am not confident of the exact current surcharge threshold(s) for high-income individuals (historically surcharge applied in slabs starting from total income above Rs. 50 lakh, with increasing rates at Rs. 1 crore, Rs. 2 crore, and Rs. 5 crore). Cannot confirm 2026 figures.
+
+Q097: I am not confident of the exact maximum surcharge rate under the new tax regime; in recent years the maximum surcharge under the new regime was capped at 25% (compared to up to 37% under the old regime), but I cannot confirm this is still current for 2026.
+
+Q098: Health and Education Cess has generally been levied at 4% of income-tax plus surcharge in recent years; I cannot fully confirm this remains unchanged for 2026.
+
+Q099: The concessional corporate tax rate for new domestic manufacturing companies is generally 15% (plus applicable surcharge and cess) for companies satisfying specified conditions (incorporated after a specified date, commencing manufacturing by a specified deadline, not availing specified other deductions/incentives), analogous to old Section 115BAB. Exact 2025 Act conditions/deadlines not confirmed (the commencement deadline has been extended multiple times via Finance Acts).
+
+Q100: The concessional corporate tax rate under Section 115BAA is generally 22% (plus applicable surcharge and cess) for domestic companies opting in and foregoing specified deductions/exemptions, with no sunset/incorporation-date restriction (unlike Section 115BAB). Exact 2025 Act clause/conditions not confirmed.

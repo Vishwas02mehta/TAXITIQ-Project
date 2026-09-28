@@ -1,0 +1,134 @@
+{
+  "model_success_rate_comparison.png": {
+    "status": "VERIFIED",
+    "point_estimates": [
+      43.33,
+      71.67
+    ],
+    "ci_lower": [
+      31.67,
+      60.0
+    ],
+    "ci_upper": [
+      56.67,
+      83.33
+    ]
+  },
+  "success_rate_by_category.png": {
+    "status": "VERIFIED",
+    "categories": [
+      "Definition",
+      "Section Lookup",
+      "Eligibility",
+      "Deduction",
+      "Rate",
+      "Deadline",
+      "Penalty",
+      "Cross Section",
+      "Out Of Corpus"
+    ],
+    "qwen2_5_rates": [
+      7.0,
+      3.0,
+      0.0,
+      4.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      5.0
+    ],
+    "qwen3_rates": [
+      70.0,
+      37.5,
+      0.0,
+      50.0,
+      33.33,
+      40.0,
+      40.0,
+      20.0,
+      100.0
+    ]
+  },
+  "success_rate_by_formulation.png": {
+    "status": "VERIFIED",
+    "formulations": [
+      "LEXICAL",
+      "PARAPHRASED",
+      "REASONING"
+    ],
+    "qwen2_5_rates": [
+      37.5,
+      46.81,
+      20.0
+    ],
+    "qwen3_rates": [
+      75.0,
+      76.6,
+      20.0
+    ]
+  },
+  "supported_refusal_comparison.png": {
+    "status": "VERIFIED",
+    "formulations": [
+      "LEXICAL",
+      "PARAPHRASED",
+      "REASONING"
+    ],
+    "qwen2_5_rates": [
+      50.0,
+      47.62,
+      80.0
+    ],
+    "qwen3_rates": [
+      0.0,
+      9.52,
+      0.0
+    ]
+  },
+  "retrieval_recall_at_k.png": {
+    "status": "VERIFIED",
+    "ks": [
+      1,
+      5,
+      10,
+      30
+    ],
+    "vector_recalls": [
+      61.82,
+      83.64,
+      87.27,
+      94.55
+    ],
+    "bm25_recalls": [
+      34.55,
+      61.82,
+      67.27,
+      80.0
+    ],
+    "hybrid_recalls": [
+      74.55,
+      83.64,
+      85.45,
+      94.55
+    ]
+  },
+  "threshold_sensitivity.png": {
+    "status": "VERIFIED",
+    "thresholds": [
+      0.4,
+      0.5,
+      0.6
+    ],
+    "qwen2_5_rates": [
+      43.33,
+      43.33,
+      35.0
+    ],
+    "qwen3_rates": [
+      76.67,
+      71.67,
+      68.33
+    ]
+  }
+}

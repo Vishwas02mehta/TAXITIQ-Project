@@ -1,0 +1,77 @@
+{
+  "query": "What is assessment year?",
+  "corpus_assessment_year_occurrences": 0,
+  "corpus_assessment_year_details": [],
+  "corpus_tax_year_occurrences": 848,
+  "corpus_tax_year_details": [
+    {
+      "chunk_index": 33,
+      "chunk_id": "2c9fc3462e7fe16ff0868507944fa78d",
+      "section": "3",
+      "title": "More than 1000000. Eight kilometres;"
+    },
+    {
+      "chunk_index": 41,
+      "chunk_id": "c2de7ff90befcb4e923d0f7c55eeed6b",
+      "section": "3",
+      "title": "More than 1000000. Eight kilometres;"
+    },
+    {
+      "chunk_index": 42,
+      "chunk_id": "8f96cad849ab3d97f5bc572756cd5bbb",
+      "section": "3",
+      "title": "More than 1000000. Eight kilometres;"
+    },
+    {
+      "chunk_index": 59,
+      "chunk_id": "5ce68b78eb5a3d06c087b38d2c142c4c",
+      "section": "68",
+      "title": "of the Companies Act, 2013 (18 of 2013),\u2019"
+    },
+    {
+      "chunk_index": 115,
+      "chunk_id": "cb0c6830585ba57460a3a2278677bb80",
+      "section": "3",
+      "title": "Substituted by the Finance Act, 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-clause"
+    },
+    {
+      "chunk_index": 116,
+      "chunk_id": "15138b04ea3c9e611fe9807245830750",
+      "section": "3",
+      "title": "Substituted by the Finance Act, 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-clause"
+    },
+    {
+      "chunk_index": 126,
+      "chunk_id": "ba7424ede05b6061d0ffdd01d9579f18",
+      "section": "3",
+      "title": "Substituted by the Finance Act, 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-clause"
+    },
+    {
+      "chunk_index": 147,
+      "chunk_id": "1d523de08b2edfb30edc4f7d91d62c7f",
+      "section": "3",
+      "title": "Substituted by the Finance Act, 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-clause"
+    },
+    {
+      "chunk_index": 148,
+      "chunk_id": "c8db628f722a24a26249551ea7d09052",
+      "section": "3",
+      "title": "(1) For the purposes of this Act, \u201ctax year\u201d means the twelve months period"
+    },
+    {
+      "chunk_index": 149,
+      "chunk_id": "6597574c8acb9cee0ada65dd0b55f4bf",
+      "section": "3",
+      "title": "(1) For the purposes of this Act, \u201ctax year\u201d means the twelve months period"
+    }
+  ],
+  "tax_year_definition_exists": true,
+  "tax_year_definition_chunk_id": "6597574c8acb9cee0ada65dd0b55f4bf",
+  "preliminary_notes": "No occurrences of the phrase 'assessment year' in the Income-tax Act 2025 corpus. The term 'tax year' is defined in Section 3(1).",
+  "retrieval_stage": "PENDING_FULL_EVALUATION",
+  "reranker_stage": "PENDING_FULL_EVALUATION",
+  "context_assembly_stage": "PENDING_FULL_EVALUATION",
+  "qwen2_5_response": "PENDING_FULL_EVALUATION",
+  "qwen3_response": "PENDING_FULL_EVALUATION",
+  "assessment_year_failure_stage": "PENDING_FULL_EVALUATION"
+}

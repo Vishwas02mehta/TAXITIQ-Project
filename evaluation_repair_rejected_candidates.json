@@ -1,0 +1,26 @@
+[
+  {
+    "candidate_id": "RC01",
+    "candidate_sections": ["2"],
+    "candidate_chunk_ids": ["38b4cbc3e663243a05f7646ba22b8624"],
+    "rejection_reason": "SINGLE_EVIDENCE_SUFFICIENT"
+  },
+  {
+    "candidate_id": "RC02",
+    "candidate_sections": ["459"],
+    "candidate_chunk_ids": ["22f3e827b55fbcbe0a65ddb550ab4c60"],
+    "rejection_reason": "SINGLE_EVIDENCE_SUFFICIENT"
+  },
+  {
+    "candidate_id": "RC03",
+    "candidate_sections": ["3"],
+    "candidate_chunk_ids": ["6597574c8acb9cee0ada65dd0b55f4bf", "678e0ad65efbc67be21a56dd099fb4c0"],
+    "rejection_reason": "EVIDENCE_DEPENDENCY_NOT_MATERIAL"
+  },
+  {
+    "candidate_id": "RC04",
+    "candidate_sections": ["459"],
+    "candidate_chunk_ids": ["5efbc65a0ad4be6a17b5fbc990eb4c7a", "147ef5ab06cee89bdeac2b56dd0ab21e"],
+    "rejection_reason": "OVERREPRESENTED_SECTION"
+  }
+]

@@ -1,0 +1,5 @@
+Model,Type,Accuracy (%),Hallucination Rate (%),Grounding (%),Citation (%),Temporal (%)
+Claude Sonnet 4,Standalone LLM,1.74,25.22,64.74,49.55,8.0
+Gemini 2.5 Flash,Standalone LLM,24.35,24.78,72.17,70.45,36.0
+ChatGPT (GPT-4.1),Standalone LLM,21.74,23.91,54.35,52.27,40.0
+TAXITIQ (Full RAG),RAG System,97.39,0.0,98.7,48.04,97.39

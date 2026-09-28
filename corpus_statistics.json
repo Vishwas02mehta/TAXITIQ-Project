@@ -1,0 +1,16 @@
+{
+  "num_acts": 1,
+  "num_rules": 1,
+  "num_finance_acts": 658,
+  "num_circulars": 6,
+  "num_notifications": 0,
+  "total_pdfs": 666,
+  "total_pages": 2145,
+  "total_sections": 1416,
+  "total_chunks": 5108,
+  "avg_chunks_per_document": 7.67,
+  "avg_tokens_per_chunk": 174.92,
+  "median_tokens_per_chunk": 171.0,
+  "embedding_dimension": 1024,
+  "vocabulary_size": 27546
+}

@@ -1,0 +1,7 @@
+experiment,pipeline_name,bm25_enabled,dense_enabled,rrf_enabled,metadata_boost_enabled,reranker_enabled,generator,accuracy_pct,grounding_accuracy_pct,correct_count,incorrect_count,avg_retrieval_time_ms,avg_generation_time_ms,avg_total_latency_ms,avg_citation_precision,avg_doc_recall,avg_sec_recall,recall_at_1,recall_at_3,recall_at_5,recall_at_10,mrr,ndcg
+exp1_bm25,BM25 Only,True,False,False,False,False,qwen3:8b,96.09,96.96,221,9,98.42,3013.59,3112.01,0.4087,0.8674,0.6109,0.713,0.8717,0.9109,0.9609,0.8065,0.9353
+exp2_dense,Dense Retrieval Only,False,True,False,False,False,qwen3:8b,99.13,99.57,228,2,928.84,3011.98,3940.82,0.3674,0.913,0.4891,0.8217,0.937,0.9739,0.9891,0.8876,0.98
+exp3_hybrid,Hybrid Retrieval (BM25 + Dense + RRF),True,True,True,False,False,qwen3:8b,97.39,97.83,224,6,1074.9,3011.19,4086.09,0.3804,0.9065,0.5543,0.8043,0.9065,0.9348,0.9739,0.8663,0.9549
+exp4_hybrid_meta,Hybrid + Metadata Boost,True,True,True,True,False,qwen3:8b,97.39,97.83,224,6,1248.63,3011.87,4260.5,0.3761,0.9022,0.5652,0.8261,0.9109,0.9261,0.9739,0.8788,0.9598
+exp5_hybrid_rerank,Hybrid + Reranker,True,True,True,False,True,qwen3:8b,97.39,98.7,224,6,19174.0,3011.81,22185.81,0.4652,0.9065,0.5543,0.8783,0.9326,0.9478,0.9739,0.9101,0.957
+exp6_full_taxitiq,Full TAXITIQ,True,True,True,True,True,qwen3:8b,97.39,98.7,224,6,18793.4,3012.69,21806.09,0.4804,0.9022,0.5652,0.887,0.937,0.9522,0.9739,0.9169,0.9617

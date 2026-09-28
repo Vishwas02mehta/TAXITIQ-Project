@@ -1,0 +1,71 @@
+{
+  "LEXICAL": {
+    "vector": {
+      "recall_any_1": 0.875,
+      "recall_any_5": 1.0,
+      "recall_any_10": 1.0,
+      "recall_any_30": 1.0,
+      "mrr": 0.9375
+    },
+    "bm25": {
+      "recall_any_1": 0.25,
+      "recall_any_5": 0.875,
+      "recall_any_10": 0.875,
+      "recall_any_30": 1.0,
+      "mrr": 0.46875
+    },
+    "hybrid": {
+      "recall_any_1": 0.875,
+      "recall_any_5": 1.0,
+      "recall_any_10": 1.0,
+      "recall_any_30": 1.0,
+      "mrr": 0.9375
+    }
+  },
+  "PARAPHRASED": {
+    "vector": {
+      "recall_any_1": 0.5238095238095238,
+      "recall_any_5": 0.7857142857142857,
+      "recall_any_10": 0.8333333333333334,
+      "recall_any_30": 0.9285714285714286,
+      "mrr": 0.6331139702257714
+    },
+    "bm25": {
+      "recall_any_1": 0.38095238095238093,
+      "recall_any_5": 0.5714285714285714,
+      "recall_any_10": 0.6190476190476191,
+      "recall_any_30": 0.7380952380952381,
+      "mrr": 0.4801236802964914
+    },
+    "hybrid": {
+      "recall_any_1": 0.6904761904761905,
+      "recall_any_5": 0.7857142857142857,
+      "recall_any_10": 0.8095238095238095,
+      "recall_any_30": 0.9285714285714286,
+      "mrr": 0.7391234524112675
+    }
+  },
+  "REASONING": {
+    "vector": {
+      "recall_any_1": 1.0,
+      "recall_any_5": 1.0,
+      "recall_any_10": 1.0,
+      "recall_any_30": 1.0,
+      "mrr": 1.0
+    },
+    "bm25": {
+      "recall_any_1": 0.2,
+      "recall_any_5": 0.6,
+      "recall_any_10": 0.8,
+      "recall_any_30": 1.0,
+      "mrr": 0.3458333333333333
+    },
+    "hybrid": {
+      "recall_any_1": 1.0,
+      "recall_any_5": 1.0,
+      "recall_any_10": 1.0,
+      "recall_any_30": 1.0,
+      "mrr": 1.0
+    }
+  }
+}

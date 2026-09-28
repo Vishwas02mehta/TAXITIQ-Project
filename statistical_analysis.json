@@ -1,0 +1,254 @@
+{
+  "mcnemar_vs_baseline": {
+    "exp1_bm25_vs_exp2_dense": {
+      "statistic": 5.1429,
+      "p_value": 0.023342,
+      "significant": true,
+      "contingency_table": [
+        [
+          221,
+          7
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    },
+    "exp1_bm25_vs_exp3_hybrid": {
+      "statistic": 1.3333,
+      "p_value": 0.248213,
+      "significant": false,
+      "contingency_table": [
+        [
+          221,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ]
+    },
+    "exp1_bm25_vs_exp4_hybrid_meta": {
+      "statistic": 1.3333,
+      "p_value": 0.248213,
+      "significant": false,
+      "contingency_table": [
+        [
+          221,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ]
+    },
+    "exp1_bm25_vs_exp5_hybrid_rerank": {
+      "statistic": 1.3333,
+      "p_value": 0.248213,
+      "significant": false,
+      "contingency_table": [
+        [
+          221,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ]
+    },
+    "exp1_bm25_vs_exp6_full_taxitiq": {
+      "statistic": 1.3333,
+      "p_value": 0.248213,
+      "significant": false,
+      "contingency_table": [
+        [
+          221,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  },
+  "mcnemar_stepwise": {
+    "exp1_bm25_vs_exp2_dense": {
+      "statistic": 5.1429,
+      "p_value": 0.023342,
+      "significant": true,
+      "contingency_table": [
+        [
+          221,
+          7
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    },
+    "exp2_dense_vs_exp3_hybrid": {
+      "statistic": 2.25,
+      "p_value": 0.133614,
+      "significant": false,
+      "contingency_table": [
+        [
+          224,
+          0
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    },
+    "exp3_hybrid_vs_exp4_hybrid_meta": {
+      "statistic": 0.0,
+      "p_value": 1.0,
+      "significant": false,
+      "contingency_table": [
+        [
+          224,
+          0
+        ],
+        [
+          0,
+          6
+        ]
+      ]
+    },
+    "exp4_hybrid_meta_vs_exp5_hybrid_rerank": {
+      "statistic": 0.0,
+      "p_value": 1.0,
+      "significant": false,
+      "contingency_table": [
+        [
+          224,
+          0
+        ],
+        [
+          0,
+          6
+        ]
+      ]
+    },
+    "exp5_hybrid_rerank_vs_exp6_full_taxitiq": {
+      "statistic": 0.0,
+      "p_value": 1.0,
+      "significant": false,
+      "contingency_table": [
+        [
+          224,
+          0
+        ],
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  },
+  "bootstrap_and_effect_sizes": {
+    "exp1_bm25": {
+      "pipeline_name": "BM25 Only",
+      "accuracy_pct": 96.09,
+      "bootstrap_ci_95": {
+        "mean": 0.9609,
+        "ci_lower": 0.9348,
+        "ci_upper": 0.9826
+      },
+      "cohens_h_vs_baseline": 0.0,
+      "latency": {
+        "total_mean_ms": 3112.01,
+        "total_std_ms": 81.54,
+        "retrieval_mean_ms": 98.42,
+        "generation_mean_ms": 3013.59
+      }
+    },
+    "exp2_dense": {
+      "pipeline_name": "Dense Retrieval Only",
+      "accuracy_pct": 99.13,
+      "bootstrap_ci_95": {
+        "mean": 0.9913,
+        "ci_lower": 0.9783,
+        "ci_upper": 1.0
+      },
+      "cohens_h_vs_baseline": 0.2113,
+      "latency": {
+        "total_mean_ms": 3940.82,
+        "total_std_ms": 451.53,
+        "retrieval_mean_ms": 928.84,
+        "generation_mean_ms": 3011.98
+      }
+    },
+    "exp3_hybrid": {
+      "pipeline_name": "Hybrid Retrieval (BM25 + Dense + RRF)",
+      "accuracy_pct": 97.39,
+      "bootstrap_ci_95": {
+        "mean": 0.9739,
+        "ci_lower": 0.9522,
+        "ci_upper": 0.9913
+      },
+      "cohens_h_vs_baseline": 0.0736,
+      "latency": {
+        "total_mean_ms": 4086.09,
+        "total_std_ms": 626.22,
+        "retrieval_mean_ms": 1074.9,
+        "generation_mean_ms": 3011.19
+      }
+    },
+    "exp4_hybrid_meta": {
+      "pipeline_name": "Hybrid + Metadata Boost",
+      "accuracy_pct": 97.39,
+      "bootstrap_ci_95": {
+        "mean": 0.9739,
+        "ci_lower": 0.9522,
+        "ci_upper": 0.9913
+      },
+      "cohens_h_vs_baseline": 0.0736,
+      "latency": {
+        "total_mean_ms": 4260.5,
+        "total_std_ms": 1213.66,
+        "retrieval_mean_ms": 1248.63,
+        "generation_mean_ms": 3011.87
+      }
+    },
+    "exp5_hybrid_rerank": {
+      "pipeline_name": "Hybrid + Reranker",
+      "accuracy_pct": 97.39,
+      "bootstrap_ci_95": {
+        "mean": 0.9739,
+        "ci_lower": 0.9522,
+        "ci_upper": 0.9913
+      },
+      "cohens_h_vs_baseline": 0.0736,
+      "latency": {
+        "total_mean_ms": 22185.81,
+        "total_std_ms": 2511.42,
+        "retrieval_mean_ms": 19174.0,
+        "generation_mean_ms": 3011.81
+      }
+    },
+    "exp6_full_taxitiq": {
+      "pipeline_name": "Full TAXITIQ",
+      "accuracy_pct": 97.39,
+      "bootstrap_ci_95": {
+        "mean": 0.9739,
+        "ci_lower": 0.9522,
+        "ci_upper": 0.9913
+      },
+      "cohens_h_vs_baseline": 0.0736,
+      "latency": {
+        "total_mean_ms": 21806.09,
+        "total_std_ms": 2658.05,
+        "retrieval_mean_ms": 18793.4,
+        "generation_mean_ms": 3012.69
+      }
+    }
+  }
+}

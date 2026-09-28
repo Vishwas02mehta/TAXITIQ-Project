@@ -1,0 +1,46 @@
+{
+  "analysis_timestamp": "2026-07-15 13:34:24",
+  "scoring_policy_name": "INDIALAWRAG_SCORING_V2",
+  "primary_threshold": 0.5,
+  "input_files_sha256": {
+    "evaluation_results_rescored_v2.json": "90783596266c2663f81f9896a296d646e30f2afa5b3fee8f9e79d927ab05bd14",
+    "evaluation_results.json": "48648ec1d6a9d102e23e629e17d02c0317b88180d0cd2a7c146bd81a4293c1a8",
+    "evaluation_dataset.json": "05b26d2e59c4119d064c94da98688979ff70ae1a491bcd564c0aaa988ec1c629",
+    "evaluation_summary_rescored_v2.json": "740d72e92708a63df3b149385182c8580de6d172465221852fccf3d19096fbf4",
+    "evaluation_scoring_manifest_v2.json": "5efc1aac09ebe8df6b354b40478b1a632b70a2ade186b02fce8711a5d4b29b93",
+    "evaluation_classification_changes_v2.json": "a2e19eccafe845135ee7e2b9311c65cdf171d6f9dc6bd45838396b5c13edb524"
+  },
+  "frozen_model_outputs_sha256": "b04aa81f64f485546f8d2f6a6be48f6ce06e1096f14500e2b49351da289621fe",
+  "paired_matrix": {
+    "a_both_success": 24,
+    "b_q25_succ_q3_fail": 2,
+    "c_q25_fail_q3_succ": 19,
+    "d_both_fail": 15
+  },
+  "mcnemar_exact": {
+    "discordant_pairs": 21,
+    "p_value": 0.00022125244140625,
+    "chi2_stat": 12.19047619047619,
+    "p_corrected": 0.000480341199981871,
+    "statistically_significant": true
+  },
+  "bootstrap_results": {
+    "seed": 42,
+    "iterations": 10000,
+    "qwen2_5_success_rate": {
+      "point_estimate": 0.43333333333333335,
+      "ci_lower_95": 0.31666666666666665,
+      "ci_upper_95": 0.5666666666666667
+    },
+    "qwen3_success_rate": {
+      "point_estimate": 0.7166666666666667,
+      "ci_lower_95": 0.6,
+      "ci_upper_95": 0.8333333333333334
+    },
+    "difference_success_rate": {
+      "point_estimate": 0.2833333333333333,
+      "ci_lower_95": 0.15000000000000002,
+      "ci_upper_95": 0.4166666666666667
+    }
+  }
+}

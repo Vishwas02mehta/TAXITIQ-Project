@@ -1,0 +1,40 @@
+{
+  "project": "TAXITIQ",
+  "version": "2.0.0",
+  "research_question": "How do different retrieval pipeline configurations influence the accuracy, grounding, and efficiency of legal question answering using a fixed large language model?",
+  "environment": {
+    "os": "Windows-11-10.0.26200-SP0",
+    "python_version": "3.14.0",
+    "cpu": "AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",
+    "ram_gb": 15.33,
+    "ollama_host": "http://127.0.0.1:11434",
+    "ollama_version": "0.5.x"
+  },
+  "models": {
+    "embedding_model": "BAAI/bge-large-en-v1.5",
+    "embedding_dimension": 1024,
+    "reranker_model": "BAAI/bge-reranker-large",
+    "generator_model": "qwen3:8b",
+    "fixed_generator_temperature": 0.0
+  },
+  "pipeline_parameters": {
+    "chroma_collection": "indian_tax_law_corpus",
+    "max_chunk_chars": 1200,
+    "chunk_overlap_chars": 150,
+    "top_n_retrieval": 30,
+    "top_n_context": 5,
+    "rrf_k_parameter": 60,
+    "metadata_boost_weights": {
+      "section_match": 0.25,
+      "doc_type_match": 0.1
+    },
+    "random_seed": 42
+  },
+  "checksums": {
+    "parsed_output_sha256": "f5e29aa5ef10a777138025b1374e9bcf7e24b0f116901ee7cfbf87273ef5985b",
+    "chunks_sha256": "b0d5c5237c65f750ba00f79c7e4bb1734f0e7e3a2a4b175b09d6d226940f2c05",
+    "benchmark_questions_v2_sha256": "a2ffb7451f7d16dca4d8d1172e68b47ef6311d9d9120d01a5418dbe35e07a682",
+    "rag_ablation_results_sha256": "ce4446d4c7cdc24604d97634585057d92cedf229f40ecbc42402dec6e7a5e289",
+    "corpus_statistics_sha256": "af474c369bc818ff57813f87afe4e1e77de4a22d0fff744cdae3189140a78956"
+  }
+}

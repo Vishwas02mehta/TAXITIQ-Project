@@ -1,0 +1,28 @@
+{
+  "proposed_moves": [
+    {
+      "old_path": "logs/",
+      "new_path": "logs/",
+      "import_impact": "None",
+      "path_impact": "None",
+      "required_code_change": "None",
+      "risk": "Low (logs should be gitignored)"
+    },
+    {
+      "old_path": "chroma_db/",
+      "new_path": "chroma_db/",
+      "import_impact": "None",
+      "path_impact": "None",
+      "required_code_change": "None",
+      "risk": "Low (chroma_db should be gitignored)"
+    },
+    {
+      "old_path": "paper_*",
+      "new_path": "paper/drafts/*",
+      "import_impact": "None",
+      "path_impact": "None (moved to paper subfolder, code output paths remain unchanged in scripts)",
+      "required_code_change": "None",
+      "risk": "Low"
+    }
+  ]
+}

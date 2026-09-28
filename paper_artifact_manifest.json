@@ -1,0 +1,22 @@
+{
+  "manifest_timestamp": "2026-07-15 13:24:18",
+  "final_status": "PAPER_DRAFT_ARTIFACTS_READY",
+  "self_test_passed": 50,
+  "self_test_failed": 0,
+  "generated_artifacts": [
+    "paper_title_candidates.md",
+    "paper_abstract_draft.md",
+    "paper_contributions.md",
+    "paper_methodology.md",
+    "paper_experimental_setup.md",
+    "paper_results.md",
+    "paper_discussion.md",
+    "paper_limitations.md",
+    "paper_threats_to_validity.md",
+    "paper_conclusion.md",
+    "paper_reproducibility_statement.md",
+    "paper_outline.md",
+    "paper_claims_registry.json",
+    "paper_numbers_registry.json"
+  ]
+}

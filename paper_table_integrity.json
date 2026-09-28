@@ -1,0 +1,32 @@
+{
+  "generator_comparison": {
+    "status": "VERIFIED",
+    "row_count": 2,
+    "source": "evaluation_summary_rescored_v2.json"
+  },
+  "category_analysis": {
+    "status": "VERIFIED",
+    "row_count": 9,
+    "source": "evaluation_results_rescored_v2.json & evaluation_dataset.json"
+  },
+  "formulation_analysis": {
+    "status": "VERIFIED",
+    "row_count": 3,
+    "source": "evaluation_results_rescored_v2.json & evaluation_dataset.json"
+  },
+  "failure_analysis": {
+    "status": "VERIFIED",
+    "row_count": 5,
+    "source": "evaluation_summary_rescored_v2.json"
+  },
+  "statistical_significance": {
+    "status": "VERIFIED",
+    "row_count": 14,
+    "source": "paired McNemar calculations"
+  },
+  "retrieval": {
+    "status": "VERIFIED",
+    "row_count": 9,
+    "source": "evaluation_manifest_pre_rescore.json & retrieval metrics"
+  }
+}
